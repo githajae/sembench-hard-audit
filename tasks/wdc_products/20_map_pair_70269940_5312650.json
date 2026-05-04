@@ -1,0 +1,70 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "pair:70269940#5312650",
+  "task": {
+    "task_type": "hard_map",
+    "pair_id": "70269940#5312650",
+    "left_offer": {
+      "id": 70269940,
+      "brand": null,
+      "title": "Evolis RCT023NAA Black Monochrome Ribbon",
+      "description": "Evolis RCT023NAA Black Monochrome RibbonThe Evolis RCT023NAA Black for the Zenius, Primacy and Elypso ID replaces the RCT011NAA ribbon and yields 2000 prints per ribbon. Specialist ID only carries genuine Evolis Printer supplies, guaranteeing compatibility and maximizing print quality.If you need help finding the correct supplies for your Evolis card printer, please contact us.",
+      "price": "22.00",
+      "price_currency": "USD",
+      "cluster_id": 1794890
+    },
+    "right_offer": {
+      "id": 5312650,
+      "brand": null,
+      "title": "LaCie Mobile Drive 2,5\" 5 TB Moon Silver USB 3.1 Gen 2",
+      "description": "Like an airy loft or vast landscape, LaCie Mobile Drive articulates the beauty and importance of premium space. With up to 5 TB of capacity, there’s room for photos, playlists, docs and more. And with Mac®, Windows®, USB-C, and USB 3.0 compatibility, access is easy.",
+      "price": "199.00",
+      "price_currency": "EUR",
+      "cluster_id": 500837
+    },
+    "gold_label": "non_match",
+    "same_cluster": false,
+    "matched_attribute_hints": [],
+    "conflict_attribute_hints": [
+      "price",
+      "title"
+    ],
+    "policy_text": "Return a normalized match report that is internally consistent. A match requires the same core product, not only a nearby accessory or variant.",
+    "gold_basis": "insufficient_support",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 30102088,
+        "brand": null,
+        "title": "Zebra 800015-101 Black Monochrome Ribbon - 1000 Prints",
+        "description": "Compatible with: Zebra P330i, Zebra P430i plus many more",
+        "price": "9.54",
+        "price_currency": "GBP",
+        "cluster_id": 5836450
+      },
+      {
+        "id": 6612505,
+        "brand": null,
+        "title": "EVOLIS RCT023NAA BLACK MONOCHROME RIBBON (2000 PRINTS)",
+        "description": "The Evolis RCT023NAA black monochrome ribbon is a practical and convenient solution to standard plastic cards that do not require photo printing. This easy-to-install ribbon features a high-quality, monochrome black panel that guarantees to deliver sharp text and accurate barcodes. 2,000 prints per roll Black monochrome ribbon Card lifespan of up to 3 yearsManufacturer part number: RCT023NAA",
+        "price": "40.99",
+        "price_currency": "GBP",
+        "cluster_id": 1794890
+      },
+      {
+        "id": 41234714,
+        "brand": null,
+        "title": "Zebra 800011-101 ZXP Series 1 Ribbon ZXP Series 1 Load-N-Go Black Monochrome Ribbon",
+        "description": null,
+        "price": "19",
+        "price_currency": "USD",
+        "cluster_id": 1542544
+      }
+    ]
+  }
+}

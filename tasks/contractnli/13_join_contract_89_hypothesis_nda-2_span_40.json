@@ -1,0 +1,48 @@
+{
+  "benchmark": "contractnli",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "contract:89/hypothesis:nda-2/span:40",
+  "task": {
+    "task_type": "hard_join",
+    "contract_id": 89,
+    "hypothesis_key": "nda-2",
+    "hypothesis_text": "Confidential Information shall only include technical information.",
+    "span_id": 40,
+    "span_text": "B. The headings and other captions in this Agreement are for convenience and reference only and shall not be used in interpreting, construing or enforcing any of the provisions of this agreement.",
+    "confuser_clauses": [
+      {
+        "span_id": 51,
+        "start": 5440,
+        "end": 5678,
+        "text": "Recipient shall not make, have made, use or sell for any purpose any product or other item using, incorporating or derived from Data, other than for the purpose stated in Attachment B for which the Data was provided under this Agreement. "
+      },
+      {
+        "span_id": 61,
+        "start": 6686,
+        "end": 6942,
+        "text": "The Data provided under this Agreement shall be used and maintained in accordance with applicable provisions of federal, state, and local laws, rules and regulations as are in effect at the time the Data is produced by DOHMH and retained by Data Recipient."
+      },
+      {
+        "span_id": 63,
+        "start": 6985,
+        "end": 7273,
+        "text": "1. Only the Data Recipient’s employees and/or consultants required to use the Data to perform the functions of this Agreement that are set forth in Attachment B, and so designated by Data Recipient as “Authorized Users” in Attachment C to this Agreement, will be given access to the Data."
+      },
+      {
+        "span_id": 156,
+        "start": 17467,
+        "end": 17935,
+        "text": "Attachment B to this Agreement, which describes the uses that the Data Recipient may make of the Data, the Data Recipient may publish or publicly present its work as described in Attachment B, which must not contain any individually identifiable information, of the use undertaken in accord with Attachment B. Prior to publication or public presentation of such work product, the Data Recipient will submit its final work product to the DOHMH for review and approval. "
+      },
+      {
+        "span_id": 189,
+        "start": 21356,
+        "end": 21775,
+        "text": "If any provision of this Agreement is found by a proper authority to be unenforceable or invalid, such unenforceability or invalidity shall not render this Agreement unenforceable or invalid as a whole and, in such event, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions."
+      }
+    ],
+    "policy_text": "Return evidence only if the candidate clause directly determines the final contract label for the hypothesis. Ignore nearby clauses that merely restate keywords or discuss related exceptions.",
+    "gold_label": "not_evidence"
+  }
+}

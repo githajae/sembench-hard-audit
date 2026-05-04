@@ -1,0 +1,46 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "pair:11199708#24360041",
+  "task": {
+    "task_type": "hard_filter",
+    "pair_id": "11199708#24360041",
+    "left_offer": {
+      "id": 11199708,
+      "brand": null,
+      "title": "BLAZE PROFESSIONAL 27-INCH 2 BURNER BUILT-IN GAS GRILL WITH REAR INFRARED BURNER",
+      "description": "DescriptionBlaze presents the Blaze Professional Grill as a leader in the industry regarding the thickness of its components resulting in irrefutable durability while providing an effective cooking system. By the precision mixing of fuel and oxygen, Blaze Professional achieves extraordinary searing temperatures while maintaining low gas consumption per burner when compared to the top performing grill brands. The Professional’s Illumination system compliments its unmistakable style giving an appearance to catch every admiring eye!As of March 15, 2016 -- Blaze gas grills have a lifetime warranty that warrants against any defects in the manufacturing and workmanship of the main burners, cooking grids, body, flame tamers, heat zone separators, warming rack, and control valves. While ignition, electronic, and lighting systemsare covered for one (1) year after the date of purchase. Grills must be registered within thirty days for the warranty to apply.Blaze Professional Grill ManualDimensions:24 1/8\\\" H x 26 5/8\\\" W x 28 3/8\\\" DCutout Dimensions:10 1/2\\\" H x 24 7/8\\\" W x 23 5/8\\\" D (See manual for information on additional space needed for grill hood to open)GRILL OVERVIEW• 2 commercial quality 304 cast stainless steel H burners• 18,000 BTUs of cooking power per burner, for a total of 36,000 BTUs• 10,000 BTU infrared rear rotisserie burner with included rotisserie kit• Rotisserie kit includes a waterproof motor• Heavy 12mm stainless steel hexagon cooking rods maximize durability• 630 square inches of total cooking space• Push and turn flame-thrower primary ignition system delivers a fast start every time• Individual flash tube secondary ignition• Removable warming rack• Heat zone separators divide the cooking surface into individual temperature zones• Flame stabilizing grids minimize flare-ups while adding a grilled flavor• Full-width drip tray and removable baffles for quick clean up• Double-lined grill hood protects outer layer from heat discoloration and maintains more heat• Illuminated control knobs for evening gatherings creates a sophisticated appearance• Interior lights help navigate the grilling surface at night• Blaze Grills offers an impressive Lifetime Warranty",
+      "price": "4.599E3",
+      "price_currency": "CAD",
+      "cluster_id": 6766905
+    },
+    "right_offer": {
+      "id": 24360041,
+      "brand": "BLAZE Outdoor Products",
+      "title": "Blaze 2 Burner Professional Built-In Propane Gas Outdoor Grill, BLZ-2PRO-LP",
+      "description": "Blaze 2 Burner Professional Built-In Propane Gas Outdoor Grill, BLZ-2PRO-LP Also Available in Natural Gas (BLZ-2PRO-NG) Blaze presents the Blaze Professional Grill as a leader in the industry regarding the thickness of its components resulting in irrefutable durability while providing an effective cooking system. By the precision mixing of fuel...",
+      "price": "2499.99",
+      "price_currency": "USD",
+      "cluster_id": 6766905
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "accept",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 43409810,
+        "brand": "Blaze Outdoor Products",
+        "title": "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights",
+        "description": "Blaze introduces an affordable commercial style grill that was designed with your outdoor BBQ desires in mind. Blaze gas grills feature precision cut, 304 stainless steel components which bring the promise of lasting durability to your outdoor BBQ! This model takes things to the next level with our signature SRL led accent lights and integrated halogen hood lighting.Dimensions: 21-1/4\\\" H x 32-1/2\\\" W x 25-3/4\\\" D",
+        "price": "1849.99",
+        "price_currency": "USD",
+        "cluster_id": 1435805
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "benchmark": "contractnli",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "contract:119/hypothesis:nda-15",
+  "task": {
+    "task_type": "hard_map",
+    "contract_id": 119,
+    "hypothesis_key": "nda-15",
+    "hypothesis_text": "Agreement shall not grant Receiving Party any right to Confidential Information.",
+    "contract_text": "[SPAN 3] THIS UNDERTAKING IS TO BE MADE BY ALL PERSONS, NATURAL AND LEGAL, (THE VENDOR) WHO ARE GIVEN ACCESS, FOR WHATEVER PURPOSE, TO ANY INFORMATION, CONSIDERED BY GRINDROD SA, TO BE CONFIDENTIAL (AS DEFINED IN THIS UNDERTAKING). \n[SPAN 7] 1.1 “Confidential Information” means; all technical, commercial, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans business or personnel information disclosed or otherwise made available in any format and/or physical manner by Grindrod SA or becoming available, before, during and/or after the execution of an interaction, duty or obligation including all information that makes itself known to the Vendor or comes into being as a result of the rendering, production and/or delivery of an agreement/understanding/request for quotation/contract or Purchase Order, or any other interaction. \n[SPAN 8] Confidential Information shall also include any other information that is marked as \"Confidential\" or should reasonably be considered confidential Confidential Information excludes information which is already in the possession, or under the control of the Vendor otherwise than as a result of having been disclosed by Grindrod SA to the Vendor or as a result of the preparation and execution of a proposal or any other interaction with Grindrod SA. \n[SPAN 9] Confidential Information also excludes information in the public domain for a reason, other than a breach of this Confidentiality and Non-Disclosure Undertaking, with any party, or independently developed by the Vendor without reference to information provided by, Grindrod SA;\n[SPAN 15] 1. The Vendor and Grindrod SA have entered into an agreement / understanding / request for quotation / contract / order or any interaction of whatsoever nature, under which the Vendor may be required to quote on and / or render Deliverables to Grindrod SA and/or Grindrod SA shall be obliged to disclose or otherwise make available to the Vendor, Confidential Information.\n[SPAN 16] 2. The Parties are aware that Confidential Information may be disclosed or otherwise be made accessible to the Vendor for the purpose of the Vendor fulfilling its obligations / promises or duties arising from the Agreement / understanding / Request for Quotation / Contract or Purchase Order agreed to and accepted by the Vendor.\n[SPAN 19] 3.1. to use such Confidential Information only for purposes of performing as required in terms of its obligations / promises or duties arising out of the Agreement / understanding /Request for Quotation / Contract or Purchase Order and for no other purpose whatsoever,\n[SPAN 21] 3.2. to hold any such Confidential Information in strict confidence and under proper and reasonable physical security,\n[SPAN 23] 3.3. not to disclose such Confidential Information to any person without the prior written authorization from Grindrod SA,\n[SPAN 27] 3.5. to bring to the attention of Grindrod SA, in writing, any abuse or unauthorized disclosure of such Confidential Information of which the Vendor becomes aware,",
+    "contract_spans": [
+      {
+        "span_id": 3,
+        "start": 259,
+        "end": 482,
+        "text": "THIS UNDERTAKING IS TO BE MADE BY ALL PERSONS, NATURAL AND LEGAL, (THE VENDOR) WHO ARE GIVEN ACCESS, FOR WHATEVER PURPOSE, TO ANY INFORMATION, CONSIDERED BY GRINDROD SA, TO BE CONFIDENTIAL (AS DEFINED IN THIS UNDERTAKING). "
+      },
+      {
+        "span_id": 7,
+        "start": 757,
+        "end": 1492,
+        "text": "1.1 “Confidential Information” means; all technical, commercial, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans business or personnel information disclosed or otherwise made available in any format and/or physical manner by Grindrod SA or becoming available, before, during and/or after the execution of an interaction, duty or obligation including all information that makes itself known to the Vendor or comes into being as a result of the rendering, production and/or delivery of an agreement/understanding/request for quotation/contract or Purchase Order, or any other interaction. "
+      },
+      {
+        "span_id": 8,
+        "start": 1492,
+        "end": 1942,
+        "text": "Confidential Information shall also include any other information that is marked as \"Confidential\" or should reasonably be considered confidential Confidential Information excludes information which is already in the possession, or under the control of the Vendor otherwise than as a result of having been disclosed by Grindrod SA to the Vendor or as a result of the preparation and execution of a proposal or any other interaction with Grindrod SA. "
+      },
+      {
+        "span_id": 9,
+        "start": 1942,
+        "end": 2219,
+        "text": "Confidential Information also excludes information in the public domain for a reason, other than a breach of this Confidentiality and Non-Disclosure Undertaking, with any party, or independently developed by the Vendor without reference to information provided by, Grindrod SA;"
+      },
+      {
+        "span_id": 15,
+        "start": 3022,
+        "end": 3394,
+        "text": "1. The Vendor and Grindrod SA have entered into an agreement / understanding / request for quotation / contract / order or any interaction of whatsoever nature, under which the Vendor may be required to quote on and / or render Deliverables to Grindrod SA and/or Grindrod SA shall be obliged to disclose or otherwise make available to the Vendor, Confidential Information."
+      },
+      {
+        "span_id": 16,
+        "start": 3395,
+        "end": 3724,
+        "text": "2. The Parties are aware that Confidential Information may be disclosed or otherwise be made accessible to the Vendor for the purpose of the Vendor fulfilling its obligations / promises or duties arising from the Agreement / understanding / Request for Quotation / Contract or Purchase Order agreed to and accepted by the Vendor."
+      },
+      {
+        "span_id": 19,
+        "start": 3825,
+        "end": 4093,
+        "text": "3.1. to use such Confidential Information only for purposes of performing as required in terms of its obligations / promises or duties arising out of the Agreement / understanding /Request for Quotation / Contract or Purchase Order and for no other purpose whatsoever,"
+      },
+      {
+        "span_id": 21,
+        "start": 4095,
+        "end": 4213,
+        "text": "3.2. to hold any such Confidential Information in strict confidence and under proper and reasonable physical security,"
+      },
+      {
+        "span_id": 23,
+        "start": 4215,
+        "end": 4337,
+        "text": "3.3. not to disclose such Confidential Information to any person without the prior written authorization from Grindrod SA,"
+      },
+      {
+        "span_id": 27,
+        "start": 4553,
+        "end": 4716,
+        "text": "3.5. to bring to the attention of Grindrod SA, in writing, any abuse or unauthorized disclosure of such Confidential Information of which the Vendor becomes aware,"
+      }
+    ],
+    "inventory_span_ids": [
+      3,
+      7,
+      8,
+      9,
+      15,
+      16,
+      19,
+      21,
+      23,
+      27
+    ],
+    "policy_text": "Return the final NLI label and the exact span ids that justify it from the shown clause inventory. The inventory is intentionally noisy and may include exception-like confusers. Use entailment or contradiction only when the returned spans themselves determine the label. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "gold_label": "not_mentioned",
+    "gold_variants": [
+      []
+    ],
+    "gold_basis_options": [
+      "insufficient_support"
+    ]
+  }
+}

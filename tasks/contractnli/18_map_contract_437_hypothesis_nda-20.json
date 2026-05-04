@@ -1,0 +1,97 @@
+{
+  "benchmark": "contractnli",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "contract:437/hypothesis:nda-20",
+  "task": {
+    "task_type": "hard_map",
+    "contract_id": 437,
+    "hypothesis_key": "nda-20",
+    "hypothesis_text": "Receiving Party may retain some Confidential Information even after the return or destruction of Confidential Information.",
+    "contract_text": "[SPAN 25] Company and Client agree to permit Recipient to have access to the Confidential Information as requested herein by Client, but only in accordance with the terms of this Agreement.\n[SPAN 28] Company and Client hereby agree to permit Recipient to have access to the Confidential Information listed below for the sole purpose of assisting Client with the Conversion, and such access is granted solely upon the terms and conditions set forth in this Agreement. \n[SPAN 36] Recipient acknowledges that the Application Software and all documentation and related materials are proprietary to Company and are confidential and constitute a valuable asset of Company, and that the data files contained in the Confidential Information are proprietary to Client and are confidential and constitute a valuable asset of Client. \n[SPAN 37] Recipient agrees to safeguard the Confidential Information, and Recipient shall not disclose or give access to the Confidential Information to any person or entity other than those employees of Recipient who have a need for such access in order to assist Client with Conversion.\n[SPAN 38] 3. Unauthorized Use. Recipient shall not make any unauthorized use or disclosure of the Confidential Information and Recipient shall promptly advise Company and Client in writing if Recipient learns of any unauthorized use or disclosure of the Confidential Information or Application Software by anyone, whether an employee, former employee or agent of Recipient, or others, and shall immediately take all reasonable steps within Recipient's power to stop any unauthorized use or disclosure of the Confidential Information or Application Software by anyone. \n[SPAN 39] Recipient shall not, and it will not permit anyone else, to copy the Confidential Information or Application Software.\n[SPAN 41] In the event an employee of Recipient terminates his or her employment with Recipient, Recipient agrees to require such terminated employee to immediately return to Recipient all copies of the Confidential Information in such employee's possession at the time of termination of employment. \n[SPAN 43] (i) completion of the tasks assigned to it by Client which require access to the Confidential Information, or \n[SPAN 44] (ii) Recipient's termination of employment with Client, return to Client all copies of the Confidential Information.\n[SPAN 46] Recipient acknowledges that the use or disclosure of the Confidential Information or Application Software by Recipient (including any of its employees or anyone who obtains the Confidential Information or Application Software or gains access thereto from or through Recipient or any of its employees) in a manner inconsistent with this Agreement will cause Company or Client as the case may be, irreparable damage. ",
+    "contract_spans": [
+      {
+        "span_id": 25,
+        "start": 2314,
+        "end": 2493,
+        "text": "Company and Client agree to permit Recipient to have access to the Confidential Information as requested herein by Client, but only in accordance with the terms of this Agreement."
+      },
+      {
+        "span_id": 28,
+        "start": 2758,
+        "end": 3025,
+        "text": "Company and Client hereby agree to permit Recipient to have access to the Confidential Information listed below for the sole purpose of assisting Client with the Conversion, and such access is granted solely upon the terms and conditions set forth in this Agreement. "
+      },
+      {
+        "span_id": 36,
+        "start": 3798,
+        "end": 4143,
+        "text": "Recipient acknowledges that the Application Software and all documentation and related materials are proprietary to Company and are confidential and constitute a valuable asset of Company, and that the data files contained in the Confidential Information are proprietary to Client and are confidential and constitute a valuable asset of Client. "
+      },
+      {
+        "span_id": 37,
+        "start": 4143,
+        "end": 4421,
+        "text": "Recipient agrees to safeguard the Confidential Information, and Recipient shall not disclose or give access to the Confidential Information to any person or entity other than those employees of Recipient who have a need for such access in order to assist Client with Conversion."
+      },
+      {
+        "span_id": 38,
+        "start": 4422,
+        "end": 4980,
+        "text": "3. Unauthorized Use. Recipient shall not make any unauthorized use or disclosure of the Confidential Information and Recipient shall promptly advise Company and Client in writing if Recipient learns of any unauthorized use or disclosure of the Confidential Information or Application Software by anyone, whether an employee, former employee or agent of Recipient, or others, and shall immediately take all reasonable steps within Recipient's power to stop any unauthorized use or disclosure of the Confidential Information or Application Software by anyone. "
+      },
+      {
+        "span_id": 39,
+        "start": 4980,
+        "end": 5098,
+        "text": "Recipient shall not, and it will not permit anyone else, to copy the Confidential Information or Application Software."
+      },
+      {
+        "span_id": 41,
+        "start": 5115,
+        "end": 5405,
+        "text": "In the event an employee of Recipient terminates his or her employment with Recipient, Recipient agrees to require such terminated employee to immediately return to Recipient all copies of the Confidential Information in such employee's possession at the time of termination of employment. "
+      },
+      {
+        "span_id": 43,
+        "start": 5453,
+        "end": 5563,
+        "text": "(i) completion of the tasks assigned to it by Client which require access to the Confidential Information, or "
+      },
+      {
+        "span_id": 44,
+        "start": 5563,
+        "end": 5679,
+        "text": "(ii) Recipient's termination of employment with Client, return to Client all copies of the Confidential Information."
+      },
+      {
+        "span_id": 46,
+        "start": 5702,
+        "end": 6117,
+        "text": "Recipient acknowledges that the use or disclosure of the Confidential Information or Application Software by Recipient (including any of its employees or anyone who obtains the Confidential Information or Application Software or gains access thereto from or through Recipient or any of its employees) in a manner inconsistent with this Agreement will cause Company or Client as the case may be, irreparable damage. "
+      }
+    ],
+    "inventory_span_ids": [
+      25,
+      28,
+      36,
+      37,
+      38,
+      39,
+      41,
+      43,
+      44,
+      46
+    ],
+    "policy_text": "Return the final NLI label and the exact span ids that justify it from the shown clause inventory. The inventory is intentionally noisy and may include exception-like confusers. Use entailment or contradiction only when the returned spans themselves determine the label. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "gold_label": "contradiction",
+    "gold_variants": [
+      [
+        41
+      ]
+    ],
+    "gold_basis_options": [
+      "direct_support"
+    ]
+  }
+}

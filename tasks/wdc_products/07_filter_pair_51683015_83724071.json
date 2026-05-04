@@ -1,0 +1,46 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "pair:51683015#83724071",
+  "task": {
+    "task_type": "hard_filter",
+    "pair_id": "51683015#83724071",
+    "left_offer": {
+      "id": 51683015,
+      "brand": null,
+      "title": "Asus Radeon Dual Evo RX5500 XT 8gb Gddr6 Version OC",
+      "description": null,
+      "price": "6456.56",
+      "price_currency": "MXN",
+      "cluster_id": 2326232
+    },
+    "right_offer": {
+      "id": 83724071,
+      "brand": null,
+      "title": "ASUS Radeon RX 5500 XT DUAL EVO 8GB",
+      "description": "Skjermkort, PCI-Express 4.0, 8GB GDDR6, Navi",
+      "price": "2849.00",
+      "price_currency": "NOK",
+      "cluster_id": 2326232
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "accept",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 12650660,
+        "brand": "Epson",
+        "title": "Epson Tinte T6037 Light Black, 220 ml",
+        "description": null,
+        "price": "97.10",
+        "price_currency": "EUR",
+        "cluster_id": 786291
+      }
+    ]
+  }
+}

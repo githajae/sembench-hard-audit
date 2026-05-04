@@ -1,0 +1,48 @@
+{
+  "benchmark": "contractnli",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "contract:135/hypothesis:nda-19/span:41",
+  "task": {
+    "task_type": "hard_join",
+    "contract_id": 135,
+    "hypothesis_key": "nda-19",
+    "hypothesis_text": "Some obligations of Agreement may survive termination of Agreement.",
+    "span_id": 41,
+    "span_text": "8. The terms of this Agreement supersede any previous non-disclosure agreements or any other preliminary representations or understandings that have been entered into by the parties to this Agreement with regard to the subject CONFIDENTIAL INFORMATION.",
+    "confuser_clauses": [
+      {
+        "span_id": 26,
+        "start": 1743,
+        "end": 1944,
+        "text": "shall not be disclosed or revealed to anyone except employees of RECIPIENT who have a need to know the CONFIDENTIAL INFORMATION for the PURPOSE and who agree to be bound by the terms of this Agreement."
+      },
+      {
+        "span_id": 37,
+        "start": 3427,
+        "end": 3860,
+        "text": "6. It is understood that nothing herein shall be deemed to constitute, by implication or otherwise, the grant to RECIPIENT of any license or other rights under any patent, patent application, or other intellectual property right or interest belonging to PROVIDER, or as permitting RECIPIENT to unfairly obtain the right to use any CONFIDENTIAL INFORMATION which becomes publicly known through an improper act or omission on its part."
+      },
+      {
+        "span_id": 31,
+        "start": 2545,
+        "end": 2761,
+        "text": "(b) that can be demonstrated, from written records, to have been in RECIPIENT's possession or readily available to RECIPIENT from another source not under obligation of secrecy to PROVIDER prior to the disclosure; or"
+      },
+      {
+        "span_id": 30,
+        "start": 2375,
+        "end": 2544,
+        "text": "(a) that can be demonstrated to have been in the public domain or publicly known and readily available to the trade or the public prior to the date of the disclosure; or"
+      },
+      {
+        "span_id": 28,
+        "start": 2093,
+        "end": 2254,
+        "text": "However, RECIPIENT agrees that it will not use the CONFIDENTIAL INFORMATION for any purpose other than the PURPOSE without the prior written consent of PROVIDER."
+      }
+    ],
+    "policy_text": "Return evidence only if the candidate clause directly determines the final contract label for the hypothesis. Ignore nearby clauses that merely restate keywords or discuss related exceptions.",
+    "gold_label": "not_evidence"
+  }
+}

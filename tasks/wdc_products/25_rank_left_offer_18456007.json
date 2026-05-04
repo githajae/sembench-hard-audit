@@ -1,0 +1,126 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "left_offer:18456007",
+  "task": {
+    "task_type": "hard_rank",
+    "left_offer": {
+      "id": 18456007,
+      "brand": null,
+      "title": "RAM® Composite Double Socket Arm",
+      "description": "The RAP-B-201U-A consists of a short double socket arm that accommodates 1\" B size ball bases, device holders, and adapters. With an overall length 2.42\", this is the lowest profile RAM® double socket arm size. The easy to adjust knob allows for near-infinite adjustability for your connected device.",
+      "price": "9.49",
+      "price_currency": "USD",
+      "cluster_id": 3656260
+    },
+    "policy_text": "Choose the single best same-product candidate for the reference offer. Treat same-brand accessories, bundles, neighboring model numbers, and storage or color variants as confusers rather than true matches. Use only the minimal decisive attributes.",
+    "candidate_right_offers": [
+      {
+        "id": 94106554,
+        "brand": "RAM Mounts",
+        "title": "RAM Mounts short arm for 1\\\" ball",
+        "description": "The RAP-B-201U-A, short double socket arm, has a socket at both ends that accommodates 1\\\" ball bases. This socket technology allows for almost infinite adjustment and perfect viewing angles.(This product does not include single spring)Dimensions:Overall Length: 2.42\\\"Socket-To-Socket Length:",
+        "price": "9.63",
+        "price_currency": "eur",
+        "cluster_id": 3656260,
+        "pair_id": "18456007#94106554",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 53451198,
+        "brand": "RAM Mounts",
+        "title": "RAM Torque 28mm-38mm Handlebar & Rail Base 1.5\\\" Ball",
+        "description": null,
+        "price": "41.95",
+        "price_currency": "AUD",
+        "cluster_id": 279895,
+        "pair_id": "5717009#53451198",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 12959047,
+        "brand": null,
+        "title": "Kappe New Era NY Yankees MLB 9Fifty Cap",
+        "description": null,
+        "price": "3.19E1",
+        "price_currency": "EUR",
+        "cluster_id": 76491423,
+        "pair_id": "18456007#12959047",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 71290070,
+        "brand": null,
+        "title": "HPE 300GB SERVER SMART MEMORY 6G 15K SAS 2.5 652611-B21",
+        "description": "HPE 300GB SERVER SMART MEMORY 6G 15K SAS 2.5 652611-B21 300GB, SAS, 6Gb/s, 15000rpm, 6.35 cm (2.5\\\") HP 6Gb/sec SAS Enterprise and Midline hard drives deliver high performance solutions for hosting high transaction based applications. Available in HP hot plug carriers or non-hot plug. The HP SAS Enterprise and Midline hard drives come in both 2.5in (SFF) and 3.5in (LFF) industry standard form factors and are available in a variety of capacity points to meet a wide range of requirements. The SAS interface was designed and engineered for high availability, enterprise-class data storage where performance, reliability and data integrity are crucial. Performance and Reliability for Multiple Application Environments. High reliability for Mission Critical applications. High availability for Business Critical applications. Robust SAS interface (dual port, full duplex). Ideal for transaction processing, database applications, analytics, high performance computing and business applications. New universal hot plug carriers exclusively for HP ProLiant Gen8 servers. Maintaining existing universal hot plug carriers to support HP ProLiant G7 and earlier servers and server storage. Hard drive Hard drive capacity 300 GB Hard disk average seek time 2.9 ms Hard drive speed 15000 RPM Full stroke seek 5.3 ms Hard drive size 2.5 \\\" Average latency 2.9 ms Track to track seek time (read/write) 0.4 ms Bytes per sector 512 Hard drive interface transfer rate 6 Gbit/s Operational conditions Operating temperature (T-T) 10 - 35 °C Weight & dimensions Width 75.7 mm Height 15.6 mm Depth 118.7 mm Weight 725 g Packaging content Quantity 1 Other features Interface SAS Wi-Fi No Colour of product Black Internal Yes Data transfer rate 6 Gbit/s FireWire 400 No FireWire 800 No Compatible memory cards Not supported Card reader integrated No Number of products included 1 pc(s) Operating voltage 5 V",
+        "price": "90000.00",
+        "price_currency": "NGN",
+        "cluster_id": 199460,
+        "pair_id": "18456007#71290070",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 53660770,
+        "brand": "RAM Mounts",
+        "title": "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\\\" to 1.25\\\" in Diameter",
+        "description": null,
+        "price": null,
+        "price_currency": null,
+        "cluster_id": 399319,
+        "pair_id": "75462645#53660770",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 75462645,
+        "brand": "RAM MOUNTS",
+        "title": "RAM Double U-Bolt Base with D Size 2.25\\\" Ball for Rails from 0.75\\\" to 1.25\\\" in Diameter - RAM-D-235U",
+        "description": "Description Specs & Features Videos Compatible With ComponentsThe RAM-D-235U consists of a double u-bolt base with 2.25\\\" diameter ball and two stainless steel u-bolts. The double u-bolt base will accommodate rails from 0.75\\\" to 1.25\\\" in diameter.U-Bolt Dimensions:0.75\\\" to 1.25\\\" in DiameterMaterial:Powder Coated Marine Grade AluminumBall Size:2.25\\\" Rubber Ball SizeNote:The \\\"U\\\" in the part number reflects product packaged in poly bag. This mount includes stainless steel u-bolts for preventing rust of the mount and black cover caps to be placed over the exposed ends of the u-bolt.Weight:0.86 lbs.RAM Stainless Steel Double U-Bolt Base with 2.25\\\" Ball for Rails from 0.75\\\" to 1.25\\\" in DiameterRAM® Mounts: Ball Sizes & Weight CapacitiesCompatible Arms and MountsRAM Vertical Mounting Base With Single Socket D Size 2.25\\\" Swing Arm - RAM-D-162V-MC3RAM HORZ. SWING ARM SYSTEM W/O BALL BASE - RAM-D-162H-MC3RAM Short Double Socket Arm With Jam Nut For D Size 2.25\\\" Balls - RAM-D-201U-C-MI1RAM Double Socket Arm With RAM® Pin-Lock™ Security Nut And Key Knob For D Size 2.25\\\" Balls - RAM-D-201-SURAM Long Length Double Socket Arm For D Size 2.25\\\" Balls - RAM-D-201U-ERAM Double Socket Arm With Jam Nut For D Size 2.25\\\" Balls - RAM-D-201U-MI1RAM Medium Length Double Socket Arm for D Size 2.25\\\" Balls - RAM-D-201URAM Horizontal Mounting Base With Single Swing Arm And D Size 2.25\\\" Ball Socket - RAM-D-109HS-4URAM Short Length Double Socket Arm for D Size 2.25\\\" Balls - RAM-D-201U-CStainless Steel U-Bolt Hardware Pack, Accommodates Rails 1\\\" To 1.25\\\" - RAM-HAR-235",
+        "price": "36.49",
+        "price_currency": "USD",
+        "cluster_id": 1571647,
+        "pair_id": "51919374#75462645",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 30675144,
+        "brand": "RAM MOUNTS",
+        "title": "RAM Triple 1\\\" Ball Adapter - RAM-B-289U",
+        "description": "Specs & Features Videos Compatible WithMaterial:Powder Coated Marine Grade AluminumBall Size:1\\\" Rubber Ball \\\"B\\\" SizeNote:The \\\"U\\\" in the part number reflects product packaged in poly bag.Weight:0.2 lbs.RAM Triple 1\\\" Ball BaseRAM® Mounts: Ball Sizes & Weight CapacitiesCompatible Arms and MountsRAM 1\\\" Ball Medium Length Double Socket Arm with 2.5\\\" Round Base that contains the AMPs Hole Pattern - RAM-B-103URAM Medium Double Socket Arm, Long Double Socket Arm & Double Ball Adapter for B Size 1\\\" Balls - RAM-B-201-201U-CRAM Short Double Socket Arm for B Size 1\\\" Balls - RAM-B-201U-ARAM Long Length Double Socket Arm with Retention Arm for B Size 1\\\" Balls - RAM-B-201U-C-ALA1RAM 18\\\" Long Extension Pole with (2 qty) 1\\\" Single Open Sockets - RAP-BB-201-18URAM 1\\\" Ball Short Length Double Socket Arm with Diamond Base - RAM-B-103-A-238URAM Short Double Socket Arm with Retention Knob for B Size 1\\\" Balls - RAM-B-201-A-ALA1-KRURAM Double Socket Arm with Retention Knob for B Size 1\\\" Balls - RAM-B-201-ALA1-KRURAM Double Socket Arm with RAM® Pin-Lock™ Security Knob and Key Knob for B Size 1\\\" Balls - RAM-B-201-SURAM® X-Grip® Cradle with 1\\\" Ball & Medium Length Double Socket Arm for 7\\\"-8\\\" Tablets - RAM-HOL-UN8B-201U",
+        "price": "37.99",
+        "price_currency": "USD",
+        "cluster_id": 2961644,
+        "pair_id": "80876204#30675144",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      }
+    ],
+    "gold_best_candidate_id": 94106554,
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "gold_positive_ids": [
+      94106554
+    ],
+    "candidate_ids": [
+      94106554,
+      53451198,
+      12959047,
+      71290070,
+      53660770,
+      75462645,
+      30675144
+    ],
+    "candidate_order_seed": 18456007,
+    "hard_same_brand_confuser_count": 4,
+    "hard_max_confuser_overlap": 4,
+    "hard_candidate_count": 7
+  }
+}

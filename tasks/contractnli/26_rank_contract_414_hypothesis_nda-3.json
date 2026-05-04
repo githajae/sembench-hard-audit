@@ -1,0 +1,80 @@
+{
+  "benchmark": "contractnli",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "contract:414/hypothesis:nda-3",
+  "task": {
+    "task_type": "hard_rank",
+    "contract_id": 414,
+    "hypothesis_key": "nda-3",
+    "hypothesis_text": "Confidential Information may include verbally conveyed information.",
+    "candidate_clauses": [
+      {
+        "span_id": 22,
+        "text": "That portion of the Information which consists of analyses, compilations, forecasts, studies or other documents prepared by us, our agents, representatives or employees, will be held by us and kept confidential and subject to the terms of this Agreement, or destroyed upon your request, and any oral Information will continue to be subject to the terms of this Agreement. "
+      },
+      {
+        "span_id": 21,
+        "text": "All copies of the Information, along with our notes on, summaries and compilations of, or excepts from, the Information, except for that portion of the Information which consists of analyses, compilations, forecasts, studies or other documents prepared by us, our agents, representatives or employees, will be returned to you immediately upon your request. "
+      },
+      {
+        "span_id": 16,
+        "text": "1. The Information will be kept confidential and shall not without your prior written consent, be disclosed by us, or by our agents, representatives or employees, in any manner whatsover, in whole or in part, and shall not be used by us, our agents, representatives or employees, other than in connection with the transaction described above. "
+      },
+      {
+        "span_id": 32,
+        "text": "8. In the event that we or anyone to whom we transmit the Information pursuant to this Agreement becomes legally compelled to disclose any of the Information, we will provide you with prompt written notice and oral notice so that you may seek a protective order or other appropriate remedy and/or waive compliance with the provisions of this Agreement. "
+      },
+      {
+        "span_id": 12,
+        "text": "In connection with these discussions and evaluations, you are furnishing us or our representatives with certain information which may be either non-public, confidential or proprietary in nature. "
+      },
+      {
+        "span_id": 19,
+        "text": "2. Without your prior written consent, except as required by law, we and our agents, representatives and employees will not disclose to any person or entity the fact that the Information has been made available, that discussions or negotiations are taking place or have taken place concerning a possible transaction involving the Business or any of the terms, conditions or other facts with respect to any such possible transaction, including the status thereof."
+      },
+      {
+        "span_id": 26,
+        "text": "(ii) become available to us on a non-confidential basis from a source (other than you or your agents) which is not prohibited from disclosing such information to us by a legal, contractual or fiduciary obligation to you or "
+      },
+      {
+        "span_id": 17,
+        "text": "Moreover, we agree to reveal the Information only to our agents, representatives and employees who need to know the Information for the purpose of evaluating the transaction described above, who are informed by us of the confidential nature of the Information and who shall agree in writing to act in accordance with the terms and conditions of this Agreement. "
+      },
+      {
+        "span_id": 20,
+        "text": "3. We shall keep a record of the written Information furnished to us and of the location of such Information. "
+      },
+      {
+        "span_id": 33,
+        "text": "In the event that such protective order or other remedy is not obtained, or that the Business waives compliance with the provisions of this Agreement, we will furnish only that portion of the Information which we are advised by the Business or the Business' attorney we are legally required to furnish and we will exercise the efforts directed by the Business to obtain reliable assurance that confidential treatment will be accorded the Information. "
+      },
+      {
+        "span_id": 24,
+        "text": "4. The term Information shall not include such portions of the Information which "
+      },
+      {
+        "span_id": 30,
+        "text": "7. We acknowledge that you make no express or implied representation or warranty as to the accuracy or completeness of the Information, and you expressly disclaim any and all liability that may be based on the Information, errors therein or omissions therefrom. "
+      }
+    ],
+    "candidate_span_ids": [
+      22,
+      21,
+      16,
+      32,
+      12,
+      19,
+      26,
+      17,
+      20,
+      33,
+      24,
+      30
+    ],
+    "gold_positive_span_ids": [
+      22
+    ],
+    "policy_text": "Rank clause spans by how directly they determine the final contract label for the hypothesis. Gold evidence clauses must appear before confusable but non-evidence clauses."
+  }
+}

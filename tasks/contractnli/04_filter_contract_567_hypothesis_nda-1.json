@@ -1,0 +1,583 @@
+{
+  "benchmark": "contractnli",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "contract:567/hypothesis:nda-1",
+  "task": {
+    "task_type": "hard_filter",
+    "contract_id": 567,
+    "hypothesis_key": "nda-1",
+    "hypothesis_text": "All Confidential Information shall be expressly identified by the Disclosing Party.",
+    "contract_text": "Mutual Non-Disclosure Agreement\nThis Agreement is made as of the 30th day of May, 2008 between e-Smart technologies, Inc., and all of its subsidiaries and affiliates acting through its offices located at 526 W. 26th St./Ste. 710, New York, N.Y. 10001 (“E-SMART”), and “Lee&Pak,.Ltd”, a Korean corporation, and all of its subsidiaries and affiliates acting through its offices located at 1599-2 LG Edat Bldg 9th FI., Seocho-dong, Seocho-Gu, Seoul, Korea (“LEE&PAK”).\nBACKGROUND:\n1. For the limited and sole purpose, of evaluating E-SMART’s business and LEE&PAK’s technology in contemplation of a potential to be agreed, mutually acceptable business arrangement, it is contemplated that each of LEE&PACK will require access to certain Confidential Information, as hereinafter defined, of the other.\n2. Each party wishes to protect the confidentiality of its Confidential Information that may be disclosed hereunder.\nIN CONSIDERATION of the background and the mutual covenants and agreements herein contained, the parties hereto agree as follows:\nARTICLE 1\nINTERPRETATION\n1.01 Definitions. In this Agreement, unless something in the subject matter or context is inconsistent therewith:\n“Agreement” means this Agreement and all amendments made hereto by written agreement between LEE&PAK and E-SMART.\n“Business Day” means any day except Saturday, Sunday and statutory holidays observed in the Country of Korea.\n“Disclosing Party” is the party who is disclosing Confidential Information to the other party.\n“Confidential Information” shall mean any information belonging to a party or a related company (as hereinafter defined) which is not generally available to or used by others, or the utility or value of which is not generally known or recognized as a standard practice and may include without limitation any and all financial information; any and all employment information; any and all technical and non-technical information, including patent, copyright, trade secret and similar proprietary information; any information related to current, future and proposed business information, plans, activities, products and services, computer software, and other technology, including without limitation, forecasts, market research, development, design details, specifications, financial information, procurement requirements, purchasing, manufacturing, contractor and subcontractor lists, and sales and merchandising plans (including such information of each and any affiliate, subsidiary, or the like) in any medium whatsoever, whether oral, written, machine readable data, through facsimile, electronic mail, postal service or otherwise, provided by or disclosed either directly or indirectly by the Disclosing Party to the Receiving Party whether such information is designated as confidential at the time of delivery or not. The term “Confidential Information” as used herein shall not include information:\n(I) which was generally available to or used by others, or the utility or value of such information is already generally known or recognized as a standard practice at the time it was communicated to the Receiving Party or subsequently becomes generally available or recognized as a standard practice through no fault or breach on the part of the Receiving Party;\n(ii) which the Receiving Party can demonstrate by a written or electronic document to have had rightfully in its possession free from any obligation of confidence at the time of disclosure;\n(iii) which the Receiving Party can demonstrate that it rightfully obtained free of any obligation of confidence subsequent to the time it was disclosed to the Receiving Party by the Disclosing Party;\n(iv) which the Receiving Party rightfully obtained from a third party who has the-right to transfer or disclose it;\n(v) which the Receiving Party to whom it is disclosed hereunder can demonstrate was independently developed by such party or agents of that party without any use of the Confidential Information.\n“Effective Date” shall mean the 30th day of May, 2008.\n“Receiving Party” is the party who is the recipient of the other party’s Confidential Information.\n“Related Company” shall mean any corporation, company, or other entity which at the time of disclosure of Confidential Information: a) is controlled by a party hereto; b) Controls a party hereto; c) or is under common Control with a party hereto. For this purpose, “Control” means that more than fifty percent (50%) of the controlled entity’s shares or ownership interest representing the right to make decisions for such entity that are owned or controlled, directly or indirectly, by the controlling entity.\n1.02 Applicable Law. This Agreement shall be governed by, and interpreted and enforced in accordance with, the laws in force in the country of Korea excluding any conflict of laws rule or principle which might refer such construction to the laws of another jurisdiction). Each party hereto irrevocably submits to the non-exclusive jurisdiction of the courts of Korea with respect to any matter arising hereunder or related hereto.\nARTICLE II\nNON-DISCLOSURE AND NON-USE OF CONFIDENTIAL INFORMATION\n2.01 Permitted Use. Neither party shall reverse engineer, patent around, or directly or indirectly, commercially exploit the Confidential Information of the other party or use same for the benefit of others. Each party’s right to use the Confidential Information is limited to use for the benefit of the party disclosing the Confidential Information as necessary to carry out the stated purpose of this Agreement.\n2.02 No License. The disclosure of Confidential Information under this Agreement shall not be construed as granting to the Receiving Party any rights under any license or other rights to the Confidential Information of the Disclosing Party.\n2.03 Ownership of Confidential Information. The Confidential Information, and all rights thereto, which have been or will be disclosed to one of the parties shall remain the exclusive property of the Disclosing Party and shall he held in confidence by the Receiving Party for the other.\n2.04 Non-Disclosure. The Receiving Party agrees to use reasonable care, but in no event less than the same degree of care that it uses to protect its own Confidential Information of a similar nature, to prevent the unauthorized use, disclosure, publication or dissemination of the Confidential Information. Each party shall only have the right to disclose the Confidential Information to its employees, agents and consultants on a “need to know” basis; provided, however, that disclosure in any event shall only be made to such persons who have agreed in writing to protect the confidentiality of the Disclosing Party’s information. Each party shall, prior to disclosing any Confidential Information to any such person, issue appropriate instructions to them and obtain all necessary undertakings to ensure that such Persons comply with the confidentiality and use obligations and restrictions contained In this Agreement with respect to the Confidential Information. These obligations shall survive termination or expiry of this Agreement. The Receiving Party may Disclose Confidential Information if required by law, provided that the Receiving Party will take reasonable steps to give the Disclosing Party sufficient prior written notice of the requirement and provide reasonable assistance to enable the Disclosing Party to seek protection of its Confidential Information.\n2.05 Copies. Neither party shall copy nor reproduce the Confidential Information of the other party by any means whatsoever without the prior written consent of the Disclosing Party. Any Copies shall contain any proprietary or confidential notices which appear on the original of the Confidential Information.\n2.06 Disclaimer. Neither party makes any representation, warranty nor guarantee whatsoever to the other party with respect to Confidential Information. Neither party shall be liable for any errors or omissions in its Confidential Information, the use of, or the results of the use of, its Confidential Information.\nARTICLE III\nTERM AND TERMINATION\n3.01 Term. This agreement shall be effective from the Effective Date until terminated by either party in writing as provided for hereinbelow. And it shall hold good for two years (730 days) starting when both sides sign. The Receiving Party’s obligation to protect the Disclosing Party’s Confidential Information received prior to Termination shall survive termination or expiration as stated in Section 2.04. Confidential Information remains Confidential Information as defined.\n3.02 Termination. Either party may terminate this Agreement without cause, by giving the other party five (30) Business Days advance written notice.\n3.03 Return. Each party shall immediately upon the Termination of this Agreement or at any time upon the request of the Disclosing Party, discontinue use of the Confidential Information of the other and, if requested by the Disclosing Party, return same and all copies thereof which may be or\nhave been in such party’s direct or indirect possession or control. If return is not requested, the Confidential Information shall be destroyed within ten (10) Business Days of the Termination of the Agreement and an officer’s certificate to that effect provided by the Disclosing Party. Notwithstanding anything in this Agreement to the contrary, it is agreed that one copy of the Confidential Information may be made and retained by legal counsel of the Receiving Party as evidence of what was disclosed.\n3.04 Breach. Each party agrees that any breach of this Agreement may give rise to irreparable damage to the other party, the injury to the other party from any such breach would be difficult to calculate, and that money damages would therefore be an inadequate remedy for that breach. Each party agrees that the other party will be entitled, in addition to all other remedies that the other party may have and without showing or proving any actual damage sustained by it, to seek an injunction or other order to restrain any breach, threatened breach or the continuation of any breach of this section.\nARTICLE IV\nGENERAL\n4.01 Notices. Any notice which may or is required to be given pursuant to this Agreement shall be in writing and shall be sufficiently given or made if delivered by facsimile, by overnight courier or by certified or registered mail, return receipt requested, and shall be effective (a) upon receipt if delivered personally; (b) on the business day the notice is received by facsimile; (c) one business day after being sent by overnight courier; and (d) three (3) business days after being deposited in mail, postage prepaid. Such communications shall be addressed and directed to the parties listed below as follows or to such other addresses or to the attention of such other persons as any party may from time to time advise to the other party by notice In writing as provided for herein:\n(a) LEE&PAK, addressed to it at: 1599-2 LG Edat Bldg 9th Fl., Seocho-dong, Seocho-Gu Seoul, Korea\nand\n(b) e-Smart Technologies, addressed to it at: e-Smart Technologies, Inc. 526 W. 26th St./Ste. 710, New York, N.Y. 10001 Attention:\n4.02 Further Assurances. The parties at all times, and from time to time, and upon every reasonable written request to do so, shall make, do, execute, deliver or cause to be made, done, executed and delivered all such further acts, deeds, assurances, and things as may be required for more effectually implementing and carrying out the true intent and meaning of this Agreement. Each party agrees to act in the utmost good faith of a level required by a trustee in the implementation of the obligations required hereunder.\n4.03 Freedom to Disclose. Each party acknowledges that, notwithstanding the execution of the Agreement, each Disclosing Party maintains the sole and absolute discretion to determine what, if any, of its Confidential Information shall be disclosed to the Receiving Party.\n",
+    "contract_spans": [
+      {
+        "span_id": 0,
+        "start": 0,
+        "end": 22,
+        "text": "Mutual Non-Disclosure "
+      },
+      {
+        "span_id": 1,
+        "start": 22,
+        "end": 31,
+        "text": "Agreement"
+      },
+      {
+        "span_id": 2,
+        "start": 32,
+        "end": 465,
+        "text": "This Agreement is made as of the 30th day of May, 2008 between e-Smart technologies, Inc., and all of its subsidiaries and affiliates acting through its offices located at 526 W. 26th St./Ste. 710, New York, N.Y. 10001 (“E-SMART”), and “Lee&Pak,.Ltd”, a Korean corporation, and all of its subsidiaries and affiliates acting through its offices located at 1599-2 LG Edat Bldg 9th FI., Seocho-dong, Seocho-Gu, Seoul, Korea (“LEE&PAK”)."
+      },
+      {
+        "span_id": 3,
+        "start": 466,
+        "end": 477,
+        "text": "BACKGROUND:"
+      },
+      {
+        "span_id": 4,
+        "start": 478,
+        "end": 796,
+        "text": "1. For the limited and sole purpose, of evaluating E-SMART’s business and LEE&PAK’s technology in contemplation of a potential to be agreed, mutually acceptable business arrangement, it is contemplated that each of LEE&PACK will require access to certain Confidential Information, as hereinafter defined, of the other."
+      },
+      {
+        "span_id": 5,
+        "start": 797,
+        "end": 913,
+        "text": "2. Each party wishes to protect the confidentiality of its Confidential Information that may be disclosed hereunder."
+      },
+      {
+        "span_id": 6,
+        "start": 914,
+        "end": 1043,
+        "text": "IN CONSIDERATION of the background and the mutual covenants and agreements herein contained, the parties hereto agree as follows:"
+      },
+      {
+        "span_id": 7,
+        "start": 1044,
+        "end": 1053,
+        "text": "ARTICLE 1"
+      },
+      {
+        "span_id": 8,
+        "start": 1054,
+        "end": 1068,
+        "text": "INTERPRETATION"
+      },
+      {
+        "span_id": 9,
+        "start": 1069,
+        "end": 1087,
+        "text": "1.01 Definitions. "
+      },
+      {
+        "span_id": 10,
+        "start": 1087,
+        "end": 1182,
+        "text": "In this Agreement, unless something in the subject matter or context is inconsistent therewith:"
+      },
+      {
+        "span_id": 11,
+        "start": 1183,
+        "end": 1296,
+        "text": "“Agreement” means this Agreement and all amendments made hereto by written agreement between LEE&PAK and E-SMART."
+      },
+      {
+        "span_id": 12,
+        "start": 1297,
+        "end": 1406,
+        "text": "“Business Day” means any day except Saturday, Sunday and statutory holidays observed in the Country of Korea."
+      },
+      {
+        "span_id": 13,
+        "start": 1407,
+        "end": 1501,
+        "text": "“Disclosing Party” is the party who is disclosing Confidential Information to the other party."
+      },
+      {
+        "span_id": 14,
+        "start": 1502,
+        "end": 2825,
+        "text": "“Confidential Information” shall mean any information belonging to a party or a related company (as hereinafter defined) which is not generally available to or used by others, or the utility or value of which is not generally known or recognized as a standard practice and may include without limitation any and all financial information; any and all employment information; any and all technical and non-technical information, including patent, copyright, trade secret and similar proprietary information; any information related to current, future and proposed business information, plans, activities, products and services, computer software, and other technology, including without limitation, forecasts, market research, development, design details, specifications, financial information, procurement requirements, purchasing, manufacturing, contractor and subcontractor lists, and sales and merchandising plans (including such information of each and any affiliate, subsidiary, or the like) in any medium whatsoever, whether oral, written, machine readable data, through facsimile, electronic mail, postal service or otherwise, provided by or disclosed either directly or indirectly by the Disclosing Party to the Receiving Party whether such information is designated as confidential at the time of delivery or not. "
+      },
+      {
+        "span_id": 15,
+        "start": 2825,
+        "end": 2906,
+        "text": "The term “Confidential Information” as used herein shall not include information:"
+      },
+      {
+        "span_id": 16,
+        "start": 2907,
+        "end": 3269,
+        "text": "(I) which was generally available to or used by others, or the utility or value of such information is already generally known or recognized as a standard practice at the time it was communicated to the Receiving Party or subsequently becomes generally available or recognized as a standard practice through no fault or breach on the part of the Receiving Party;"
+      },
+      {
+        "span_id": 17,
+        "start": 3270,
+        "end": 3459,
+        "text": "(ii) which the Receiving Party can demonstrate by a written or electronic document to have had rightfully in its possession free from any obligation of confidence at the time of disclosure;"
+      },
+      {
+        "span_id": 18,
+        "start": 3460,
+        "end": 3660,
+        "text": "(iii) which the Receiving Party can demonstrate that it rightfully obtained free of any obligation of confidence subsequent to the time it was disclosed to the Receiving Party by the Disclosing Party;"
+      },
+      {
+        "span_id": 19,
+        "start": 3661,
+        "end": 3776,
+        "text": "(iv) which the Receiving Party rightfully obtained from a third party who has the-right to transfer or disclose it;"
+      },
+      {
+        "span_id": 20,
+        "start": 3777,
+        "end": 3971,
+        "text": "(v) which the Receiving Party to whom it is disclosed hereunder can demonstrate was independently developed by such party or agents of that party without any use of the Confidential Information."
+      },
+      {
+        "span_id": 21,
+        "start": 3972,
+        "end": 4026,
+        "text": "“Effective Date” shall mean the 30th day of May, 2008."
+      },
+      {
+        "span_id": 22,
+        "start": 4027,
+        "end": 4125,
+        "text": "“Receiving Party” is the party who is the recipient of the other party’s Confidential Information."
+      },
+      {
+        "span_id": 23,
+        "start": 4126,
+        "end": 4258,
+        "text": "“Related Company” shall mean any corporation, company, or other entity which at the time of disclosure of Confidential Information: "
+      },
+      {
+        "span_id": 24,
+        "start": 4258,
+        "end": 4294,
+        "text": "a) is controlled by a party hereto; "
+      },
+      {
+        "span_id": 25,
+        "start": 4294,
+        "end": 4322,
+        "text": "b) Controls a party hereto; "
+      },
+      {
+        "span_id": 26,
+        "start": 4322,
+        "end": 4373,
+        "text": "c) or is under common Control with a party hereto. "
+      },
+      {
+        "span_id": 27,
+        "start": 4373,
+        "end": 4635,
+        "text": "For this purpose, “Control” means that more than fifty percent (50%) of the controlled entity’s shares or ownership interest representing the right to make decisions for such entity that are owned or controlled, directly or indirectly, by the controlling entity."
+      },
+      {
+        "span_id": 28,
+        "start": 4636,
+        "end": 4657,
+        "text": "1.02 Applicable Law. "
+      },
+      {
+        "span_id": 29,
+        "start": 4657,
+        "end": 4908,
+        "text": "This Agreement shall be governed by, and interpreted and enforced in accordance with, the laws in force in the country of Korea excluding any conflict of laws rule or principle which might refer such construction to the laws of another jurisdiction). "
+      },
+      {
+        "span_id": 30,
+        "start": 4908,
+        "end": 5066,
+        "text": "Each party hereto irrevocably submits to the non-exclusive jurisdiction of the courts of Korea with respect to any matter arising hereunder or related hereto."
+      },
+      {
+        "span_id": 31,
+        "start": 5067,
+        "end": 5077,
+        "text": "ARTICLE II"
+      },
+      {
+        "span_id": 32,
+        "start": 5078,
+        "end": 5132,
+        "text": "NON-DISCLOSURE AND NON-USE OF CONFIDENTIAL INFORMATION"
+      },
+      {
+        "span_id": 33,
+        "start": 5133,
+        "end": 5153,
+        "text": "2.01 Permitted Use. "
+      },
+      {
+        "span_id": 34,
+        "start": 5153,
+        "end": 5341,
+        "text": "Neither party shall reverse engineer, patent around, or directly or indirectly, commercially exploit the Confidential Information of the other party or use same for the benefit of others. "
+      },
+      {
+        "span_id": 35,
+        "start": 5341,
+        "end": 5546,
+        "text": "Each party’s right to use the Confidential Information is limited to use for the benefit of the party disclosing the Confidential Information as necessary to carry out the stated purpose of this Agreement."
+      },
+      {
+        "span_id": 36,
+        "start": 5547,
+        "end": 5564,
+        "text": "2.02 No License. "
+      },
+      {
+        "span_id": 37,
+        "start": 5564,
+        "end": 5787,
+        "text": "The disclosure of Confidential Information under this Agreement shall not be construed as granting to the Receiving Party any rights under any license or other rights to the Confidential Information of the Disclosing Party."
+      },
+      {
+        "span_id": 38,
+        "start": 5788,
+        "end": 5832,
+        "text": "2.03 Ownership of Confidential Information. "
+      },
+      {
+        "span_id": 39,
+        "start": 5832,
+        "end": 6074,
+        "text": "The Confidential Information, and all rights thereto, which have been or will be disclosed to one of the parties shall remain the exclusive property of the Disclosing Party and shall he held in confidence by the Receiving Party for the other."
+      },
+      {
+        "span_id": 40,
+        "start": 6075,
+        "end": 6096,
+        "text": "2.04 Non-Disclosure. "
+      },
+      {
+        "span_id": 41,
+        "start": 6096,
+        "end": 6382,
+        "text": "The Receiving Party agrees to use reasonable care, but in no event less than the same degree of care that it uses to protect its own Confidential Information of a similar nature, to prevent the unauthorized use, disclosure, publication or dissemination of the Confidential Information. "
+      },
+      {
+        "span_id": 42,
+        "start": 6382,
+        "end": 6708,
+        "text": "Each party shall only have the right to disclose the Confidential Information to its employees, agents and consultants on a “need to know” basis; provided, however, that disclosure in any event shall only be made to such persons who have agreed in writing to protect the confidentiality of the Disclosing Party’s information. "
+      },
+      {
+        "span_id": 43,
+        "start": 6708,
+        "end": 7043,
+        "text": "Each party shall, prior to disclosing any Confidential Information to any such person, issue appropriate instructions to them and obtain all necessary undertakings to ensure that such Persons comply with the confidentiality and use obligations and restrictions contained In this Agreement with respect to the Confidential Information. "
+      },
+      {
+        "span_id": 44,
+        "start": 7043,
+        "end": 7116,
+        "text": "These obligations shall survive termination or expiry of this Agreement. "
+      },
+      {
+        "span_id": 45,
+        "start": 7116,
+        "end": 7451,
+        "text": "The Receiving Party may Disclose Confidential Information if required by law, provided that the Receiving Party will take reasonable steps to give the Disclosing Party sufficient prior written notice of the requirement and provide reasonable assistance to enable the Disclosing Party to seek protection of its Confidential Information."
+      },
+      {
+        "span_id": 46,
+        "start": 7452,
+        "end": 7465,
+        "text": "2.05 Copies. "
+      },
+      {
+        "span_id": 47,
+        "start": 7465,
+        "end": 7635,
+        "text": "Neither party shall copy nor reproduce the Confidential Information of the other party by any means whatsoever without the prior written consent of the Disclosing Party. "
+      },
+      {
+        "span_id": 48,
+        "start": 7635,
+        "end": 7761,
+        "text": "Any Copies shall contain any proprietary or confidential notices which appear on the original of the Confidential Information."
+      },
+      {
+        "span_id": 49,
+        "start": 7762,
+        "end": 7779,
+        "text": "2.06 Disclaimer. "
+      },
+      {
+        "span_id": 50,
+        "start": 7779,
+        "end": 7914,
+        "text": "Neither party makes any representation, warranty nor guarantee whatsoever to the other party with respect to Confidential Information. "
+      },
+      {
+        "span_id": 51,
+        "start": 7914,
+        "end": 8076,
+        "text": "Neither party shall be liable for any errors or omissions in its Confidential Information, the use of, or the results of the use of, its Confidential Information."
+      },
+      {
+        "span_id": 52,
+        "start": 8077,
+        "end": 8088,
+        "text": "ARTICLE III"
+      },
+      {
+        "span_id": 53,
+        "start": 8089,
+        "end": 8109,
+        "text": "TERM AND TERMINATION"
+      },
+      {
+        "span_id": 54,
+        "start": 8110,
+        "end": 8121,
+        "text": "3.01 Term. "
+      },
+      {
+        "span_id": 55,
+        "start": 8121,
+        "end": 8252,
+        "text": "This agreement shall be effective from the Effective Date until terminated by either party in writing as provided for hereinbelow. "
+      },
+      {
+        "span_id": 56,
+        "start": 8252,
+        "end": 8331,
+        "text": "And it shall hold good for two years (730 days) starting when both sides sign. "
+      },
+      {
+        "span_id": 57,
+        "start": 8331,
+        "end": 8520,
+        "text": "The Receiving Party’s obligation to protect the Disclosing Party’s Confidential Information received prior to Termination shall survive termination or expiration as stated in Section 2.04. "
+      },
+      {
+        "span_id": 58,
+        "start": 8520,
+        "end": 8589,
+        "text": "Confidential Information remains Confidential Information as defined."
+      },
+      {
+        "span_id": 59,
+        "start": 8590,
+        "end": 8608,
+        "text": "3.02 Termination. "
+      },
+      {
+        "span_id": 60,
+        "start": 8608,
+        "end": 8738,
+        "text": "Either party may terminate this Agreement without cause, by giving the other party five (30) Business Days advance written notice."
+      },
+      {
+        "span_id": 61,
+        "start": 8739,
+        "end": 8752,
+        "text": "3.03 Return. "
+      },
+      {
+        "span_id": 62,
+        "start": 8752,
+        "end": 9031,
+        "text": "Each party shall immediately upon the Termination of this Agreement or at any time upon the request of the Disclosing Party, discontinue use of the Confidential Information of the other and, if requested by the Disclosing Party, return same and all copies thereof which may be or"
+      },
+      {
+        "span_id": 63,
+        "start": 9032,
+        "end": 9100,
+        "text": "have been in such party’s direct or indirect possession or control. "
+      },
+      {
+        "span_id": 64,
+        "start": 9100,
+        "end": 9320,
+        "text": "If return is not requested, the Confidential Information shall be destroyed within ten (10) Business Days of the Termination of the Agreement and an officer’s certificate to that effect provided by the Disclosing Party. "
+      },
+      {
+        "span_id": 65,
+        "start": 9320,
+        "end": 9538,
+        "text": "Notwithstanding anything in this Agreement to the contrary, it is agreed that one copy of the Confidential Information may be made and retained by legal counsel of the Receiving Party as evidence of what was disclosed."
+      },
+      {
+        "span_id": 66,
+        "start": 9539,
+        "end": 9552,
+        "text": "3.04 Breach. "
+      },
+      {
+        "span_id": 67,
+        "start": 9552,
+        "end": 9824,
+        "text": "Each party agrees that any breach of this Agreement may give rise to irreparable damage to the other party, the injury to the other party from any such breach would be difficult to calculate, and that money damages would therefore be an inadequate remedy for that breach. "
+      },
+      {
+        "span_id": 68,
+        "start": 9824,
+        "end": 10140,
+        "text": "Each party agrees that the other party will be entitled, in addition to all other remedies that the other party may have and without showing or proving any actual damage sustained by it, to seek an injunction or other order to restrain any breach, threatened breach or the continuation of any breach of this section."
+      },
+      {
+        "span_id": 69,
+        "start": 10141,
+        "end": 10151,
+        "text": "ARTICLE IV"
+      },
+      {
+        "span_id": 70,
+        "start": 10152,
+        "end": 10159,
+        "text": "GENERAL"
+      },
+      {
+        "span_id": 71,
+        "start": 10160,
+        "end": 10174,
+        "text": "4.01 Notices. "
+      },
+      {
+        "span_id": 72,
+        "start": 10174,
+        "end": 10442,
+        "text": "Any notice which may or is required to be given pursuant to this Agreement shall be in writing and shall be sufficiently given or made if delivered by facsimile, by overnight courier or by certified or registered mail, return receipt requested, and shall be effective "
+      },
+      {
+        "span_id": 73,
+        "start": 10442,
+        "end": 10484,
+        "text": "(a) upon receipt if delivered personally; "
+      },
+      {
+        "span_id": 74,
+        "start": 10484,
+        "end": 10545,
+        "text": "(b) on the business day the notice is received by facsimile; "
+      },
+      {
+        "span_id": 75,
+        "start": 10545,
+        "end": 10609,
+        "text": "(c) one business day after being sent by overnight courier; and "
+      },
+      {
+        "span_id": 76,
+        "start": 10609,
+        "end": 10685,
+        "text": "(d) three (3) business days after being deposited in mail, postage prepaid. "
+      },
+      {
+        "span_id": 77,
+        "start": 10685,
+        "end": 10916,
+        "text": "Such communications shall be addressed and directed to the parties listed below as follows or to such other addresses or to the attention of such other persons as any party may from time to time advise to the other party by notice "
+      },
+      {
+        "span_id": 78,
+        "start": 10916,
+        "end": 10950,
+        "text": "In writing as provided for herein:"
+      },
+      {
+        "span_id": 79,
+        "start": 10951,
+        "end": 11048,
+        "text": "(a) LEE&PAK, addressed to it at: 1599-2 LG Edat Bldg 9th Fl., Seocho-dong, Seocho-Gu Seoul, Korea"
+      },
+      {
+        "span_id": 80,
+        "start": 11049,
+        "end": 11052,
+        "text": "and"
+      },
+      {
+        "span_id": 81,
+        "start": 11053,
+        "end": 11173,
+        "text": "(b) e-Smart Technologies, addressed to it at: e-Smart Technologies, Inc. 526 W. 26th St./Ste. 710, New York, N.Y. 10001 "
+      },
+      {
+        "span_id": 82,
+        "start": 11173,
+        "end": 11183,
+        "text": "Attention:"
+      },
+      {
+        "span_id": 83,
+        "start": 11184,
+        "end": 11209,
+        "text": "4.02 Further Assurances. "
+      },
+      {
+        "span_id": 84,
+        "start": 11209,
+        "end": 11563,
+        "text": "The parties at all times, and from time to time, and upon every reasonable written request to do so, shall make, do, execute, deliver or cause to be made, done, executed and delivered all such further acts, deeds, assurances, and things as may be required for more effectually implementing and carrying out the true intent and meaning of this Agreement. "
+      },
+      {
+        "span_id": 85,
+        "start": 11563,
+        "end": 11706,
+        "text": "Each party agrees to act in the utmost good faith of a level required by a trustee in the implementation of the obligations required hereunder."
+      },
+      {
+        "span_id": 86,
+        "start": 11707,
+        "end": 11733,
+        "text": "4.03 Freedom to Disclose. "
+      },
+      {
+        "span_id": 87,
+        "start": 11733,
+        "end": 11977,
+        "text": "Each party acknowledges that, notwithstanding the execution of the Agreement, each Disclosing Party maintains the sole and absolute discretion to determine what, if any, of its Confidential Information shall be disclosed to the Receiving Party."
+      }
+    ],
+    "confuser_clauses": [
+      {
+        "span_id": 39,
+        "start": 5832,
+        "end": 6074,
+        "text": "The Confidential Information, and all rights thereto, which have been or will be disclosed to one of the parties shall remain the exclusive property of the Disclosing Party and shall he held in confidence by the Receiving Party for the other."
+      },
+      {
+        "span_id": 62,
+        "start": 8752,
+        "end": 9031,
+        "text": "Each party shall immediately upon the Termination of this Agreement or at any time upon the request of the Disclosing Party, discontinue use of the Confidential Information of the other and, if requested by the Disclosing Party, return same and all copies thereof which may be or"
+      },
+      {
+        "span_id": 64,
+        "start": 9100,
+        "end": 9320,
+        "text": "If return is not requested, the Confidential Information shall be destroyed within ten (10) Business Days of the Termination of the Agreement and an officer’s certificate to that effect provided by the Disclosing Party. "
+      },
+      {
+        "span_id": 42,
+        "start": 6382,
+        "end": 6708,
+        "text": "Each party shall only have the right to disclose the Confidential Information to its employees, agents and consultants on a “need to know” basis; provided, however, that disclosure in any event shall only be made to such persons who have agreed in writing to protect the confidentiality of the Disclosing Party’s information. "
+      },
+      {
+        "span_id": 87,
+        "start": 11733,
+        "end": 11977,
+        "text": "Each party acknowledges that, notwithstanding the execution of the Agreement, each Disclosing Party maintains the sole and absolute discretion to determine what, if any, of its Confidential Information shall be disclosed to the Receiving Party."
+      }
+    ],
+    "policy_text": "Use the full contract and return the final label together with the exact span ids that directly determine it under exception-sensitive reasoning. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "document_type": "sec-html",
+    "gold_label": "contradiction",
+    "gold_variants": [
+      [
+        14
+      ]
+    ]
+  }
+}

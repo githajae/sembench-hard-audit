@@ -1,0 +1,98 @@
+{
+  "benchmark": "contractnli",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "contract:447/hypothesis:nda-17",
+  "task": {
+    "task_type": "hard_map",
+    "contract_id": 447,
+    "hypothesis_key": "nda-17",
+    "hypothesis_text": "Receiving Party may create a copy of some Confidential Information in some circumstances.",
+    "contract_text": "[SPAN 4] WHEREAS, in order for CONSULTANT to provide consultant services to NYNEX it may be necessary or desirable for NYNEX to disclose to CONSULTANT certain confidential and proprietary material, information, data, and other communications concerning NYNEX's past, current, future and proposed or potential customers, products, services, operations, business forecasts, procurement requirements, plans strategies and technology; and\n[SPAN 8] (a) disclosed by NYNEX and/or one or more of its parent, subsidiary or affiliated corporations, appropriately marked as \"Confidential,\" \"Proprietary\" or the like or otherwise disclosed in a manner consistent with its proprietary and confidential nature; or \n[SPAN 10] 2. ALL NYNEX Confidential Information:\n[SPAN 12] (b) shall not be copied, used, distributed, disclosed, disseminated or communicated in any way or form by CONSULTANT whether or not for its own benefit, to anyone outside or within its own organization, except on a \"need-to-know\" basis to the extent necessary for: \n[SPAN 18] (d) shall be held by CONSULTANT in the strictest confidence, and shall be treated by it with the same degree of care to avoid disclosure to any third party as is used with respect to CONSULTANT'S own information of like importance, or, a minimum, shall be treated with a reasonable degree of care to avoid any such disclosure. \n[SPAN 21] (e) Confidential Information is hereby acknowledged by CONSULTANT to be the sole property of NYNEX and shall be returned to NYNEX (including, without limitation, all materials, documents, drawings, models, apparatus, sketches, designs, specifications and lists, encompassing or evidencing same or related thereto, and all copies/formats thereof), within seven (7) days after receipt by CONSULTANT of a written request from NYNEX setting forth the Confidential Information to be returned. \n[SPAN 22] Upon receipt of such request, CONSULTANT also shall erase or destroy any such Confidential Information in any computer memory or data storage apparatus.\n[SPAN 23] 3. The obligations set forth in Paragraph 2 hereof shall not apply, or shall terminate, with respect to any particular portion of NYNEX Confidential Information which:\n[SPAN 27] (d) is developed by CONSULTANT, independently of and without reference to any Confidential Information of NYNEX or any other information that NYNEX has disclosed in confidence to any third party, as proven by CONSULTANT's written records;\n[SPAN 29] (f) is disclosed by CONSULTANT in order to satisfy any legal requirement of any competent government body; provided, however, that immediately upon CONSULTANT's receipt of any such request, CONSULTANT shall first advise NYNEX of same before making any disclosure to such body, so that NYNEX may either interpose an objection to such disclosure before such body, or take action to assure confidential handling of the Confidential Information by such body, or take other action to protect the Confidential Information which NYNEX deems appropriate under the circumstances; or",
+    "contract_spans": [
+      {
+        "span_id": 4,
+        "start": 613,
+        "end": 1038,
+        "text": "WHEREAS, in order for CONSULTANT to provide consultant services to NYNEX it may be necessary or desirable for NYNEX to disclose to CONSULTANT certain confidential and proprietary material, information, data, and other communications concerning NYNEX's past, current, future and proposed or potential customers, products, services, operations, business forecasts, procurement requirements, plans strategies and technology; and"
+      },
+      {
+        "span_id": 8,
+        "start": 1595,
+        "end": 1852,
+        "text": "(a) disclosed by NYNEX and/or one or more of its parent, subsidiary or affiliated corporations, appropriately marked as \"Confidential,\" \"Proprietary\" or the like or otherwise disclosed in a manner consistent with its proprietary and confidential nature; or "
+      },
+      {
+        "span_id": 10,
+        "start": 2061,
+        "end": 2099,
+        "text": "2. ALL NYNEX Confidential Information:"
+      },
+      {
+        "span_id": 12,
+        "start": 2211,
+        "end": 2476,
+        "text": "(b) shall not be copied, used, distributed, disclosed, disseminated or communicated in any way or form by CONSULTANT whether or not for its own benefit, to anyone outside or within its own organization, except on a \"need-to-know\" basis to the extent necessary for: "
+      },
+      {
+        "span_id": 18,
+        "start": 2919,
+        "end": 3246,
+        "text": "(d) shall be held by CONSULTANT in the strictest confidence, and shall be treated by it with the same degree of care to avoid disclosure to any third party as is used with respect to CONSULTANT'S own information of like importance, or, a minimum, shall be treated with a reasonable degree of care to avoid any such disclosure. "
+      },
+      {
+        "span_id": 21,
+        "start": 3438,
+        "end": 3926,
+        "text": "(e) Confidential Information is hereby acknowledged by CONSULTANT to be the sole property of NYNEX and shall be returned to NYNEX (including, without limitation, all materials, documents, drawings, models, apparatus, sketches, designs, specifications and lists, encompassing or evidencing same or related thereto, and all copies/formats thereof), within seven (7) days after receipt by CONSULTANT of a written request from NYNEX setting forth the Confidential Information to be returned. "
+      },
+      {
+        "span_id": 22,
+        "start": 3926,
+        "end": 4078,
+        "text": "Upon receipt of such request, CONSULTANT also shall erase or destroy any such Confidential Information in any computer memory or data storage apparatus."
+      },
+      {
+        "span_id": 23,
+        "start": 4079,
+        "end": 4246,
+        "text": "3. The obligations set forth in Paragraph 2 hereof shall not apply, or shall terminate, with respect to any particular portion of NYNEX Confidential Information which:"
+      },
+      {
+        "span_id": 27,
+        "start": 4786,
+        "end": 5024,
+        "text": "(d) is developed by CONSULTANT, independently of and without reference to any Confidential Information of NYNEX or any other information that NYNEX has disclosed in confidence to any third party, as proven by CONSULTANT's written records;"
+      },
+      {
+        "span_id": 29,
+        "start": 5126,
+        "end": 5699,
+        "text": "(f) is disclosed by CONSULTANT in order to satisfy any legal requirement of any competent government body; provided, however, that immediately upon CONSULTANT's receipt of any such request, CONSULTANT shall first advise NYNEX of same before making any disclosure to such body, so that NYNEX may either interpose an objection to such disclosure before such body, or take action to assure confidential handling of the Confidential Information by such body, or take other action to protect the Confidential Information which NYNEX deems appropriate under the circumstances; or"
+      }
+    ],
+    "inventory_span_ids": [
+      4,
+      8,
+      10,
+      12,
+      18,
+      21,
+      22,
+      23,
+      27,
+      29
+    ],
+    "policy_text": "Return the final NLI label and the exact span ids that justify it from the shown clause inventory. The inventory is intentionally noisy and may include exception-like confusers. Use entailment or contradiction only when the returned spans themselves determine the label. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "gold_label": "contradiction",
+    "gold_variants": [
+      [
+        10,
+        12
+      ]
+    ],
+    "gold_basis_options": [
+      "exception_clause"
+    ]
+  }
+}

@@ -1,0 +1,644 @@
+{
+  "benchmark": "contractnli",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "contract:439/hypothesis:nda-20",
+  "task": {
+    "task_type": "hard_filter",
+    "contract_id": 439,
+    "hypothesis_key": "nda-20",
+    "hypothesis_text": "Receiving Party may retain some Confidential Information even after the return or destruction of Confidential Information.",
+    "contract_text": "MICROSOFT CORPORATION NON-DISCLOSURE AGREEMENT\n(PRE-RELEASE PRODUCT-GENERAL)\nIMPORTANT: PLEASE COMPLETE THIS FORM AND RETURN IT TO MICROSOFT AT THE ADDRESS BELOW:\nUpon receipt by Microsoft Corporation (\"MS\") of this Agreement, signed and completed by the individual or organization indicated below (\"Recipient\"), MS may elect, at MS' sole discretion, to provide Recipient with a pre-release copy of the MS product MSN Software Development Kit, and related documentation and information (collectively the \"Product\"). MS may, in its sole discretion, also provide further pre-releases of the Product or related information to Recipient hereunder, in which case such further pre-releases and related information shall also be covered hereunder as \"Product\".\n1, GRANT OF LICENSE.\n(a) MS grants to Recipient a limited, non-exclusive, nontransferable, royalty-free license to use up to five copies of the executable Product code on CPU's residing at Recipient's premises solely to test the compatibility of Recipient's application or other product(s) (\"Application\") which operate in conjunction with the Product and to evaluate the Product for the purpose of providing feedback thereon to MS. All other rights are reserved to MS. Recipient shall not rent, lease, sell, sublicense, assign, or otherwise transfer the Product, including any accompanying printed materials. Recipient may not reverse engineer, decompile or disassemble the Product except to the extent that this restriction is expressly prohibited by applicable law. MS and its suppliers shall retain title and all ownership rights to the Product.\n(b) Recipient agrees to provide reasonable feedback to MS, including but not limited to beta reports, usability, bug reports and test results, with respect to the Product testing. Recipient will use reasonable efforts to review and comment on all documentation supplied. All bug reports, test results and other feedback made by Recipient shall be the property of MS and may be used by MS for any purpose. Due to the nature of the development work, MS is not certain as to when errors or discrepancies in the Products may be corrected.\n(c) Recipient may disclose the Product only to its employees who have a need to know in order to accomplish the purposes identified in Section l(a), and such employees' use of the Product shall take place solely at Recipient's site. Recipient will have executed appropriate written agreements with its employees sufficient to enable it to comply with the terms of this Agreement.\n2. REDISTRIBUTABLE COMPONENTS. MS further grants to recipient the following non-exclusive, nontransferable, royalty-free rights with respect to the sample and redistributable code listed in the readme.txt file.\n(a) Subject to Section 2(b) below, to reproduce and distribute test version of Recipient's Application for use on The Microsoft Network (\"MSN\") created using the Product to MSN users provided you identify such Application as \"BETA\" and that you comply with Section 2(c), below.\n(b) To modify the sample code provided with the Product and to reproduce and distribute such modifications in object code form for use on The Microsoft Network to MSN users provided you identify such Application as \"BETA\" and that you comply with Section 2(c), below.\n(c) if you redistribute your Application as allowed under this Agreement, you must: (1) distribute the Product only in conjunction with and as part of your Application which is designed, developed and tested to operate on MSN; (2) not make any statements to the effect or which imply that your Application is \"certified\" by MS or that its performance is guaranteed by MS; (3) not use MS' name, logo, or trademarks to market your Application; and (4) agree to indemnify, hold harmless, and defend MS and its suppliers from and against any claims or lawsuits, including attorney's fees, that arise or result from your distribution of the Application.\n(d) The Product shall not be used, modified, reproduced except as provided above and you agree to destroy or erase the copy of the Product upon MS' release of the Product in final form.\n3. TERM OF AGREEMENT. The term of this Agreement shall commence on the Effective Date and shall continue until terminated by MS in writing at any time, with or without cause. This Agreement will terminate without notice upon the commercial release of the Product. Upon the termination of this Agreement, Recipient shall promptly return to MS. or certify destruction of, all full or partial copies of the Product and related materials provided by MS. Section 6 shall survive termination or expiration of this Agreement with respect to any information that has not been made public by MS as of the commercial release of the Product.\n4. COST OF TESTING. There is no charge to Recipient for testing of the Product. MS shall bear all transportation expenses relating to the shipment of the Product to Recipient's place of business and Recipient will pay any return transportation expenses.\n5. PRODUCT MAINTENANCE. MS is not obligated to provide maintenance or updates to Recipient for the Product. However, any maintenance or updates provided by MS shall be covered by this Agreement.\n6. CONFIDENTIALITY. The Product and related information is proprietary and confidential information to MS and its suppliers. Recipient agrees not to disclose or provide the Product, documentation, or any related information (including the Product features or the results of use or testing) to any third party or use the Product for any purpose other than as provided in this Agreement. However, Recipient may disclose confidential information in accordance with judicial or other governmental order, provided Recipient shall give MS reasonable written notice prior to such disclosure and shall comply with any applicable protective order or equivalent. Further, Recipient shall not be obligated to maintain the confidentiality of information which Recipient can prove (1) is already known to Recipient without an obligation to maintain the same as confidential; (2) becomes publicly known through no wrongful act of Recipient; (3) is rightfully received from a third party without breach of an obligation of confidentiality owed to MS; or (4) is independently developed by Recipient. This provision shall survive the termination or expiration of this Agreement with respect to any information that has not been made public by MS as of the commercial release of the Product.\n7. DISCLAIMER OF WARRANTY. Product is deemed accepted by Recipient. The Product constitutes pre-release code and may be changed substantially before commercial release. The PRODUCT IS PROVIDED \"AS IS\" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MICROSOFT FURTHER DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE PRODUCT AND DOCUMENTATION REMAINS WITH RECIPIENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE PRODUCT, EVEN IF MICROSOFT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO RECIPIENT.\n8. GOVERNING LAW; ATTORNEYS FEES. This Agreement shall be governed by the laws of the State of Washington and Recipient further consents to jurisdiction by the state and federal courts sitting in the State of Washington. If either MS or Recipient employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees.\n9. U.S. GOVERNMENT RESTRICTED RIGHTS. The Product is provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause of DFARS 252.227-7013 or subparagraphs (c)(i) and (2) of the Commercial Computer Software -- Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.\n10. EXPORT RESTRICTIONS. Recipient acknowledges that the Product licensed hereunder is subject to the export control laws and regulations of the U.S.A., and any amendments thereof. Recipient confirms that with respect to the Product, it will not export or re-export it, directly or indirectly, either to (i) any countries that are subject to U.S.A export restrictions (currently including, but not necessarily limited to, Cuba, the Federal Republic of Yugoslavia (Serbia and Montenegro), Haiti, Iran, Iraq, Libya, North Korea, South Africa (military and police entities), and Syria), (ii) any end user who Recipient knows or has reason to know will utilize them in the design, development or production of nuclear, chemical or biological weapons; or (iii) any end user who has been prohibited from participating in the U.S.A. export transactions by any federal agency of the U.S.A. government. Recipient further acknowledges that the Product may include technical data subject to export and re-export restrictions imposed by U.S.A. law.\n11. ENTIRE AGREEMENT. This Agreement constitutes the complete and exclusive agreement between MS and Recipient with respect to the subject matter hereof, and supersedes all prior oral or written understandings, communications or agreements not specifically incorporated herein. This Agreement may not be modified except in a writing duly signed by an authorized representative of MS and Recipient.\n12. PARTIES BOUND. If \"Company Name\" or a company address is filled in below, then the individual signing this Agreement represents that he/she has authority to execute this agreement on behalf of such company and agrees that Product (and any copies thereof) shall remain on the company premises, unless otherwise agreed by MS.\nIN WITNESS WHEREOF. Recipient has caused this Agreement to he executed by its duly authorized representative.\nBeta Site ID\nCompany Name\nAlpha Site Contact/Tester (Recipient)\nCompany Authorized Representative's Signature\nPrint Authorized Signature and Title\nPhysical Address (No P.O. Boxes)\nCity, State, Zip\nPhone Number\nMicrosoft Network Member ID\nDate\nRETURN TO:\nWPG Beta Group Address.\nMicrosoft Corporation\nAttn:\nOne Microsoft Way\nRedmond, WA 98052-6399\n",
+    "contract_spans": [
+      {
+        "span_id": 0,
+        "start": 0,
+        "end": 46,
+        "text": "MICROSOFT CORPORATION NON-DISCLOSURE AGREEMENT"
+      },
+      {
+        "span_id": 1,
+        "start": 47,
+        "end": 76,
+        "text": "(PRE-RELEASE PRODUCT-GENERAL)"
+      },
+      {
+        "span_id": 2,
+        "start": 77,
+        "end": 162,
+        "text": "IMPORTANT: PLEASE COMPLETE THIS FORM AND RETURN IT TO MICROSOFT AT THE ADDRESS BELOW:"
+      },
+      {
+        "span_id": 3,
+        "start": 163,
+        "end": 516,
+        "text": "Upon receipt by Microsoft Corporation (\"MS\") of this Agreement, signed and completed by the individual or organization indicated below (\"Recipient\"), MS may elect, at MS' sole discretion, to provide Recipient with a pre-release copy of the MS product MSN Software Development Kit, and related documentation and information (collectively the \"Product\"). "
+      },
+      {
+        "span_id": 4,
+        "start": 516,
+        "end": 753,
+        "text": "MS may, in its sole discretion, also provide further pre-releases of the Product or related information to Recipient hereunder, in which case such further pre-releases and related information shall also be covered hereunder as \"Product\"."
+      },
+      {
+        "span_id": 5,
+        "start": 754,
+        "end": 774,
+        "text": "1, GRANT OF LICENSE."
+      },
+      {
+        "span_id": 6,
+        "start": 775,
+        "end": 1187,
+        "text": "(a) MS grants to Recipient a limited, non-exclusive, nontransferable, royalty-free license to use up to five copies of the executable Product code on CPU's residing at Recipient's premises solely to test the compatibility of Recipient's application or other product(s) (\"Application\") which operate in conjunction with the Product and to evaluate the Product for the purpose of providing feedback thereon to MS. "
+      },
+      {
+        "span_id": 7,
+        "start": 1187,
+        "end": 1224,
+        "text": "All other rights are reserved to MS. "
+      },
+      {
+        "span_id": 8,
+        "start": 1224,
+        "end": 1364,
+        "text": "Recipient shall not rent, lease, sell, sublicense, assign, or otherwise transfer the Product, including any accompanying printed materials. "
+      },
+      {
+        "span_id": 9,
+        "start": 1364,
+        "end": 1523,
+        "text": "Recipient may not reverse engineer, decompile or disassemble the Product except to the extent that this restriction is expressly prohibited by applicable law. "
+      },
+      {
+        "span_id": 10,
+        "start": 1523,
+        "end": 1603,
+        "text": "MS and its suppliers shall retain title and all ownership rights to the Product."
+      },
+      {
+        "span_id": 11,
+        "start": 1604,
+        "end": 1784,
+        "text": "(b) Recipient agrees to provide reasonable feedback to MS, including but not limited to beta reports, usability, bug reports and test results, with respect to the Product testing. "
+      },
+      {
+        "span_id": 12,
+        "start": 1784,
+        "end": 1875,
+        "text": "Recipient will use reasonable efforts to review and comment on all documentation supplied. "
+      },
+      {
+        "span_id": 13,
+        "start": 1875,
+        "end": 2009,
+        "text": "All bug reports, test results and other feedback made by Recipient shall be the property of MS and may be used by MS for any purpose. "
+      },
+      {
+        "span_id": 14,
+        "start": 2009,
+        "end": 2138,
+        "text": "Due to the nature of the development work, MS is not certain as to when errors or discrepancies in the Products may be corrected."
+      },
+      {
+        "span_id": 15,
+        "start": 2139,
+        "end": 2372,
+        "text": "(c) Recipient may disclose the Product only to its employees who have a need to know in order to accomplish the purposes identified in Section l(a), and such employees' use of the Product shall take place solely at Recipient's site. "
+      },
+      {
+        "span_id": 16,
+        "start": 2372,
+        "end": 2518,
+        "text": "Recipient will have executed appropriate written agreements with its employees sufficient to enable it to comply with the terms of this Agreement."
+      },
+      {
+        "span_id": 17,
+        "start": 2519,
+        "end": 2550,
+        "text": "2. REDISTRIBUTABLE COMPONENTS. "
+      },
+      {
+        "span_id": 18,
+        "start": 2550,
+        "end": 2729,
+        "text": "MS further grants to recipient the following non-exclusive, nontransferable, royalty-free rights with respect to the sample and redistributable code listed in the readme.txt file."
+      },
+      {
+        "span_id": 19,
+        "start": 2730,
+        "end": 3007,
+        "text": "(a) Subject to Section 2(b) below, to reproduce and distribute test version of Recipient's Application for use on The Microsoft Network (\"MSN\") created using the Product to MSN users provided you identify such Application as \"BETA\" and that you comply with Section 2(c), below."
+      },
+      {
+        "span_id": 20,
+        "start": 3008,
+        "end": 3275,
+        "text": "(b) To modify the sample code provided with the Product and to reproduce and distribute such modifications in object code form for use on The Microsoft Network to MSN users provided you identify such Application as \"BETA\" and that you comply with Section 2(c), below."
+      },
+      {
+        "span_id": 21,
+        "start": 3276,
+        "end": 3360,
+        "text": "(c) if you redistribute your Application as allowed under this Agreement, you must: "
+      },
+      {
+        "span_id": 22,
+        "start": 3360,
+        "end": 3503,
+        "text": "(1) distribute the Product only in conjunction with and as part of your Application which is designed, developed and tested to operate on MSN; "
+      },
+      {
+        "span_id": 23,
+        "start": 3503,
+        "end": 3648,
+        "text": "(2) not make any statements to the effect or which imply that your Application is \"certified\" by MS or that its performance is guaranteed by MS; "
+      },
+      {
+        "span_id": 24,
+        "start": 3648,
+        "end": 3722,
+        "text": "(3) not use MS' name, logo, or trademarks to market your Application; and "
+      },
+      {
+        "span_id": 25,
+        "start": 3722,
+        "end": 3924,
+        "text": "(4) agree to indemnify, hold harmless, and defend MS and its suppliers from and against any claims or lawsuits, including attorney's fees, that arise or result from your distribution of the Application."
+      },
+      {
+        "span_id": 26,
+        "start": 3925,
+        "end": 4110,
+        "text": "(d) The Product shall not be used, modified, reproduced except as provided above and you agree to destroy or erase the copy of the Product upon MS' release of the Product in final form."
+      },
+      {
+        "span_id": 27,
+        "start": 4111,
+        "end": 4133,
+        "text": "3. TERM OF AGREEMENT. "
+      },
+      {
+        "span_id": 28,
+        "start": 4133,
+        "end": 4286,
+        "text": "The term of this Agreement shall commence on the Effective Date and shall continue until terminated by MS in writing at any time, with or without cause. "
+      },
+      {
+        "span_id": 29,
+        "start": 4286,
+        "end": 4375,
+        "text": "This Agreement will terminate without notice upon the commercial release of the Product. "
+      },
+      {
+        "span_id": 30,
+        "start": 4375,
+        "end": 4454,
+        "text": "Upon the termination of this Agreement, Recipient shall promptly return to MS. "
+      },
+      {
+        "span_id": 31,
+        "start": 4454,
+        "end": 4561,
+        "text": "or certify destruction of, all full or partial copies of the Product and related materials provided by MS. "
+      },
+      {
+        "span_id": 32,
+        "start": 4561,
+        "end": 4741,
+        "text": "Section 6 shall survive termination or expiration of this Agreement with respect to any information that has not been made public by MS as of the commercial release of the Product."
+      },
+      {
+        "span_id": 33,
+        "start": 4742,
+        "end": 4762,
+        "text": "4. COST OF TESTING. "
+      },
+      {
+        "span_id": 34,
+        "start": 4762,
+        "end": 4822,
+        "text": "There is no charge to Recipient for testing of the Product. "
+      },
+      {
+        "span_id": 35,
+        "start": 4822,
+        "end": 4995,
+        "text": "MS shall bear all transportation expenses relating to the shipment of the Product to Recipient's place of business and Recipient will pay any return transportation expenses."
+      },
+      {
+        "span_id": 36,
+        "start": 4996,
+        "end": 5020,
+        "text": "5. PRODUCT MAINTENANCE. "
+      },
+      {
+        "span_id": 37,
+        "start": 5020,
+        "end": 5104,
+        "text": "MS is not obligated to provide maintenance or updates to Recipient for the Product. "
+      },
+      {
+        "span_id": 38,
+        "start": 5104,
+        "end": 5190,
+        "text": "However, any maintenance or updates provided by MS shall be covered by this Agreement."
+      },
+      {
+        "span_id": 39,
+        "start": 5191,
+        "end": 5211,
+        "text": "6. CONFIDENTIALITY. "
+      },
+      {
+        "span_id": 40,
+        "start": 5211,
+        "end": 5316,
+        "text": "The Product and related information is proprietary and confidential information to MS and its suppliers. "
+      },
+      {
+        "span_id": 41,
+        "start": 5316,
+        "end": 5577,
+        "text": "Recipient agrees not to disclose or provide the Product, documentation, or any related information (including the Product features or the results of use or testing) to any third party or use the Product for any purpose other than as provided in this Agreement. "
+      },
+      {
+        "span_id": 42,
+        "start": 5577,
+        "end": 5844,
+        "text": "However, Recipient may disclose confidential information in accordance with judicial or other governmental order, provided Recipient shall give MS reasonable written notice prior to such disclosure and shall comply with any applicable protective order or equivalent. "
+      },
+      {
+        "span_id": 43,
+        "start": 5844,
+        "end": 5959,
+        "text": "Further, Recipient shall not be obligated to maintain the confidentiality of information which Recipient can prove "
+      },
+      {
+        "span_id": 44,
+        "start": 5959,
+        "end": 6053,
+        "text": "(1) is already known to Recipient without an obligation to maintain the same as confidential; "
+      },
+      {
+        "span_id": 45,
+        "start": 6053,
+        "end": 6118,
+        "text": "(2) becomes publicly known through no wrongful act of Recipient; "
+      },
+      {
+        "span_id": 46,
+        "start": 6118,
+        "end": 6230,
+        "text": "(3) is rightfully received from a third party without breach of an obligation of confidentiality owed to MS; or "
+      },
+      {
+        "span_id": 47,
+        "start": 6230,
+        "end": 6275,
+        "text": "(4) is independently developed by Recipient. "
+      },
+      {
+        "span_id": 48,
+        "start": 6275,
+        "end": 6464,
+        "text": "This provision shall survive the termination or expiration of this Agreement with respect to any information that has not been made public by MS as of the commercial release of the Product."
+      },
+      {
+        "span_id": 49,
+        "start": 6465,
+        "end": 6492,
+        "text": "7. DISCLAIMER OF WARRANTY. "
+      },
+      {
+        "span_id": 50,
+        "start": 6492,
+        "end": 6533,
+        "text": "Product is deemed accepted by Recipient. "
+      },
+      {
+        "span_id": 51,
+        "start": 6533,
+        "end": 6634,
+        "text": "The Product constitutes pre-release code and may be changed substantially before commercial release. "
+      },
+      {
+        "span_id": 52,
+        "start": 6634,
+        "end": 6696,
+        "text": "The PRODUCT IS PROVIDED \"AS IS\" WITHOUT WARRANTY OF ANY KIND. "
+      },
+      {
+        "span_id": 53,
+        "start": 6696,
+        "end": 6918,
+        "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MICROSOFT FURTHER DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. "
+      },
+      {
+        "span_id": 54,
+        "start": 6918,
+        "end": 7029,
+        "text": "THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE PRODUCT AND DOCUMENTATION REMAINS WITH RECIPIENT. "
+      },
+      {
+        "span_id": 55,
+        "start": 7029,
+        "end": 7383,
+        "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) "
+      },
+      {
+        "span_id": 56,
+        "start": 7383,
+        "end": 7531,
+        "text": "ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE PRODUCT, EVEN IF MICROSOFT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. "
+      },
+      {
+        "span_id": 57,
+        "start": 7531,
+        "end": 7708,
+        "text": "BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO RECIPIENT."
+      },
+      {
+        "span_id": 58,
+        "start": 7709,
+        "end": 7743,
+        "text": "8. GOVERNING LAW; ATTORNEYS FEES. "
+      },
+      {
+        "span_id": 59,
+        "start": 7743,
+        "end": 7930,
+        "text": "This Agreement shall be governed by the laws of the State of Washington and Recipient further consents to jurisdiction by the state and federal courts sitting in the State of Washington. "
+      },
+      {
+        "span_id": 60,
+        "start": 7930,
+        "end": 8119,
+        "text": "If either MS or Recipient employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees."
+      },
+      {
+        "span_id": 61,
+        "start": 8120,
+        "end": 8158,
+        "text": "9. U.S. GOVERNMENT RESTRICTED RIGHTS. "
+      },
+      {
+        "span_id": 62,
+        "start": 8158,
+        "end": 8206,
+        "text": "The Product is provided with RESTRICTED RIGHTS. "
+      },
+      {
+        "span_id": 63,
+        "start": 8206,
+        "end": 8312,
+        "text": "Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph "
+      },
+      {
+        "span_id": 64,
+        "start": 8312,
+        "end": 8423,
+        "text": "(c)(1)(ii) of The Rights in Technical Data and Computer Software clause of DFARS 252.227-7013 or subparagraphs "
+      },
+      {
+        "span_id": 65,
+        "start": 8423,
+        "end": 8434,
+        "text": "(c)(i) and "
+      },
+      {
+        "span_id": 66,
+        "start": 8434,
+        "end": 8531,
+        "text": "(2) of the Commercial Computer Software -- Restricted Rights at 48 CFR 52.227-19, as applicable. "
+      },
+      {
+        "span_id": 67,
+        "start": 8531,
+        "end": 8612,
+        "text": "Manufacturer is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399."
+      },
+      {
+        "span_id": 68,
+        "start": 8613,
+        "end": 8638,
+        "text": "10. EXPORT RESTRICTIONS. "
+      },
+      {
+        "span_id": 69,
+        "start": 8638,
+        "end": 8794,
+        "text": "Recipient acknowledges that the Product licensed hereunder is subject to the export control laws and regulations of the U.S.A., and any amendments thereof. "
+      },
+      {
+        "span_id": 70,
+        "start": 8794,
+        "end": 8917,
+        "text": "Recipient confirms that with respect to the Product, it will not export or re-export it, directly or indirectly, either to "
+      },
+      {
+        "span_id": 71,
+        "start": 8917,
+        "end": 9197,
+        "text": "(i) any countries that are subject to U.S.A export restrictions (currently including, but not necessarily limited to, Cuba, the Federal Republic of Yugoslavia (Serbia and Montenegro), Haiti, Iran, Iraq, Libya, North Korea, South Africa (military and police entities), and Syria), "
+      },
+      {
+        "span_id": 72,
+        "start": 9197,
+        "end": 9363,
+        "text": "(ii) any end user who Recipient knows or has reason to know will utilize them in the design, development or production of nuclear, chemical or biological weapons; or "
+      },
+      {
+        "span_id": 73,
+        "start": 9363,
+        "end": 9507,
+        "text": "(iii) any end user who has been prohibited from participating in the U.S.A. export transactions by any federal agency of the U.S.A. government. "
+      },
+      {
+        "span_id": 74,
+        "start": 9507,
+        "end": 9649,
+        "text": "Recipient further acknowledges that the Product may include technical data subject to export and re-export restrictions imposed by U.S.A. law."
+      },
+      {
+        "span_id": 75,
+        "start": 9650,
+        "end": 9672,
+        "text": "11. ENTIRE AGREEMENT. "
+      },
+      {
+        "span_id": 76,
+        "start": 9672,
+        "end": 9928,
+        "text": "This Agreement constitutes the complete and exclusive agreement between MS and Recipient with respect to the subject matter hereof, and supersedes all prior oral or written understandings, communications or agreements not specifically incorporated herein. "
+      },
+      {
+        "span_id": 77,
+        "start": 9928,
+        "end": 10047,
+        "text": "This Agreement may not be modified except in a writing duly signed by an authorized representative of MS and Recipient."
+      },
+      {
+        "span_id": 78,
+        "start": 10048,
+        "end": 10067,
+        "text": "12. PARTIES BOUND. "
+      },
+      {
+        "span_id": 79,
+        "start": 10067,
+        "end": 10375,
+        "text": "If \"Company Name\" or a company address is filled in below, then the individual signing this Agreement represents that he/she has authority to execute this agreement on behalf of such company and agrees that Product (and any copies thereof) shall remain on the company premises, unless otherwise agreed by MS."
+      },
+      {
+        "span_id": 80,
+        "start": 10376,
+        "end": 10396,
+        "text": "IN WITNESS WHEREOF. "
+      },
+      {
+        "span_id": 81,
+        "start": 10396,
+        "end": 10485,
+        "text": "Recipient has caused this Agreement to he executed by its duly authorized representative."
+      },
+      {
+        "span_id": 82,
+        "start": 10486,
+        "end": 10498,
+        "text": "Beta Site ID"
+      },
+      {
+        "span_id": 83,
+        "start": 10499,
+        "end": 10511,
+        "text": "Company Name"
+      },
+      {
+        "span_id": 84,
+        "start": 10512,
+        "end": 10549,
+        "text": "Alpha Site Contact/Tester (Recipient)"
+      },
+      {
+        "span_id": 85,
+        "start": 10550,
+        "end": 10595,
+        "text": "Company Authorized Representative's Signature"
+      },
+      {
+        "span_id": 86,
+        "start": 10596,
+        "end": 10632,
+        "text": "Print Authorized Signature and Title"
+      },
+      {
+        "span_id": 87,
+        "start": 10633,
+        "end": 10665,
+        "text": "Physical Address (No P.O. Boxes)"
+      },
+      {
+        "span_id": 88,
+        "start": 10666,
+        "end": 10682,
+        "text": "City, State, Zip"
+      },
+      {
+        "span_id": 89,
+        "start": 10683,
+        "end": 10695,
+        "text": "Phone Number"
+      },
+      {
+        "span_id": 90,
+        "start": 10696,
+        "end": 10723,
+        "text": "Microsoft Network Member ID"
+      },
+      {
+        "span_id": 91,
+        "start": 10724,
+        "end": 10728,
+        "text": "Date"
+      },
+      {
+        "span_id": 92,
+        "start": 10729,
+        "end": 10739,
+        "text": "RETURN TO:"
+      },
+      {
+        "span_id": 93,
+        "start": 10740,
+        "end": 10763,
+        "text": "WPG Beta Group Address."
+      },
+      {
+        "span_id": 94,
+        "start": 10764,
+        "end": 10785,
+        "text": "Microsoft Corporation"
+      },
+      {
+        "span_id": 95,
+        "start": 10786,
+        "end": 10791,
+        "text": "Attn:"
+      },
+      {
+        "span_id": 96,
+        "start": 10792,
+        "end": 10809,
+        "text": "One Microsoft Way"
+      },
+      {
+        "span_id": 97,
+        "start": 10810,
+        "end": 10832,
+        "text": "Redmond, WA 98052-6399"
+      }
+    ],
+    "confuser_clauses": [
+      {
+        "span_id": 41,
+        "start": 5316,
+        "end": 5577,
+        "text": "Recipient agrees not to disclose or provide the Product, documentation, or any related information (including the Product features or the results of use or testing) to any third party or use the Product for any purpose other than as provided in this Agreement. "
+      },
+      {
+        "span_id": 57,
+        "start": 7531,
+        "end": 7708,
+        "text": "BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO RECIPIENT."
+      },
+      {
+        "span_id": 4,
+        "start": 516,
+        "end": 753,
+        "text": "MS may, in its sole discretion, also provide further pre-releases of the Product or related information to Recipient hereunder, in which case such further pre-releases and related information shall also be covered hereunder as \"Product\"."
+      },
+      {
+        "span_id": 3,
+        "start": 163,
+        "end": 516,
+        "text": "Upon receipt by Microsoft Corporation (\"MS\") of this Agreement, signed and completed by the individual or organization indicated below (\"Recipient\"), MS may elect, at MS' sole discretion, to provide Recipient with a pre-release copy of the MS product MSN Software Development Kit, and related documentation and information (collectively the \"Product\"). "
+      },
+      {
+        "span_id": 42,
+        "start": 5577,
+        "end": 5844,
+        "text": "However, Recipient may disclose confidential information in accordance with judicial or other governmental order, provided Recipient shall give MS reasonable written notice prior to such disclosure and shall comply with any applicable protective order or equivalent. "
+      }
+    ],
+    "policy_text": "Use the full contract and return the final label together with the exact span ids that directly determine it under exception-sensitive reasoning. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "document_type": "sec-text",
+    "gold_label": "contradiction",
+    "gold_variants": [
+      [
+        30,
+        31
+      ]
+    ]
+  }
+}

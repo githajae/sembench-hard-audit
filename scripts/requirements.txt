@@ -1,0 +1,4 @@
+# Standard library is enough for build_tasks.py, render_tasks.py, and
+# aggregate.py. The build script imports from `code/benchmarks` which
+# may pull additional deps; install the project's main requirements.txt
+# (or run `pip install -e code/`) if you hit ImportErrors.

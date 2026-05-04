@@ -1,0 +1,64 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "pair:11149251#41704902",
+  "task": {
+    "task_type": "hard_filter",
+    "pair_id": "11149251#41704902",
+    "left_offer": {
+      "id": 11149251,
+      "brand": null,
+      "title": "CORSAIR - Crystal 680X RGB White High Airflow, Tempered Glass",
+      "description": "CORSAIR Crystal 680X RGB White High Airflow, Tempered Glass (CC-9011169-WW) - Nätaggregat: 0W - Typ: Mid-torn",
+      "price": "3199.00",
+      "price_currency": "SEK",
+      "cluster_id": 28019
+    },
+    "right_offer": {
+      "id": 41704902,
+      "brand": null,
+      "title": "Obudowa Corsair Crystal 680X RGB High Airflow TG White (CC-9011169-WW)",
+      "description": null,
+      "price": "1299.00",
+      "price_currency": "PLN",
+      "cluster_id": 28019
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "accept",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 52425202,
+        "brand": null,
+        "title": "CORSAIR Crystal Series 570X RGB Tempered Glass,Premium ATX Mid-Tower Case, WHITE",
+        "description": "CORSAIR Crystal Series 570X RGB Tempered Glass,Premium ATX Mid-Tower Case, WHITE",
+        "price": "282.99",
+        "price_currency": "CAD",
+        "cluster_id": 79866
+      },
+      {
+        "id": 24927328,
+        "brand": null,
+        "title": "Corsair iCue 465X RGB White",
+        "description": "4mm-Thick Front and Side Tempered Glass Panels, Three Included CORSAIR LL120 RGB Fans, Smart RGB Lighting Control with iCUE, Removable Dust Filters",
+        "price": null,
+        "price_currency": null,
+        "cluster_id": 75807
+      },
+      {
+        "id": 34532774,
+        "brand": null,
+        "title": "Ubiquiti UniFi AP, AC, In Wall, 5-Pack",
+        "description": "UAP-AC-IW - 5 Pack, Indoor, 802.11ac, 5GHz MIMO 2x2, 867Mbps, PoE, 3x 10/100/1000",
+        "price": "3768",
+        "price_currency": "HKD",
+        "cluster_id": 1610496
+      }
+    ]
+  }
+}

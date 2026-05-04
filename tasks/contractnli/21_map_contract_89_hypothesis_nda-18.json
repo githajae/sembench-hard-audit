@@ -1,0 +1,95 @@
+{
+  "benchmark": "contractnli",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "contract:89/hypothesis:nda-18",
+  "task": {
+    "task_type": "hard_map",
+    "contract_id": 89,
+    "hypothesis_key": "nda-18",
+    "hypothesis_text": "Receiving Party shall not solicit some of Disclosing Party's representatives.",
+    "contract_text": "[SPAN 53] Upon written request by DOHMH, Data Recipient shall promptly return to DOHMH Data, notes, and other tangible materials representing the Data and all copies and reproduction thereof (in whole or in part) and shall delete or otherwise destroy any copies or reproductions of such Data that may reside in Data Recipient’s possession, including but not limited to, on Data Recipient’s server, computer systems, or files.\n[SPAN 107] Except as set forth in Section III, Data Recipient shall not reproduce the Data in any form without the prior written consent of DOHMH.\n[SPAN 118] A. Any waiver by DOHMH of any act, failure to act or breach on the part of Data Recipient shall not constitute a waiver by DOHMH of any prior or subsequent act or failure to act or breach by Data Recipient and shall not be effective unless set forth in a written document executed by DOHMH.\n[SPAN 132] Either Party may change its contact information by notice to the other; any such change shall take effect immediately upon delivery of such notice. \n[SPAN 152] A. Data Recipient shall not reveal any individual identifying information such as a person’s date of birth, last name, first name, or any other identifying information in any draft or final publication.\n[SPAN 172] A. The Data Recipient agrees that it shall not subcontract, assign, transfer, convey or otherwise dispose of its obligations under this Agreement except by operation of law, without the prior written consent of the other party.\n[SPAN 180] For purposes of this Agreement, Data Recipient shall be deemed to be acting as an independent entity, and not an agent, of the DOHMH or the City of New York.\n[SPAN 182] Nothing contained herein shall constitute any representation, warranty, or guarantee to the Data Recipient with respect to the value or accuracy of the Data or information exchanged or that such exchanged information does not infringe any rights of third parties. \n[SPAN 183] The City shall not be held liable for any errors or omissions in the Data used or exchanged or in connection with the use of the Data.\n[SPAN 189] If any provision of this Agreement is found by a proper authority to be unenforceable or invalid, such unenforceability or invalidity shall not render this Agreement unenforceable or invalid as a whole and, in such event, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions.",
+    "contract_spans": [
+      {
+        "span_id": 53,
+        "start": 5744,
+        "end": 6159,
+        "text": "Upon written request by DOHMH, Data Recipient shall promptly return to DOHMH Data, notes, and other tangible materials representing the Data and all copies and reproduction thereof (in whole or in part) and shall delete or otherwise destroy any copies or reproductions of such Data that may reside in Data Recipient’s possession, including but not limited to, on Data Recipient’s server, computer systems, or files."
+      },
+      {
+        "span_id": 107,
+        "start": 13089,
+        "end": 13224,
+        "text": "Except as set forth in Section III, Data Recipient shall not reproduce the Data in any form without the prior written consent of DOHMH."
+      },
+      {
+        "span_id": 118,
+        "start": 14078,
+        "end": 14368,
+        "text": "A. Any waiver by DOHMH of any act, failure to act or breach on the part of Data Recipient shall not constitute a waiver by DOHMH of any prior or subsequent act or failure to act or breach by Data Recipient and shall not be effective unless set forth in a written document executed by DOHMH."
+      },
+      {
+        "span_id": 132,
+        "start": 16272,
+        "end": 16420,
+        "text": "Either Party may change its contact information by notice to the other; any such change shall take effect immediately upon delivery of such notice. "
+      },
+      {
+        "span_id": 152,
+        "start": 16984,
+        "end": 17186,
+        "text": "A. Data Recipient shall not reveal any individual identifying information such as a person’s date of birth, last name, first name, or any other identifying information in any draft or final publication."
+      },
+      {
+        "span_id": 172,
+        "start": 19831,
+        "end": 20058,
+        "text": "A. The Data Recipient agrees that it shall not subcontract, assign, transfer, convey or otherwise dispose of its obligations under this Agreement except by operation of law, without the prior written consent of the other party."
+      },
+      {
+        "span_id": 180,
+        "start": 20508,
+        "end": 20665,
+        "text": "For purposes of this Agreement, Data Recipient shall be deemed to be acting as an independent entity, and not an agent, of the DOHMH or the City of New York."
+      },
+      {
+        "span_id": 182,
+        "start": 20689,
+        "end": 20953,
+        "text": "Nothing contained herein shall constitute any representation, warranty, or guarantee to the Data Recipient with respect to the value or accuracy of the Data or information exchanged or that such exchanged information does not infringe any rights of third parties. "
+      },
+      {
+        "span_id": 183,
+        "start": 20953,
+        "end": 21087,
+        "text": "The City shall not be held liable for any errors or omissions in the Data used or exchanged or in connection with the use of the Data."
+      },
+      {
+        "span_id": 189,
+        "start": 21356,
+        "end": 21775,
+        "text": "If any provision of this Agreement is found by a proper authority to be unenforceable or invalid, such unenforceability or invalidity shall not render this Agreement unenforceable or invalid as a whole and, in such event, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions."
+      }
+    ],
+    "inventory_span_ids": [
+      53,
+      107,
+      118,
+      132,
+      152,
+      172,
+      180,
+      182,
+      183,
+      189
+    ],
+    "policy_text": "Return the final NLI label and the exact span ids that justify it from the shown clause inventory. The inventory is intentionally noisy and may include exception-like confusers. Use entailment or contradiction only when the returned spans themselves determine the label. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "gold_label": "not_mentioned",
+    "gold_variants": [
+      []
+    ],
+    "gold_basis_options": [
+      "insufficient_support"
+    ]
+  }
+}

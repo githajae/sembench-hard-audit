@@ -1,0 +1,64 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "pair:13887167#64536135",
+  "task": {
+    "task_type": "hard_filter",
+    "pair_id": "13887167#64536135",
+    "left_offer": {
+      "id": 13887167,
+      "brand": null,
+      "title": "DS-7208HUHI-K2-P Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with Power over Coax (PoC / Turbo4.0)",
+      "description": "Key FeaturesSelf-adaptive normal camera and Hikvision PoC camera connectionH.265+/H.265/H.264+/H.264 encoding for the main stream, and H.265/H.264 for the sub-stream of analog camerasSelf-adaptive HD-TVI / HD-CVI / AHD / CVBS signal inputConnectable to 2 x H.265+/H.265/H.264+/H.264 IP camerasUp to 5 MP resolution for recordingAutomatic power supply management for PoC camera to guarantee safetyHDMI output at up to 4K (3840 × 2160) resolutionLong transmission distance over coax cableSupport up to 8-ch synchronous playback at 1080P resolutionInternet & Smart Phone compatibleDownloadManufacturers Spec Sheet (PDF)Video / Audio InputAudio Input4chVideo compressionH.265+/H.265/H.264+/H.264Analog and HD-TVI Video Input8CH; BNC interface (1.0Vp-p, 75 Ω)Supported Camera TypesSupport HDTVI input: 5Mp,4MP,3MP,1080P/25Hz, 1080P/30Hz,720P/25Hz, 720P/30Hz, 720P/50Hz, 720P/60Hz,Support AHD input: 1080P/25Hz, 1080P/30Hz, 720P/25Hz, 720P/30HzSupport CVI input: 1080P/25Hz, 1080P/30Hz, 720P/25Hz, 720P/30HzSupport CVBS inputSupports Hikvision PoC cameraNote: Do not unplug or plug the PoC camera if it is powered by the external power supplyAudio compressionG.711uAudio input4ch RCA (2.0 Vp-p, 1 KΩ)Video / Audio OutputCVBS output1-ch, BNC(1.0Vp-p,75Ω), resolution:PAL:704x576HDMI / VGA outputVGA: 1-ch, 1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60HzHDMI: 1-ch, 4K (3840 × 2160)/30Hz, 2K (2560 × 1440)/60Hz, 1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60HzRecording resolution5 MP/4 MP/3 MP/1080p/720p/WD1/4CIF/VGA/CIFFrame rateMain stream: 5 MP@12fps/4 MP@15fps/3 MP@18fps1080p/720p/WD1/4CIF/VGA/CIF@25fps (P)/30fps (N)Sub-stream: WD1/4CIF/CIF@25fps (P)/30fps (N)Video bit rate32 Kbps - 6 MbpsStream typeVideo, Video & AudioAudio output1-ch, RCA (Linear, 1KΩ)Audio bit rate64 KbpsDual-streamSupportSynchronous playback8chNetwork ManagementRemote Connections128Network ProtocolsTCP/IP, PPPoE, DHCP, Hik-connect Cloud P2P,DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS,ONVIFHard DiskSATA2 SATA interfaceCapacityUp to 8 TB capacity for each diskExternal InterfaceNetwork interface1; 10M / 100M self-adaptive Ethernet interfaceUSB interface1 x USB 2.0, 1 x USB 3.0Serial interface1; standard RS-485 serial interface, half-duplexAlarm Input8Alarm Output4GeneralPower supply48v DCConsumptionMax 60WWorking temperature-10 °C ~ +55 °CWorking humidity10% ~ 90%Dimensions (W x H x D)380 × 320 × 48 mmWeightApprox. 2Kg",
+      "price": null,
+      "price_currency": null,
+      "cluster_id": 1671509
+    },
+    "right_offer": {
+      "id": 64536135,
+      "brand": null,
+      "title": "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P",
+      "description": "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-PDS-7208HQHI-K2-P este un DVR Turbo HD Hikvision cu 8 canale FullHD care functioneaza cu camere de supraveghere: de pana la 6MP pentru camere IP si 3MP pentru camereTurbo HD (canalele 1 si 2). Transmisia de semnal HDTVI se face la maxim 800 m pentru 1080P si 1200 m pentru 720P. Suporta vizualizarea simultana a 8 canale local cat si la distanta prin Internet de pe PC, Smartphone folosind aplicatiile dedicate (iVMS-4500). Utilizeaza simultan camere HDTVI, AHD, HDCVI, CVBS si IPSpecificatii tehnice DVR Hikvision DS-7208HQHI-K2-P :Video/Audio InputAudio Input: 8-chVideo Compression: H.265 Pro+/H.265 Pro/H.265/H.264+/H.264Analog and HD-TVI video input: 8-ch,BNC interface (1.0Vp-p, 75 Ω)connectionSupported camera types: Support HDTVI input: 4 MP, 3 MP, 1080p30, 1080p25, 720p60, 720p50, 720p30, 720p25Note: The 3 MP signal input is only available for channel 1 of DS-7204HQHI-K1/P, channel 1/2 of DS-7208HQHI-K2/P, and channel 1/2/3/4 of DS-7216HQHI-K2/P..Support AHD input: 4 MP, 1080p25, 1080p30, 720p25, 720p30Support CVI input: 1080p25, 1080p30, 720p25, 720p30Support CVBS inputSupports Hikvision PoC camera*: PoC access capability see Appendix.IP Video Input: up to 12-chVideo Input Interface: BNC (1.0 Vp-p, 75Ω)IP Video Input Resolution: Up to 6 MP resolutionAudio Compression: G.711uAudio Input Interface: RCA (2.0 Vp-p, 1 kΩ)Two-way Audio: 1-ch, RCA (2.0 Vp-p, 1 KΩ), (using the 1st channel of audio input)Video/Audio OutputCVBS Output: 1-ch,BNC(1.0Vp-p,75Ω),resolution:PAL:704x576,NTSC:704x480HDMI/VGA Output: 1920 × 1080 / 60 Hz,1280 × 1024 / 60 Hz, 1280 × 720 / 60 Hz, 1024 × 768 / 60 HzRecording resolution: When 1080p Lite mode not enabled:4 MP lite/3 MP/1080p/1080p lite/720p/WD1/4CIF/VGA/CIFWhen 1080p Lite mode enabled:4 MP lite/3 MP/1080p lite/720p/720p lite/WD1/4CIF/VGA/CIFFrame Rate: Main stream:When 1080p Lite mode not enabled: For 4 MP stream access: 4 MP lite@15fps; 1080p lite/720p/WD1/4CIF/VGA/CIF@25fps (P)/30fps (N) For 3 MP stream access: 3 MP/1080p/720p/VGA/WD1/4CIF/CIF@15fpsFor 1080p stream access: 1080p@15fps; 720p/VGA/WD1/4CIF/CIF@25fps (P)/30fps (N)For 720p stream access: 720p/VGA/WD1/4CIF/CIF@25fps (P)/30fps (N)When 1080p Lite mode enabled: 4 MP lite/3 MP@15fps; 1080p lite/720p lite/VGA/WD1/4CIF/CIF@25fps (P)/30fps (N)Sub-stream: WD1/4CIF@12fps; CIF@25fps (P)/30fps (N)Video Bit Rate: 32 Kbps-6 MbpsStream Type: Video/Video&AudioTwo-way Audio: 1-ch, RCA (2.0 Vp-p, 1 kΩ) (using the audio input)Audio Output: 1-ch RCA(Linear, 1kΩ)Audio Bit Rate: 64kbpsDual Stream: SupportSynchronous Playback: 8-chNetwork managementRemote connections: 64Network protocols: TCP/IP, PPPoE, DHCP, Hik-connect Cloud P2P,DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP, HTTPS,ONVIFHard Disk DriverInterface Type: 2 SATA InterfacesCapacity: Up to 10 TB capacity for each diskExternal InterfaceNetwork Interface: 1; 10M / 100M self-adaptive Ethernet interfaceUSB Interface: 2 USB 2.0 InterfacesSerial Interface: 1; standard RS-485 serial interface, half-duplexGeneralConsumption: ≤ 60 W(without hard disks)Working Temperature: -10 oC to +55 oC (14 oF to 131 oF)Working Humidity: 10% to 90%Dimensions: 380 × 320 × 48 mm (15.0 × 12.6 × 1.9 inch)Weight: ≤ 1.78 kg (3.9 lb)",
+      "price": "687",
+      "price_currency": "LEI",
+      "cluster_id": 28399
+    },
+    "is_hard_negative": true,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "reject",
+    "gold_basis": "variant_or_bundle_mismatch",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 51909448,
+        "brand": "Shimano",
+        "title": "Shimano Shimano PD-R7000 105 SPD-SL PEDAL W/O REFLECTOR W/CLEAT",
+        "description": "Light and durable- 265 grams per pair. Sealed cartridge axle unit. Carbon fiber reinforced body and stainless steel axle.",
+        "price": "149.99",
+        "price_currency": "USD",
+        "cluster_id": 1588018
+      },
+      {
+        "id": 54377216,
+        "brand": null,
+        "title": "Kingston 32GB DDR4 3000MHz Kit(2x16GB) HyperX Predator Intel XMP",
+        "description": "DDR4, 32GB, 3000MHz, Dual Channel, CL15, 1,35V",
+        "price": "75490",
+        "price_currency": "HUF",
+        "cluster_id": 1249448
+      },
+      {
+        "id": 27021728,
+        "brand": "FujiFilm",
+        "title": "Fujinon Lens XF 23mm F1.4 R",
+        "description": "Fujinon Lens XF 23mm F1.4 R",
+        "price": "1319",
+        "price_currency": "AUD",
+        "cluster_id": 2283152
+      }
+    ]
+  }
+}

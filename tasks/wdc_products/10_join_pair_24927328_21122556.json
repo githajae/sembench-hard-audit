@@ -1,0 +1,55 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:24927328#21122556",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "24927328#21122556",
+    "left_offer": {
+      "id": 24927328,
+      "brand": null,
+      "title": "Corsair iCue 465X RGB White",
+      "description": "4mm-Thick Front and Side Tempered Glass Panels, Three Included CORSAIR LL120 RGB Fans, Smart RGB Lighting Control with iCUE, Removable Dust Filters",
+      "price": null,
+      "price_currency": null,
+      "cluster_id": 75807
+    },
+    "right_offer": {
+      "id": 21122556,
+      "brand": null,
+      "title": "Fujifilm INSTAX Mini Monochrome Instant Film (10 Exposures)",
+      "description": "The Fujifilm INSTAX Mini Monochrom Instant Filmresponds to the increasingly sophisticated demands of users, enabling them to expand the artistic potential of their photographic expression and adding a further dimension to fun-to-use Instax cameras and films. This film is ISO 800 and designed for balanced tonality and fine grain in...",
+      "price": "9.95",
+      "price_currency": "USD",
+      "cluster_id": 165928
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "non_match",
+    "gold_basis": "insufficient_support",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 33622216,
+        "brand": "LINOVISION",
+        "title": "DS-1273ZJ-140 Outdoor Indoor Wall Mount Bracket for Hikvision Dome Camera",
+        "description": "Package Contents:BracketScrewsWarranty:24/7 US local+ Global technical support2 year US local warrantyFree return in 30 daysImportant Notes:EmptyCamera Bracket Only, CCTVCameraisnotincluded.Compatible with Hikvision Analog camera：DS-2CE56D5T-(A)VPIR3, DS-2CE56D5T-AVPIR3Z(H), DS-2CE56D1T-(A)VPIR3(Z), DS-2CE56C5T-(A)VPIR3, DS-2CE56D7T-(A)VPIT3Z, DS-2CE56D8T-(A)VPIT3Z/VPIT3ZE, DS-2CC52D9T-AVPIT3ZE, DS-2CE56D0T-VPIR3E, DS-2CE56F7T-(A)VPIT3Z, DS-2CE56H0T-(A)VPIT3ZF/VPIT3ZE, DS-2CE56",
+        "price": "31.99",
+        "price_currency": "USD",
+        "cluster_id": 738794
+      },
+      {
+        "id": 31510768,
+        "brand": null,
+        "title": "SWITCH TP-LINK 24 PORT GIGA",
+        "description": null,
+        "price": "92.780111",
+        "price_currency": "EUR",
+        "cluster_id": 180905
+      }
+    ]
+  }
+}

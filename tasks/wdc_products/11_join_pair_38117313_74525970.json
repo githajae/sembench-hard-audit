@@ -1,0 +1,55 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:38117313#74525970",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "38117313#74525970",
+    "left_offer": {
+      "id": 38117313,
+      "brand": null,
+      "title": "Kingston 16GB DataTraveler microDuo USB 3.0 OTG Flash Drive",
+      "description": "Kingston 16GB DataTraveler microDuo USB 3.0 OTG Flash DriveCanDo I.T Warranty: 30 Days DOAManufactures Warranty: 5 Years",
+      "price": "19.99",
+      "price_currency": "CAD",
+      "cluster_id": 70963
+    },
+    "right_offer": {
+      "id": 74525970,
+      "brand": "KINGSTON",
+      "title": "Cle Usb KINGSTON 16GB DT MicroDuo USB 3.0 micro USB OTG",
+      "description": "Cle Usb KINGSTON 16GB DT MicroDuo USB 3.0 micro USB OTG",
+      "price": "7.99",
+      "price_currency": "EUR",
+      "cluster_id": 70963
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "match",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 11620368,
+        "brand": null,
+        "title": "Kingston DataTraveler G4 - USB flash drive - 16 GB - USB 3.0 - blue",
+        "description": "16 GB • USB 3.0 • 40 MB/s/10 MB/s • Blauw",
+        "price": "14.99",
+        "price_currency": "EUR",
+        "cluster_id": 1915191
+      },
+      {
+        "id": 38693547,
+        "brand": null,
+        "title": "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad",
+        "description": "At-a-Glance OverviewFree up space on your iPhone1Automatically back up your photos and videos2Watch popular-format videos directly from the drive3Designed with a flexible connector to fit most iPhone casesHigh-speed USB 3.0 transfer to and from your computerEasily manage your photos and videos with the iXpand Drive app2Free up Space FastFree up space on your iPhone or iPad quickly and easily with the iXpand Flash Drive1. Plug in the Lightning connector and you can easily move photos, videos and other files off your device and onto the drive. From there, you can transfer the files onto a PC or Mac computer or store them on the drive.Automatic Photo BackupSet the iXpand Drive app to automatically back up your iPhone or iPad camera roll anytime the drive is connected2. No need to manually select which photos to back up. Every time you plug it in, it does the work for you.Watch Videos on the MoveThe iXpand Flash Drive supports popular video formats (.WMV, .AVI, .MKV, .MP4, .MOV) so you can store and watch videos straight from the drive via your device3, making it a terrific travel companion.Works with Most CasesThe iXpand Flash Drive is designed with a flexible connector to plug directly into your iPhone or iPad without having to remove your case.USB 3.0 High-speed TransfersPlug the drive into your computer’s USB 3.0 port and transfer files fast.iXpand Drive AppAvailable from the App Store, the iXpand Drive app makes it easy to manage photos and videos and also enables you to watch popular video formats3 directly from the drive.1 iPhone 5, iPhone 5c, iPhone 5s, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone 7 iPad Air™, iPad mini™, iPad mini 4, iPad Pro, iPad with Retina display, iPod® 5th Generation and newer; iXpand Drive app and iOS 8.2 required.2 Available for download from the App Store. iOS 8.2 required. Setup automatic backup within app settings.3 Support for .WMV, .AVI, .MKV, .MP4, .MOV video formats. DRM-protected content cannot be streamed. Check with the content provider for playback restrictions.4 iPhone 5, iPhone 5c, iPhone 5s, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone 7, iPad Air™, iPad mini™, iPad mini 4, iPad Pro, iPad with Retina display, iPod® 5th Generation and newer (iOS 8.2) iXpand Drive app and iOS 8.2 required. Support for .WMV, .AVI, .MKV, .MP4, .MOV video formats. DRM-protected content cannot be streamed. Check with the content provider for playback restrictions.5 Password protection uses 128-bit AES encryption and is supported by iOS 8.2, Mac OS X v10.8, Windows Vista®, Windows® 7, Windows 8 and Windows 10.6 1GB=1,000,000,000 bytes. Actual user storage less.7 see www.sandisk.com/wug",
+        "price": "31.99",
+        "price_currency": "GBP",
+        "cluster_id": 279041
+      }
+    ]
+  }
+}

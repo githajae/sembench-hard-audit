@@ -1,0 +1,44 @@
+{
+  "annotator_id": "example_alice",
+  "started_at": "2026-05-04T10:00:00Z",
+  "finished_at": "2026-05-04T13:42:00Z",
+  "_comment": "This file is for reference only. The aggregator skips any responses/*.json file whose name starts with EXAMPLE.",
+  "ratings": {
+    "scifact:hard_join:claim_42:doc_4983040": {
+      "naturalness": 5,
+      "verifier_validity": "agree",
+      "confidence": "high",
+      "notes": ""
+    },
+    "scifact:hard_filter:claim_99:doc_2151771": {
+      "naturalness": 4,
+      "verifier_validity": "agree",
+      "confidence": "high",
+      "notes": "Slight wrinkle in the policy text but reads as a real evidence-extraction call."
+    },
+    "scifact:hard_map:claim_77": {
+      "naturalness": 3,
+      "verifier_validity": "disagree_too_strict",
+      "confidence": "medium",
+      "notes": "Verifier requires the basis enum to be 'direct_support' but the abstract supports the claim only with a paraphrase. I would accept either 'direct_support' or 'partial_support' here."
+    },
+    "contractnli:hard_rank:doc_18:nda_24": {
+      "naturalness": 4,
+      "verifier_validity": "agree",
+      "confidence": "high",
+      "notes": ""
+    },
+    "wdc_products:hard_join:pair_103992": {
+      "naturalness": 5,
+      "verifier_validity": "agree",
+      "confidence": "high",
+      "notes": ""
+    },
+    "swebench_verified:hard_filter:django__django-12345": {
+      "naturalness": 2,
+      "verifier_validity": "disagree_other",
+      "confidence": "low",
+      "notes": "Hardened constraint asks for files 'directly' modified in the gold patch, but two of the gold-patched files are auto-generated. Verifier rejects answers that exclude them; I would accept those exclusions."
+    }
+  }
+}

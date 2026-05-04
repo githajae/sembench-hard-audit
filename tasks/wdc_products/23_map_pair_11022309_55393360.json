@@ -1,0 +1,61 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "pair:11022309#55393360",
+  "task": {
+    "task_type": "hard_map",
+    "pair_id": "11022309#55393360",
+    "left_offer": {
+      "id": 11022309,
+      "brand": null,
+      "title": "APPLE - Apple AirPods 2 with Wireless Charging Case MRXJ2ZM/A - White",
+      "description": "APPLE Apple AirPods 2 with Wireless Charging Case MRXJ2ZM/A - White (MRXJ2ZM/A) - Type: Trådløst headset",
+      "price": "2396.00",
+      "price_currency": "NOK",
+      "cluster_id": 1126552
+    },
+    "right_offer": {
+      "id": 55393360,
+      "brand": null,
+      "title": "APPLE - AIRPODS WITH WIRELESS CHARGING CASE IN",
+      "description": "APPLE AIRPODS WITH WIRELESS CHARGING CASE IN (MRXJ2ZM/A) - Typ: Trådlöst headset",
+      "price": "3940.00",
+      "price_currency": "SEK",
+      "cluster_id": 1126552
+    },
+    "gold_label": "match",
+    "same_cluster": true,
+    "matched_attribute_hints": [
+      "title"
+    ],
+    "conflict_attribute_hints": [
+      "price"
+    ],
+    "policy_text": "Return a normalized match report that is internally consistent. A match requires the same core product, not only a nearby accessory or variant.",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 80086981,
+        "brand": null,
+        "title": "TP-Link Archer T9UH Wireless AC1900 USB Adapter",
+        "description": "TP-Link Archer T9UH Wireless USB Adapter, Wireless AC1900",
+        "price": "99.00",
+        "price_currency": "AUD",
+        "cluster_id": 1155981
+      },
+      {
+        "id": 76195289,
+        "brand": "SWISS MILITARY HANOWA",
+        "title": "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07",
+        "description": "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07",
+        "price": "7380.0000",
+        "price_currency": "UAH",
+        "cluster_id": 2058376
+      }
+    ]
+  }
+}

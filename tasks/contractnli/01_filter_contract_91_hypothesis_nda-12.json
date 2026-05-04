@@ -1,0 +1,565 @@
+{
+  "benchmark": "contractnli",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "contract:91/hypothesis:nda-12",
+  "task": {
+    "task_type": "hard_filter",
+    "contract_id": 91,
+    "hypothesis_key": "nda-12",
+    "hypothesis_text": "Receiving Party may independently develop information similar to Confidential Information.",
+    "contract_text": "MUTUAL NON-DISCLOSURE AGREEMENT\nThis Mutual Non-Disclosure Agreement (“Agreement”) is made and entered into on the date signed below by and between\n_________________________________ (hereinafter “COMPANY”) and Dealer Pay, LLC (hereinafter “Dealer Pay”).\nRECITALS:\nWHEREAS, Dealer Pay owns and/or controls certain proprietary and confidential intellectual property, namely, a point-of-sale software platform for the automotive industry; and\nWHEREAS, Dealer Pay and COMPANY desire to explore the possibility of entering into one or more potential business transactions or relationships (each a “Business Relationship”), with the understanding that any such Business Relationship would be embodied in a mutually acceptable, definitive written agreement executed by the parties; and\nWHEREAS, in connection with any Business Relationship and any discussions, demonstrations, evaluations and negotiations concerning a potential Business Relationship (“Discussions”), each party and/or its affiliates and/or their respective Representatives (as such term is defined below), may receive, observe and/or have physical or electronic access to certain Confidential Information (as defined below) of the other party and/or its affiliates; and\nWHEREAS, Dealer Pay and COMPANY desire to ensure that appropriate confidentiality obligations are in place to protect Confidential Information from unauthorized access, use and disclosure.\nNOW, THEREFORE, in consideration of the foregoing and the mutual covenants made herein, each party hereby agrees as follows:\nI. DEFINITIONS:\nA. “Confidential Information” as used herein any and all confidential and/or proprietary information concerning the Originating Party’s business and such party’s trade secrets, proprietary data and business data, whether oral or written, tangible or intangible, which is disclosed to or learned by the Receiving Party in the course of the Discussions or otherwise while working with the Originating Party, and/or discovered, developed, conceived, originated, appreciably modified, or prepared in scope of Receiving Party’s relationship with the Originating Party, including but not limited to the following:\n1. Business plans, acquisition plans, expansion plans, business development plans;\n2. Financial information, personnel information, training information, management systems and recruitment strategies;\n3. All commercial data relating to the business and products of Originating Party;\n4. Identity and contact information regarding vendors and suppliers;\n5. Specifications regarding Originating Party’s products (including inventions, formulas, machinery and equipment, use of raw materials);\n6. Pricing and marketing/business strategies;\n7. Details regarding manufacturing processes and techniques;\n8. Customer identities and customer contact information;\n9. Customer credit information;\n10. Information regarding customer preferences and particularized needs;\n11. Product development strategies, expansion plans, and internal business plans, procedures, or methods of operation; and\n12. Design documents or source code.\n13. “Confidential Information” shall not include information which, now or in the future, is available to the public (other than through improper disclosure by the Receiving Party); information rightly acquired from a third party without any obligation of confidentiality; information that is independently developed without the use of any Confidential Information; or information already known by Receiving Party prior to disclosure by Originating Party, as demonstrated by written evidence.\nB. “Customer” as used herein shall include any person, firm or other business entity which receiving party has directly or indirectly contacted, who have contacted him/her, for whom he/she has conducted training sessions, or whom have been referred to him/her on behalf of Originating Party in regard to originating parties business with respect to the purchase or offering of Originating Party’s products and/or services.\nC. “Originating Party” as used herein shall refer to the party who discloses the Confidential Information or Intellectual Property to the Receiving Party.\nD. “Receiving Party” as used herein shall refer to the party who receives the Confidential Information or Intellectual Property from the Originating Party.\nE. “Representative” means directors, officers, employees, accountants, attorneys, lenders of funds and agents of a party or its affiliates.\nII. NON-DISCLOSURE AGREEMENT: Both parties recognizes and acknowledges that, in an effort to foster the Discussions one or both of the parties has provided and/or will provide, at no cost, fee, charge or expense to Receiving Party, Confidential Information of a special and unique value and nature developed and/or acquired by (and/or being developed or acquired by) Originating Party at great expense and cost to Originating Party which, if it were to come into the possession of Originating Party’s competitors, would cause irreparable damage to Originating Party, its competitive advantage and its ability to operate profitably. Receiving Party acknowledges that, prior to its relationship with Originating Party and prior to execution of this Agreement, Receiving Party had no knowledge of any of the aforesaid information. Receiving Party therefore agrees that neither it nor its Representatives will at any time make any independent business or personal use of, retain, copy, divulge, disclose, reveal or communicate to any other person or organization (except as expressly authorized in writing by Originating Party, as required to analyze the Business Relationship or as required to fulfill Receiving Party’s obligations to Originating Party) any Confidential Information. Both parties agree that the obligations under this Agreement are in addition to all duties and obligations imposed upon each party by operation of law including but not limited to common-law and statute. Both parties further agree that their obligations under this paragraph survive the termination of the relationship between the two parties.\nIII. LEGALLY REQUIRED DISCLOSURES: If Receiving Party is requested to disclose any Confidential Information of the Originating Party under applicable law, in any judicial or administrative proceeding, or in response to a formal request of a regulatory or governmental authority (including law enforcement), then, except as otherwise required to comply with applicable law, the Receiving Party shall promptly notify the Originating Party of such request so that Originating Party may resist such disclosure or seek an appropriate protective order, and shall provide all information and assistance reasonably requested by Originating Party in connection therewith, at the Originating Party’s sole expense. If the Receiving Party is nonetheless compelled to disclose any Confidential Information of the Originating Party, the Receiving Party shall limit its disclosure to that which, in the reasonable opinion of counsel, is required under applicable law.\nIV. NO REVERSE ENGINEERING; WORK PRODUCT: Receiving Party shall not reverse-engineer, analyze, attempt to duplicate or otherwise attempt to determine the design or method of compiling samples, prototypes or products of the Originating Party except pursuant to a mutually acceptable, written agreement executed by the parties. In the event that Receiving Party performs any services or testing for or on behalf of Originating Party without entering into such a written agreement, then any information or data developed by Receiving Party in connection with such services or tests shall be considered the Originating Party’s Confidential Information and shall be maintained as such and kept confidential in accordance with the provisions of this Agreement. All such information and data shall belong to Originating Party exclusively and Receiving Party shall execute any instruments determined by Originating Party to be reasonably necessary to confirm Originating Party’s ownership thereof.\nV. NON-SOLICITATION OF EMPLOYEES AND/OR CONTRACTORS: Receiving Party recognizes and acknowledges that, while engaged in Discussions and/or while involved in a Business Relationship, such party will be in a position to utilize Originating Party’s goodwill and have access to and/or utilize Confidential Information of Originating Party that would enable Receiving Party to take advantage of that goodwill and/or Confidential Information to the detriment of the Originating Party, by attempting, for example, to recruit or solicit employees, and/or contractors of Originating Party. Receiving Party agrees and acknowledges that this would have the effect of causing the cessation or curtailment of the Business Relationship and would otherwise unfairly damage the business prospects of Originating Party. Therefore, in consideration of the mutual agreements made in this Agreement, during the course of the Business Relationship and for a period of 36 months after termination of the Business Relationship, Receiving Party agrees not to directly or indirectly communicate, solicit, induce, hire, recruit, take away, employ, endeavor to employ (on Receiving Party’s own behalf or on behalf of any other person or entity) or attempt to influence any employee or contractor in any way that may have the effect of causing the cessation or curtailment of their respective relationships with Originating Party.\nVI. NO COMMITMENT; NO LICENSE; NO WARRANTY: Neither party shall be obligated under this Agreement to commence or continue with any Discussions, enter into any particular Business Relationship, or disclose any particular Confidential Information to the other party. No express or implied license under any intellectual property rights of either party is granted or conveyed to the other party under this Agreement. ALL CONFIDENTIAL INFORMATION IS PROVIDED UNDER THIS AGREEMENT “AS IS” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AND DISCLOSER DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.\nVII. ATTORNEY'S FEES: If any legal action is brought by any party hereto, it is expressly agreed that the prevailing party in such action or dispute shall be entitled to recover from the other party attorney's fees and costs in addition to any other relief that may be awarded. For the purpose of this Paragraph, the \"prevailing party\" shall be the party in whose favor a final judgment is entered.\nVIII. SEVERABILITY: It is the intent and agreement of the parties to this agreement that, in case any one or more of the provisions of this agreement shall, for any reason, be held to be invalid, illegal or unenforceable, such invalidity, illegality or unenforceability shall not affect any other provision of this agreement and this agreement shall be construed as if such invalid, illegal or unenforceable provision had never been contained herein except that this shall not prohibit any modification allowed or agreed upon pursuant to the terms of this agreement or any right of reformation.\nIX. GOVERNING LAW AND VENUE: This Agreement shall be governed by and construed in accordance with the procedural and substantive laws of the State of Missouri. The parties to this Agreement consent and designate St. Louis County, Missouri as the sole venue and location for any suit or other proceeding of any kind regarding any aspect of this agreement and all issues arising out of or relating to the independent relationship between the parties.\nX. ASSIGNMENT: This Agreement is binding upon and shall inure to the benefit of the parties hereto and the successors and the assigns of all parties herein. Each party may assign or transfer this Agreement to a successor business entity in the event of a merger, consolidation, transfer or sale of the assets of said party. Any purported assignment of this Agreement, other than as provided above, shall be void.\nXI. NOTICES: Except as expressly set forth to the contrary in this Agreement, all notices, requests, consents or other communications (each a \"Notice\") provided for or permitted to be given under this Agreement must be in writing and must be given either (i) by depositing the Notice in the United States mail, addressed to the recipient, postage paid, and registered or certified with return receipt requested or (ii) by delivering the Notice to the recipient in person, by courier, or by facsimile transmission. A Notice given under this Agreement is effective on receipt by the party to receive it. Any Notice to any party must be sent to or made at that party’s address (or facsimile number if applicable) given below such party’s signature or such other address or facsimile number as that party may specify by delivering a Notice in compliance with this paragraph.\nXII. EQUITABLE RELIEF: Each party recognizes that any actual or threatened breach of the provisions of this Agreement would cause irreparable harm to the other party, the extent of which would be difficult and impracticable to assess, and that money damages would not be an adequate remedy for such breach. Accordingly, in addition to and not in limitation of any other remedies at law or in equity available under the circumstances, and notwithstanding any jurisdiction and venue requirements of this Agreement, each party shall be entitled to seek immediate injunctive and other non-monetary equitable relief in any court of competent jurisdiction without the need or requirement of any bond, provided that if a bond is required, the bond shall not exceed $1,000.00.\nIN WITNESS WHEREOF, the parties, intending to be legally bound, have executed this Agreement as of the last date set forth below by the undersigned duly authorized representatives.\nDealer Pay, LLC ________________________________(Company)\nPO Box 1691\n________________________________(Street Address)\nSt. Charles, MO 63302\n________________________________(City, State, Zip)\nJulie R. Douglas\n________________________________(Name)\nPresident\n________________________________(Title)\n_________________________________ _________________________________\n(Signature) (Signature)\n_________________________________ _________________________________\n(Date) (Date)\n",
+    "contract_spans": [
+      {
+        "span_id": 0,
+        "start": 0,
+        "end": 31,
+        "text": "MUTUAL NON-DISCLOSURE AGREEMENT"
+      },
+      {
+        "span_id": 1,
+        "start": 32,
+        "end": 147,
+        "text": "This Mutual Non-Disclosure Agreement (“Agreement”) is made and entered into on the date signed below by and between"
+      },
+      {
+        "span_id": 2,
+        "start": 148,
+        "end": 253,
+        "text": "_________________________________ (hereinafter “COMPANY”) and Dealer Pay, LLC (hereinafter “Dealer Pay”)."
+      },
+      {
+        "span_id": 3,
+        "start": 254,
+        "end": 263,
+        "text": "RECITALS:"
+      },
+      {
+        "span_id": 4,
+        "start": 264,
+        "end": 439,
+        "text": "WHEREAS, Dealer Pay owns and/or controls certain proprietary and confidential intellectual property, namely, a point-of-sale software platform for the automotive industry; and"
+      },
+      {
+        "span_id": 5,
+        "start": 440,
+        "end": 778,
+        "text": "WHEREAS, Dealer Pay and COMPANY desire to explore the possibility of entering into one or more potential business transactions or relationships (each a “Business Relationship”), with the understanding that any such Business Relationship would be embodied in a mutually acceptable, definitive written agreement executed by the parties; and"
+      },
+      {
+        "span_id": 6,
+        "start": 779,
+        "end": 1230,
+        "text": "WHEREAS, in connection with any Business Relationship and any discussions, demonstrations, evaluations and negotiations concerning a potential Business Relationship (“Discussions”), each party and/or its affiliates and/or their respective Representatives (as such term is defined below), may receive, observe and/or have physical or electronic access to certain Confidential Information (as defined below) of the other party and/or its affiliates; and"
+      },
+      {
+        "span_id": 7,
+        "start": 1231,
+        "end": 1419,
+        "text": "WHEREAS, Dealer Pay and COMPANY desire to ensure that appropriate confidentiality obligations are in place to protect Confidential Information from unauthorized access, use and disclosure."
+      },
+      {
+        "span_id": 8,
+        "start": 1420,
+        "end": 1544,
+        "text": "NOW, THEREFORE, in consideration of the foregoing and the mutual covenants made herein, each party hereby agrees as follows:"
+      },
+      {
+        "span_id": 9,
+        "start": 1545,
+        "end": 1560,
+        "text": "I. DEFINITIONS:"
+      },
+      {
+        "span_id": 10,
+        "start": 1561,
+        "end": 2168,
+        "text": "A. “Confidential Information” as used herein any and all confidential and/or proprietary information concerning the Originating Party’s business and such party’s trade secrets, proprietary data and business data, whether oral or written, tangible or intangible, which is disclosed to or learned by the Receiving Party in the course of the Discussions or otherwise while working with the Originating Party, and/or discovered, developed, conceived, originated, appreciably modified, or prepared in scope of Receiving Party’s relationship with the Originating Party, including but not limited to the following:"
+      },
+      {
+        "span_id": 11,
+        "start": 2169,
+        "end": 2251,
+        "text": "1. Business plans, acquisition plans, expansion plans, business development plans;"
+      },
+      {
+        "span_id": 12,
+        "start": 2252,
+        "end": 2369,
+        "text": "2. Financial information, personnel information, training information, management systems and recruitment strategies;"
+      },
+      {
+        "span_id": 13,
+        "start": 2370,
+        "end": 2452,
+        "text": "3. All commercial data relating to the business and products of Originating Party;"
+      },
+      {
+        "span_id": 14,
+        "start": 2453,
+        "end": 2521,
+        "text": "4. Identity and contact information regarding vendors and suppliers;"
+      },
+      {
+        "span_id": 15,
+        "start": 2522,
+        "end": 2550,
+        "text": "5. Specifications regarding "
+      },
+      {
+        "span_id": 16,
+        "start": 2550,
+        "end": 2659,
+        "text": "Originating Party’s products (including inventions, formulas, machinery and equipment, use of raw materials);"
+      },
+      {
+        "span_id": 17,
+        "start": 2660,
+        "end": 2705,
+        "text": "6. Pricing and marketing/business strategies;"
+      },
+      {
+        "span_id": 18,
+        "start": 2706,
+        "end": 2766,
+        "text": "7. Details regarding manufacturing processes and techniques;"
+      },
+      {
+        "span_id": 19,
+        "start": 2767,
+        "end": 2823,
+        "text": "8. Customer identities and customer contact information;"
+      },
+      {
+        "span_id": 20,
+        "start": 2824,
+        "end": 2855,
+        "text": "9. Customer credit information;"
+      },
+      {
+        "span_id": 21,
+        "start": 2856,
+        "end": 2928,
+        "text": "10. Information regarding customer preferences and particularized needs;"
+      },
+      {
+        "span_id": 22,
+        "start": 2929,
+        "end": 3051,
+        "text": "11. Product development strategies, expansion plans, and internal business plans, procedures, or methods of operation; and"
+      },
+      {
+        "span_id": 23,
+        "start": 3052,
+        "end": 3088,
+        "text": "12. Design documents or source code."
+      },
+      {
+        "span_id": 24,
+        "start": 3089,
+        "end": 3581,
+        "text": "13. “Confidential Information” shall not include information which, now or in the future, is available to the public (other than through improper disclosure by the Receiving Party); information rightly acquired from a third party without any obligation of confidentiality; information that is independently developed without the use of any Confidential Information; or information already known by Receiving Party prior to disclosure by Originating Party, as demonstrated by written evidence."
+      },
+      {
+        "span_id": 25,
+        "start": 3582,
+        "end": 4004,
+        "text": "B. “Customer” as used herein shall include any person, firm or other business entity which receiving party has directly or indirectly contacted, who have contacted him/her, for whom he/she has conducted training sessions, or whom have been referred to him/her on behalf of Originating Party in regard to originating parties business with respect to the purchase or offering of Originating Party’s products and/or services."
+      },
+      {
+        "span_id": 26,
+        "start": 4005,
+        "end": 4159,
+        "text": "C. “Originating Party” as used herein shall refer to the party who discloses the Confidential Information or Intellectual Property to the Receiving Party."
+      },
+      {
+        "span_id": 27,
+        "start": 4160,
+        "end": 4315,
+        "text": "D. “Receiving Party” as used herein shall refer to the party who receives the Confidential Information or Intellectual Property from the Originating Party."
+      },
+      {
+        "span_id": 28,
+        "start": 4316,
+        "end": 4455,
+        "text": "E. “Representative” means directors, officers, employees, accountants, attorneys, lenders of funds and agents of a party or its affiliates."
+      },
+      {
+        "span_id": 29,
+        "start": 4456,
+        "end": 5088,
+        "text": "II. NON-DISCLOSURE AGREEMENT: Both parties recognizes and acknowledges that, in an effort to foster the Discussions one or both of the parties has provided and/or will provide, at no cost, fee, charge or expense to Receiving Party, Confidential Information of a special and unique value and nature developed and/or acquired by (and/or being developed or acquired by) Originating Party at great expense and cost to Originating Party which, if it were to come into the possession of Originating Party’s competitors, would cause irreparable damage to Originating Party, its competitive advantage and its ability to operate profitably. "
+      },
+      {
+        "span_id": 30,
+        "start": 5088,
+        "end": 5284,
+        "text": "Receiving Party acknowledges that, prior to its relationship with Originating Party and prior to execution of this Agreement, Receiving Party had no knowledge of any of the aforesaid information. "
+      },
+      {
+        "span_id": 31,
+        "start": 5284,
+        "end": 5341,
+        "text": "Receiving Party therefore agrees that neither it nor its "
+      },
+      {
+        "span_id": 32,
+        "start": 5341,
+        "end": 5737,
+        "text": "Representatives will at any time make any independent business or personal use of, retain, copy, divulge, disclose, reveal or communicate to any other person or organization (except as expressly authorized in writing by Originating Party, as required to analyze the Business Relationship or as required to fulfill Receiving Party’s obligations to Originating Party) any Confidential Information. "
+      },
+      {
+        "span_id": 33,
+        "start": 5737,
+        "end": 5941,
+        "text": "Both parties agree that the obligations under this Agreement are in addition to all duties and obligations imposed upon each party by operation of law including but not limited to common-law and statute. "
+      },
+      {
+        "span_id": 34,
+        "start": 5941,
+        "end": 6080,
+        "text": "Both parties further agree that their obligations under this paragraph survive the termination of the relationship between the two parties."
+      },
+      {
+        "span_id": 35,
+        "start": 6081,
+        "end": 6785,
+        "text": "III. LEGALLY REQUIRED DISCLOSURES: If Receiving Party is requested to disclose any Confidential Information of the Originating Party under applicable law, in any judicial or administrative proceeding, or in response to a formal request of a regulatory or governmental authority (including law enforcement), then, except as otherwise required to comply with applicable law, the Receiving Party shall promptly notify the Originating Party of such request so that Originating Party may resist such disclosure or seek an appropriate protective order, and shall provide all information and assistance reasonably requested by Originating Party in connection therewith, at the Originating Party’s sole expense. "
+      },
+      {
+        "span_id": 36,
+        "start": 6785,
+        "end": 7033,
+        "text": "If the Receiving Party is nonetheless compelled to disclose any Confidential Information of the Originating Party, the Receiving Party shall limit its disclosure to that which, in the reasonable opinion of counsel, is required under applicable law."
+      },
+      {
+        "span_id": 37,
+        "start": 7034,
+        "end": 7360,
+        "text": "IV. NO REVERSE ENGINEERING; WORK PRODUCT: Receiving Party shall not reverse-engineer, analyze, attempt to duplicate or otherwise attempt to determine the design or method of compiling samples, prototypes or products of the Originating Party except pursuant to a mutually acceptable, written agreement executed by the parties. "
+      },
+      {
+        "span_id": 38,
+        "start": 7360,
+        "end": 7789,
+        "text": "In the event that Receiving Party performs any services or testing for or on behalf of Originating Party without entering into such a written agreement, then any information or data developed by Receiving Party in connection with such services or tests shall be considered the Originating Party’s Confidential Information and shall be maintained as such and kept confidential in accordance with the provisions of this Agreement. "
+      },
+      {
+        "span_id": 39,
+        "start": 7789,
+        "end": 8023,
+        "text": "All such information and data shall belong to Originating Party exclusively and Receiving Party shall execute any instruments determined by Originating Party to be reasonably necessary to confirm Originating Party’s ownership thereof."
+      },
+      {
+        "span_id": 40,
+        "start": 8024,
+        "end": 8605,
+        "text": "V. NON-SOLICITATION OF EMPLOYEES AND/OR CONTRACTORS: Receiving Party recognizes and acknowledges that, while engaged in Discussions and/or while involved in a Business Relationship, such party will be in a position to utilize Originating Party’s goodwill and have access to and/or utilize Confidential Information of Originating Party that would enable Receiving Party to take advantage of that goodwill and/or Confidential Information to the detriment of the Originating Party, by attempting, for example, to recruit or solicit employees, and/or contractors of Originating Party. "
+      },
+      {
+        "span_id": 41,
+        "start": 8605,
+        "end": 8827,
+        "text": "Receiving Party agrees and acknowledges that this would have the effect of causing the cessation or curtailment of the Business Relationship and would otherwise unfairly damage the business prospects of Originating Party. "
+      },
+      {
+        "span_id": 42,
+        "start": 8827,
+        "end": 9426,
+        "text": "Therefore, in consideration of the mutual agreements made in this Agreement, during the course of the Business Relationship and for a period of 36 months after termination of the Business Relationship, Receiving Party agrees not to directly or indirectly communicate, solicit, induce, hire, recruit, take away, employ, endeavor to employ (on Receiving Party’s own behalf or on behalf of any other person or entity) or attempt to influence any employee or contractor in any way that may have the effect of causing the cessation or curtailment of their respective relationships with Originating Party."
+      },
+      {
+        "span_id": 43,
+        "start": 9427,
+        "end": 9692,
+        "text": "VI. NO COMMITMENT; NO LICENSE; NO WARRANTY: Neither party shall be obligated under this Agreement to commence or continue with any Discussions, enter into any particular Business Relationship, or disclose any particular Confidential Information to the other party. "
+      },
+      {
+        "span_id": 44,
+        "start": 9692,
+        "end": 9841,
+        "text": "No express or implied license under any intellectual property rights of either party is granted or conveyed to the other party under this Agreement. "
+      },
+      {
+        "span_id": 45,
+        "start": 9841,
+        "end": 10084,
+        "text": "ALL CONFIDENTIAL INFORMATION IS PROVIDED UNDER THIS AGREEMENT “AS IS” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AND DISCLOSER DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT."
+      },
+      {
+        "span_id": 46,
+        "start": 10085,
+        "end": 10363,
+        "text": "VII. ATTORNEY'S FEES: If any legal action is brought by any party hereto, it is expressly agreed that the prevailing party in such action or dispute shall be entitled to recover from the other party attorney's fees and costs in addition to any other relief that may be awarded. "
+      },
+      {
+        "span_id": 47,
+        "start": 10363,
+        "end": 10483,
+        "text": "For the purpose of this Paragraph, the \"prevailing party\" shall be the party in whose favor a final judgment is entered."
+      },
+      {
+        "span_id": 48,
+        "start": 10484,
+        "end": 10504,
+        "text": "VIII. SEVERABILITY: "
+      },
+      {
+        "span_id": 49,
+        "start": 10504,
+        "end": 11078,
+        "text": "It is the intent and agreement of the parties to this agreement that, in case any one or more of the provisions of this agreement shall, for any reason, be held to be invalid, illegal or unenforceable, such invalidity, illegality or unenforceability shall not affect any other provision of this agreement and this agreement shall be construed as if such invalid, illegal or unenforceable provision had never been contained herein except that this shall not prohibit any modification allowed or agreed upon pursuant to the terms of this agreement or any right of reformation."
+      },
+      {
+        "span_id": 50,
+        "start": 11079,
+        "end": 11108,
+        "text": "IX. GOVERNING LAW AND VENUE: "
+      },
+      {
+        "span_id": 51,
+        "start": 11108,
+        "end": 11239,
+        "text": "This Agreement shall be governed by and construed in accordance with the procedural and substantive laws of the State of Missouri. "
+      },
+      {
+        "span_id": 52,
+        "start": 11239,
+        "end": 11527,
+        "text": "The parties to this Agreement consent and designate St. Louis County, Missouri as the sole venue and location for any suit or other proceeding of any kind regarding any aspect of this agreement and all issues arising out of or relating to the independent relationship between the parties."
+      },
+      {
+        "span_id": 53,
+        "start": 11528,
+        "end": 11543,
+        "text": "X. ASSIGNMENT: "
+      },
+      {
+        "span_id": 54,
+        "start": 11543,
+        "end": 11685,
+        "text": "This Agreement is binding upon and shall inure to the benefit of the parties hereto and the successors and the assigns of all parties herein. "
+      },
+      {
+        "span_id": 55,
+        "start": 11685,
+        "end": 11852,
+        "text": "Each party may assign or transfer this Agreement to a successor business entity in the event of a merger, consolidation, transfer or sale of the assets of said party. "
+      },
+      {
+        "span_id": 56,
+        "start": 11852,
+        "end": 11940,
+        "text": "Any purported assignment of this Agreement, other than as provided above, shall be void."
+      },
+      {
+        "span_id": 57,
+        "start": 11941,
+        "end": 11945,
+        "text": "XI. "
+      },
+      {
+        "span_id": 58,
+        "start": 11945,
+        "end": 12196,
+        "text": "NOTICES: Except as expressly set forth to the contrary in this Agreement, all notices, requests, consents or other communications (each a \"Notice\") provided for or permitted to be given under this Agreement must be in writing and must be given either "
+      },
+      {
+        "span_id": 59,
+        "start": 12196,
+        "end": 12355,
+        "text": "(i) by depositing the Notice in the United States mail, addressed to the recipient, postage paid, and registered or certified with return receipt requested or "
+      },
+      {
+        "span_id": 60,
+        "start": 12355,
+        "end": 12455,
+        "text": "(ii) by delivering the Notice to the recipient in person, by courier, or by facsimile transmission. "
+      },
+      {
+        "span_id": 61,
+        "start": 12455,
+        "end": 12543,
+        "text": "A Notice given under this Agreement is effective on receipt by the party to receive it. "
+      },
+      {
+        "span_id": 62,
+        "start": 12543,
+        "end": 12811,
+        "text": "Any Notice to any party must be sent to or made at that party’s address (or facsimile number if applicable) given below such party’s signature or such other address or facsimile number as that party may specify by delivering a Notice in compliance with this paragraph."
+      },
+      {
+        "span_id": 63,
+        "start": 12812,
+        "end": 12817,
+        "text": "XII. "
+      },
+      {
+        "span_id": 64,
+        "start": 12817,
+        "end": 13119,
+        "text": "EQUITABLE RELIEF: Each party recognizes that any actual or threatened breach of the provisions of this Agreement would cause irreparable harm to the other party, the extent of which would be difficult and impracticable to assess, and that money damages would not be an adequate remedy for such breach. "
+      },
+      {
+        "span_id": 65,
+        "start": 13119,
+        "end": 13580,
+        "text": "Accordingly, in addition to and not in limitation of any other remedies at law or in equity available under the circumstances, and notwithstanding any jurisdiction and venue requirements of this Agreement, each party shall be entitled to seek immediate injunctive and other non-monetary equitable relief in any court of competent jurisdiction without the need or requirement of any bond, provided that if a bond is required, the bond shall not exceed $1,000.00."
+      },
+      {
+        "span_id": 66,
+        "start": 13581,
+        "end": 13761,
+        "text": "IN WITNESS WHEREOF, the parties, intending to be legally bound, have executed this Agreement as of the last date set forth below by the undersigned duly authorized representatives."
+      },
+      {
+        "span_id": 67,
+        "start": 13762,
+        "end": 13778,
+        "text": "Dealer Pay, LLC "
+      },
+      {
+        "span_id": 68,
+        "start": 13778,
+        "end": 13819,
+        "text": "________________________________(Company)"
+      },
+      {
+        "span_id": 69,
+        "start": 13820,
+        "end": 13831,
+        "text": "PO Box 1691"
+      },
+      {
+        "span_id": 70,
+        "start": 13832,
+        "end": 13880,
+        "text": "________________________________(Street Address)"
+      },
+      {
+        "span_id": 71,
+        "start": 13881,
+        "end": 13902,
+        "text": "St. Charles, MO 63302"
+      },
+      {
+        "span_id": 72,
+        "start": 13903,
+        "end": 13936,
+        "text": "________________________________("
+      },
+      {
+        "span_id": 73,
+        "start": 13936,
+        "end": 13953,
+        "text": "City, State, Zip)"
+      },
+      {
+        "span_id": 74,
+        "start": 13954,
+        "end": 13970,
+        "text": "Julie R. Douglas"
+      },
+      {
+        "span_id": 75,
+        "start": 13971,
+        "end": 14004,
+        "text": "________________________________("
+      },
+      {
+        "span_id": 76,
+        "start": 14004,
+        "end": 14009,
+        "text": "Name)"
+      },
+      {
+        "span_id": 77,
+        "start": 14010,
+        "end": 14019,
+        "text": "President"
+      },
+      {
+        "span_id": 78,
+        "start": 14020,
+        "end": 14059,
+        "text": "________________________________(Title)"
+      },
+      {
+        "span_id": 79,
+        "start": 14060,
+        "end": 14094,
+        "text": "_________________________________ "
+      },
+      {
+        "span_id": 80,
+        "start": 14094,
+        "end": 14127,
+        "text": "_________________________________"
+      },
+      {
+        "span_id": 81,
+        "start": 14128,
+        "end": 14151,
+        "text": "(Signature) (Signature)"
+      },
+      {
+        "span_id": 82,
+        "start": 14152,
+        "end": 14186,
+        "text": "_________________________________ "
+      },
+      {
+        "span_id": 83,
+        "start": 14186,
+        "end": 14219,
+        "text": "_________________________________"
+      },
+      {
+        "span_id": 84,
+        "start": 14220,
+        "end": 14233,
+        "text": "(Date) (Date)"
+      }
+    ],
+    "confuser_clauses": [
+      {
+        "span_id": 35,
+        "start": 6081,
+        "end": 6785,
+        "text": "III. LEGALLY REQUIRED DISCLOSURES: If Receiving Party is requested to disclose any Confidential Information of the Originating Party under applicable law, in any judicial or administrative proceeding, or in response to a formal request of a regulatory or governmental authority (including law enforcement), then, except as otherwise required to comply with applicable law, the Receiving Party shall promptly notify the Originating Party of such request so that Originating Party may resist such disclosure or seek an appropriate protective order, and shall provide all information and assistance reasonably requested by Originating Party in connection therewith, at the Originating Party’s sole expense. "
+      },
+      {
+        "span_id": 32,
+        "start": 5341,
+        "end": 5737,
+        "text": "Representatives will at any time make any independent business or personal use of, retain, copy, divulge, disclose, reveal or communicate to any other person or organization (except as expressly authorized in writing by Originating Party, as required to analyze the Business Relationship or as required to fulfill Receiving Party’s obligations to Originating Party) any Confidential Information. "
+      },
+      {
+        "span_id": 26,
+        "start": 4005,
+        "end": 4159,
+        "text": "C. “Originating Party” as used herein shall refer to the party who discloses the Confidential Information or Intellectual Property to the Receiving Party."
+      },
+      {
+        "span_id": 27,
+        "start": 4160,
+        "end": 4315,
+        "text": "D. “Receiving Party” as used herein shall refer to the party who receives the Confidential Information or Intellectual Property from the Originating Party."
+      },
+      {
+        "span_id": 29,
+        "start": 4456,
+        "end": 5088,
+        "text": "II. NON-DISCLOSURE AGREEMENT: Both parties recognizes and acknowledges that, in an effort to foster the Discussions one or both of the parties has provided and/or will provide, at no cost, fee, charge or expense to Receiving Party, Confidential Information of a special and unique value and nature developed and/or acquired by (and/or being developed or acquired by) Originating Party at great expense and cost to Originating Party which, if it were to come into the possession of Originating Party’s competitors, would cause irreparable damage to Originating Party, its competitive advantage and its ability to operate profitably. "
+      }
+    ],
+    "policy_text": "Use the full contract and return the final label together with the exact span ids that directly determine it under exception-sensitive reasoning. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "document_type": "search-pdf",
+    "gold_label": "entailment",
+    "gold_variants": [
+      [
+        24
+      ]
+    ]
+  }
+}

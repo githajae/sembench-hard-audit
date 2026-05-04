@@ -1,0 +1,561 @@
+{
+  "seed": 20260504,
+  "splits": {
+    "contractnli": "train",
+    "wdc_products": "small"
+  },
+  "tasks_per_benchmark": 30,
+  "quota_per_operator": {
+    "filter": 8,
+    "join": 8,
+    "map": 7,
+    "rank": 7
+  },
+  "benchmarks": [
+    "contractnli",
+    "wdc_products"
+  ],
+  "n_total": 60,
+  "entries": [
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:91/hypothesis:nda-12",
+      "stem": "01_filter_contract_91_hypothesis_nda-12",
+      "json": "tasks/contractnli/01_filter_contract_91_hypothesis_nda-12.json",
+      "md": "tasks/contractnli/01_filter_contract_91_hypothesis_nda-12.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:386/hypothesis:nda-1",
+      "stem": "02_filter_contract_386_hypothesis_nda-1",
+      "json": "tasks/contractnli/02_filter_contract_386_hypothesis_nda-1.json",
+      "md": "tasks/contractnli/02_filter_contract_386_hypothesis_nda-1.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:515/hypothesis:nda-12",
+      "stem": "03_filter_contract_515_hypothesis_nda-12",
+      "json": "tasks/contractnli/03_filter_contract_515_hypothesis_nda-12.json",
+      "md": "tasks/contractnli/03_filter_contract_515_hypothesis_nda-12.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:567/hypothesis:nda-1",
+      "stem": "04_filter_contract_567_hypothesis_nda-1",
+      "json": "tasks/contractnli/04_filter_contract_567_hypothesis_nda-1.json",
+      "md": "tasks/contractnli/04_filter_contract_567_hypothesis_nda-1.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:98/hypothesis:nda-2",
+      "stem": "05_filter_contract_98_hypothesis_nda-2",
+      "json": "tasks/contractnli/05_filter_contract_98_hypothesis_nda-2.json",
+      "md": "tasks/contractnli/05_filter_contract_98_hypothesis_nda-2.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:439/hypothesis:nda-20",
+      "stem": "06_filter_contract_439_hypothesis_nda-20",
+      "json": "tasks/contractnli/06_filter_contract_439_hypothesis_nda-20.json",
+      "md": "tasks/contractnli/06_filter_contract_439_hypothesis_nda-20.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:148/hypothesis:nda-4",
+      "stem": "07_filter_contract_148_hypothesis_nda-4",
+      "json": "tasks/contractnli/07_filter_contract_148_hypothesis_nda-4.json",
+      "md": "tasks/contractnli/07_filter_contract_148_hypothesis_nda-4.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "contract:391/hypothesis:nda-18",
+      "stem": "08_filter_contract_391_hypothesis_nda-18",
+      "json": "tasks/contractnli/08_filter_contract_391_hypothesis_nda-18.json",
+      "md": "tasks/contractnli/08_filter_contract_391_hypothesis_nda-18.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:512/hypothesis:nda-2/span:35",
+      "stem": "09_join_contract_512_hypothesis_nda-2_span_35",
+      "json": "tasks/contractnli/09_join_contract_512_hypothesis_nda-2_span_35.json",
+      "md": "tasks/contractnli/09_join_contract_512_hypothesis_nda-2_span_35.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:505/hypothesis:nda-12/span:31",
+      "stem": "10_join_contract_505_hypothesis_nda-12_span_31",
+      "json": "tasks/contractnli/10_join_contract_505_hypothesis_nda-12_span_31.json",
+      "md": "tasks/contractnli/10_join_contract_505_hypothesis_nda-12_span_31.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:390/hypothesis:nda-19/span:15",
+      "stem": "11_join_contract_390_hypothesis_nda-19_span_15",
+      "json": "tasks/contractnli/11_join_contract_390_hypothesis_nda-19_span_15.json",
+      "md": "tasks/contractnli/11_join_contract_390_hypothesis_nda-19_span_15.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:419/hypothesis:nda-7/span:16",
+      "stem": "12_join_contract_419_hypothesis_nda-7_span_16",
+      "json": "tasks/contractnli/12_join_contract_419_hypothesis_nda-7_span_16.json",
+      "md": "tasks/contractnli/12_join_contract_419_hypothesis_nda-7_span_16.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:89/hypothesis:nda-2/span:40",
+      "stem": "13_join_contract_89_hypothesis_nda-2_span_40",
+      "json": "tasks/contractnli/13_join_contract_89_hypothesis_nda-2_span_40.json",
+      "md": "tasks/contractnli/13_join_contract_89_hypothesis_nda-2_span_40.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:91/hypothesis:nda-11/span:37",
+      "stem": "14_join_contract_91_hypothesis_nda-11_span_37",
+      "json": "tasks/contractnli/14_join_contract_91_hypothesis_nda-11_span_37.json",
+      "md": "tasks/contractnli/14_join_contract_91_hypothesis_nda-11_span_37.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:135/hypothesis:nda-19/span:41",
+      "stem": "15_join_contract_135_hypothesis_nda-19_span_41",
+      "json": "tasks/contractnli/15_join_contract_135_hypothesis_nda-19_span_41.json",
+      "md": "tasks/contractnli/15_join_contract_135_hypothesis_nda-19_span_41.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "contract:504/hypothesis:nda-1/span:22",
+      "stem": "16_join_contract_504_hypothesis_nda-1_span_22",
+      "json": "tasks/contractnli/16_join_contract_504_hypothesis_nda-1_span_22.json",
+      "md": "tasks/contractnli/16_join_contract_504_hypothesis_nda-1_span_22.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "contract:391/hypothesis:nda-1",
+      "stem": "17_map_contract_391_hypothesis_nda-1",
+      "json": "tasks/contractnli/17_map_contract_391_hypothesis_nda-1.json",
+      "md": "tasks/contractnli/17_map_contract_391_hypothesis_nda-1.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "contract:437/hypothesis:nda-20",
+      "stem": "18_map_contract_437_hypothesis_nda-20",
+      "json": "tasks/contractnli/18_map_contract_437_hypothesis_nda-20.json",
+      "md": "tasks/contractnli/18_map_contract_437_hypothesis_nda-20.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "contract:384/hypothesis:nda-4",
+      "stem": "19_map_contract_384_hypothesis_nda-4",
+      "json": "tasks/contractnli/19_map_contract_384_hypothesis_nda-4.json",
+      "md": "tasks/contractnli/19_map_contract_384_hypothesis_nda-4.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "contract:447/hypothesis:nda-17",
+      "stem": "20_map_contract_447_hypothesis_nda-17",
+      "json": "tasks/contractnli/20_map_contract_447_hypothesis_nda-17.json",
+      "md": "tasks/contractnli/20_map_contract_447_hypothesis_nda-17.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "contract:89/hypothesis:nda-18",
+      "stem": "21_map_contract_89_hypothesis_nda-18",
+      "json": "tasks/contractnli/21_map_contract_89_hypothesis_nda-18.json",
+      "md": "tasks/contractnli/21_map_contract_89_hypothesis_nda-18.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "contract:119/hypothesis:nda-15",
+      "stem": "22_map_contract_119_hypothesis_nda-15",
+      "json": "tasks/contractnli/22_map_contract_119_hypothesis_nda-15.json",
+      "md": "tasks/contractnli/22_map_contract_119_hypothesis_nda-15.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "contract:403/hypothesis:nda-20",
+      "stem": "23_map_contract_403_hypothesis_nda-20",
+      "json": "tasks/contractnli/23_map_contract_403_hypothesis_nda-20.json",
+      "md": "tasks/contractnli/23_map_contract_403_hypothesis_nda-20.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "contract:231/hypothesis:nda-3",
+      "stem": "24_rank_contract_231_hypothesis_nda-3",
+      "json": "tasks/contractnli/24_rank_contract_231_hypothesis_nda-3.json",
+      "md": "tasks/contractnli/24_rank_contract_231_hypothesis_nda-3.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "contract:439/hypothesis:nda-16",
+      "stem": "25_rank_contract_439_hypothesis_nda-16",
+      "json": "tasks/contractnli/25_rank_contract_439_hypothesis_nda-16.json",
+      "md": "tasks/contractnli/25_rank_contract_439_hypothesis_nda-16.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "contract:414/hypothesis:nda-3",
+      "stem": "26_rank_contract_414_hypothesis_nda-3",
+      "json": "tasks/contractnli/26_rank_contract_414_hypothesis_nda-3.json",
+      "md": "tasks/contractnli/26_rank_contract_414_hypothesis_nda-3.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "contract:469/hypothesis:nda-17",
+      "stem": "27_rank_contract_469_hypothesis_nda-17",
+      "json": "tasks/contractnli/27_rank_contract_469_hypothesis_nda-17.json",
+      "md": "tasks/contractnli/27_rank_contract_469_hypothesis_nda-17.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "contract:111/hypothesis:nda-3",
+      "stem": "28_rank_contract_111_hypothesis_nda-3",
+      "json": "tasks/contractnli/28_rank_contract_111_hypothesis_nda-3.json",
+      "md": "tasks/contractnli/28_rank_contract_111_hypothesis_nda-3.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "contract:517/hypothesis:nda-7",
+      "stem": "29_rank_contract_517_hypothesis_nda-7",
+      "json": "tasks/contractnli/29_rank_contract_517_hypothesis_nda-7.json",
+      "md": "tasks/contractnli/29_rank_contract_517_hypothesis_nda-7.md"
+    },
+    {
+      "benchmark": "contractnli",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "contract:385/hypothesis:nda-10",
+      "stem": "30_rank_contract_385_hypothesis_nda-10",
+      "json": "tasks/contractnli/30_rank_contract_385_hypothesis_nda-10.json",
+      "md": "tasks/contractnli/30_rank_contract_385_hypothesis_nda-10.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:16871572#58970863",
+      "stem": "01_filter_pair_16871572_58970863",
+      "json": "tasks/wdc_products/01_filter_pair_16871572_58970863.json",
+      "md": "tasks/wdc_products/01_filter_pair_16871572_58970863.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:13887167#64536135",
+      "stem": "02_filter_pair_13887167_64536135",
+      "json": "tasks/wdc_products/02_filter_pair_13887167_64536135.json",
+      "md": "tasks/wdc_products/02_filter_pair_13887167_64536135.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:56034511#22685310",
+      "stem": "03_filter_pair_56034511_22685310",
+      "json": "tasks/wdc_products/03_filter_pair_56034511_22685310.json",
+      "md": "tasks/wdc_products/03_filter_pair_56034511_22685310.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:11199708#24360041",
+      "stem": "04_filter_pair_11199708_24360041",
+      "json": "tasks/wdc_products/04_filter_pair_11199708_24360041.json",
+      "md": "tasks/wdc_products/04_filter_pair_11199708_24360041.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:11149251#41704902",
+      "stem": "05_filter_pair_11149251_41704902",
+      "json": "tasks/wdc_products/05_filter_pair_11149251_41704902.json",
+      "md": "tasks/wdc_products/05_filter_pair_11149251_41704902.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:33671496#65827191",
+      "stem": "06_filter_pair_33671496_65827191",
+      "json": "tasks/wdc_products/06_filter_pair_33671496_65827191.json",
+      "md": "tasks/wdc_products/06_filter_pair_33671496_65827191.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:51683015#83724071",
+      "stem": "07_filter_pair_51683015_83724071",
+      "json": "tasks/wdc_products/07_filter_pair_51683015_83724071.json",
+      "md": "tasks/wdc_products/07_filter_pair_51683015_83724071.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "filter",
+      "task_family": "hard_filter",
+      "task_key": "pair:57791020#9923090",
+      "stem": "08_filter_pair_57791020_9923090",
+      "json": "tasks/wdc_products/08_filter_pair_57791020_9923090.json",
+      "md": "tasks/wdc_products/08_filter_pair_57791020_9923090.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:2392632#40876435",
+      "stem": "09_join_pair_2392632_40876435",
+      "json": "tasks/wdc_products/09_join_pair_2392632_40876435.json",
+      "md": "tasks/wdc_products/09_join_pair_2392632_40876435.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:24927328#21122556",
+      "stem": "10_join_pair_24927328_21122556",
+      "json": "tasks/wdc_products/10_join_pair_24927328_21122556.json",
+      "md": "tasks/wdc_products/10_join_pair_24927328_21122556.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:38117313#74525970",
+      "stem": "11_join_pair_38117313_74525970",
+      "json": "tasks/wdc_products/11_join_pair_38117313_74525970.json",
+      "md": "tasks/wdc_products/11_join_pair_38117313_74525970.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:59536106#12761549",
+      "stem": "12_join_pair_59536106_12761549",
+      "json": "tasks/wdc_products/12_join_pair_59536106_12761549.json",
+      "md": "tasks/wdc_products/12_join_pair_59536106_12761549.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:10937592#15267149",
+      "stem": "13_join_pair_10937592_15267149",
+      "json": "tasks/wdc_products/13_join_pair_10937592_15267149.json",
+      "md": "tasks/wdc_products/13_join_pair_10937592_15267149.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:39130017#83362334",
+      "stem": "14_join_pair_39130017_83362334",
+      "json": "tasks/wdc_products/14_join_pair_39130017_83362334.json",
+      "md": "tasks/wdc_products/14_join_pair_39130017_83362334.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:27166337#57083116",
+      "stem": "15_join_pair_27166337_57083116",
+      "json": "tasks/wdc_products/15_join_pair_27166337_57083116.json",
+      "md": "tasks/wdc_products/15_join_pair_27166337_57083116.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "join",
+      "task_family": "hard_join",
+      "task_key": "pair:56603137#5030809",
+      "stem": "16_join_pair_56603137_5030809",
+      "json": "tasks/wdc_products/16_join_pair_56603137_5030809.json",
+      "md": "tasks/wdc_products/16_join_pair_56603137_5030809.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "pair:1781011#6403220",
+      "stem": "17_map_pair_1781011_6403220",
+      "json": "tasks/wdc_products/17_map_pair_1781011_6403220.json",
+      "md": "tasks/wdc_products/17_map_pair_1781011_6403220.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "pair:53641305#5137860",
+      "stem": "18_map_pair_53641305_5137860",
+      "json": "tasks/wdc_products/18_map_pair_53641305_5137860.json",
+      "md": "tasks/wdc_products/18_map_pair_53641305_5137860.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "pair:24224044#47282882",
+      "stem": "19_map_pair_24224044_47282882",
+      "json": "tasks/wdc_products/19_map_pair_24224044_47282882.json",
+      "md": "tasks/wdc_products/19_map_pair_24224044_47282882.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "pair:70269940#5312650",
+      "stem": "20_map_pair_70269940_5312650",
+      "json": "tasks/wdc_products/20_map_pair_70269940_5312650.json",
+      "md": "tasks/wdc_products/20_map_pair_70269940_5312650.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "pair:79821099#70403624",
+      "stem": "21_map_pair_79821099_70403624",
+      "json": "tasks/wdc_products/21_map_pair_79821099_70403624.json",
+      "md": "tasks/wdc_products/21_map_pair_79821099_70403624.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "pair:2952392#23828624",
+      "stem": "22_map_pair_2952392_23828624",
+      "json": "tasks/wdc_products/22_map_pair_2952392_23828624.json",
+      "md": "tasks/wdc_products/22_map_pair_2952392_23828624.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "map",
+      "task_family": "hard_map",
+      "task_key": "pair:11022309#55393360",
+      "stem": "23_map_pair_11022309_55393360",
+      "json": "tasks/wdc_products/23_map_pair_11022309_55393360.json",
+      "md": "tasks/wdc_products/23_map_pair_11022309_55393360.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "left_offer:75551932",
+      "stem": "24_rank_left_offer_75551932",
+      "json": "tasks/wdc_products/24_rank_left_offer_75551932.json",
+      "md": "tasks/wdc_products/24_rank_left_offer_75551932.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "left_offer:18456007",
+      "stem": "25_rank_left_offer_18456007",
+      "json": "tasks/wdc_products/25_rank_left_offer_18456007.json",
+      "md": "tasks/wdc_products/25_rank_left_offer_18456007.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "left_offer:5519409",
+      "stem": "26_rank_left_offer_5519409",
+      "json": "tasks/wdc_products/26_rank_left_offer_5519409.json",
+      "md": "tasks/wdc_products/26_rank_left_offer_5519409.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "left_offer:58893463",
+      "stem": "27_rank_left_offer_58893463",
+      "json": "tasks/wdc_products/27_rank_left_offer_58893463.json",
+      "md": "tasks/wdc_products/27_rank_left_offer_58893463.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "left_offer:64607522",
+      "stem": "28_rank_left_offer_64607522",
+      "json": "tasks/wdc_products/28_rank_left_offer_64607522.json",
+      "md": "tasks/wdc_products/28_rank_left_offer_64607522.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "left_offer:27347346",
+      "stem": "29_rank_left_offer_27347346",
+      "json": "tasks/wdc_products/29_rank_left_offer_27347346.json",
+      "md": "tasks/wdc_products/29_rank_left_offer_27347346.md"
+    },
+    {
+      "benchmark": "wdc_products",
+      "operator": "rank",
+      "task_family": "hard_rank",
+      "task_key": "left_offer:86176880",
+      "stem": "30_rank_left_offer_86176880",
+      "json": "tasks/wdc_products/30_rank_left_offer_86176880.json",
+      "md": "tasks/wdc_products/30_rank_left_offer_86176880.md"
+    }
+  ]
+}

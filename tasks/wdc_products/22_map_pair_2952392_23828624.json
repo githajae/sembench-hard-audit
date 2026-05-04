@@ -1,0 +1,42 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "pair:2952392#23828624",
+  "task": {
+    "task_type": "hard_map",
+    "pair_id": "2952392#23828624",
+    "left_offer": {
+      "id": 2952392,
+      "brand": "Corsair",
+      "title": "Carbide 175R RGB Windowed Mid-Tower Case Tempered Glass",
+      "description": "Corsair Carbide 175R RGB Windowed Mid-Tower Case Tempered Glass CC-9011171-WW",
+      "price": "69.90",
+      "price_currency": "EUR",
+      "cluster_id": 643961
+    },
+    "right_offer": {
+      "id": 23828624,
+      "brand": null,
+      "title": "LOGITECH | G402 Hyperion Fury FPS Gaming Mouse | 910-004068",
+      "description": "FUSION ENGINE HIGH-SPEED TRACKINGSophisticated sensor technology for ultra-fast gaming. Hyperion Fury combines an optical sensor featuring Logitech Delta Zero technology with our exclusive Fusion Engine hybrid sensor to enable tracking speeds in excess of 500 IPS.8 PROGRAMMABLE BUTTONSCustomize to fit your style of game play. Customize your mouse with 8 programmable buttons. Whether you want to toss a grenade or quickly access your inventory, it’s at your fingertips. Optional Logitech Gaming Software makes set up easy.ON-THE-FLY DPI SWITCHING4 settings for better control of how you game. Switch through four DPI settings in an instant. Snipe a foe across the map (250 DPI) before fleeing in the blink of an eye (4000 DPI). With on-the-fly DPI switching, you have the flexibility to react to the chaos of battle with precision.32-BIT ARM PROCESSORSmarter than ever. Hyperion Fury on-board ARM processor powers the Fusion Engine for incredible tracking speeds while allowing you to save and play back your favorite macros. With Logitech Gaming Software, craft and assign macros that can be accessed from Hyperion Fury with ease.1MS REPORT RATEConstant communication. With a 1 millisecond report rate, you can be confident that your movement will be communicated via USB at fast speeds without troublesome lag.COMFORTABLE DESIGNMaximum comfort for maximum playtime. An update to the classic G400s shape to enhance function and comfort. A combination of lightweight materials and rubber grips will help to ensure that your gaming sessions last as long as possible.HIGH-SPEED CLICKINGExtreme responsiveness gives you the edge. Distinct left and right buttons offer extreme responsiveness. With high-speed clicking, you can push your skills even further while enjoying the edge in intense firefights. Faster, more comfortable clicking makes all the difference with Hyperion Fury.Specifications:Fusion Engine hybrid sensor8 programmable buttonsOn-the-fly DPI Switching32-bit ARM processor1 millisecond reportHigh-speed clickingFull-speed USBPHYSICAL SPECIFICATIONSHeight: 136 mmWidth: 72 mmDepth: 41 mmWeight: 144 grams,mouse plus cableWeight: 108 grams, mouse without cableLength Cable: 2.1 mTRACKINGResolution: 240-4000 dpiMax. acceleration: >16G1Tested on Logitech G240 Gaming Mouse PadMax. speed: >500 ipsRESPONSIVENESSUSB data format: 16 bits/axisUSB report rate: 1000 Hz (1ms)REQUIREMENTSWindows8, Windows 8.1, Windows 7 or Windows Vista®Powered USB port",
+      "price": "199",
+      "price_currency": "QAR",
+      "cluster_id": 514979
+    },
+    "gold_label": "non_match",
+    "same_cluster": false,
+    "matched_attribute_hints": [],
+    "conflict_attribute_hints": [
+      "price",
+      "title"
+    ],
+    "policy_text": "Return a normalized match report that is internally consistent. A match requires the same core product, not only a nearby accessory or variant.",
+    "gold_basis": "insufficient_support",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": []
+  }
+}

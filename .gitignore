@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# Annotator response files (user-specific). Keep only the template
+# and the example reference. Real annotators write their own files
+# locally and send them back; they should not be committed.
+responses/*.json
+!responses/template.json
+!responses/EXAMPLE_filled.json
+
+# Aggregator output (generated; not source). Keep the directory
+# (.gitkeep) so users have a place to write into.
+results/*
+!results/.gitkeep
+
+# Editor / OS junk
+.DS_Store
+.idea/
+.vscode/
+*.swp

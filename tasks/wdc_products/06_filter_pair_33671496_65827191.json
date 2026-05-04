@@ -1,0 +1,64 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "pair:33671496#65827191",
+  "task": {
+    "task_type": "hard_filter",
+    "pair_id": "33671496#65827191",
+    "left_offer": {
+      "id": 33671496,
+      "brand": null,
+      "title": "Router wifi archer c60 ac1350 dual",
+      "description": null,
+      "price": null,
+      "price_currency": null,
+      "cluster_id": 1340990
+    },
+    "right_offer": {
+      "id": 65827191,
+      "brand": null,
+      "title": "Ubiquiti Unifi AC In-Wall AP Wireless Access Point 5 Pack UAP-AC-IW-5 (No PoE Injector)",
+      "description": "UAP-AC-IW-5 - Ubiquiti Unifi AC In-Wall AP Wireless Access Point 5 PackThe Ubiquiti UniFi AC In-Wall Access Point 5 Pack (UAP-AC-IW-5) is perfect for both retrofit and new installations. These compact units will enable users to convert any Ethernet wall jack into a dual-band 802.11ac WiFi access point featuring 2 Gigabit Ethernet ports.For those ...",
+      "price": "444.00",
+      "price_currency": "GBP",
+      "cluster_id": 1610496
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "reject",
+    "gold_basis": "insufficient_support",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 98241359,
+        "brand": "TP-LINK USA",
+        "title": "TP-Link | AC1900 High Gain Dual Band Wifi Adapter | Wireless WiFi Network Adapter for PC (Archer T9UH)",
+        "description": "Maximum wireless transmission rates are the physical rates derived from IEEE Standard 802.11 specifications. Range and coverage specifications are based upon test results under normal usage conditions. Actual wireless transmission rate and wireless coverage are not guaranteed, and will vary as a result of 1) environmental factors, including building materials, physical objects and obstacles, 2) network conditions, including local interference, volume and density of traffic, product location, net",
+        "price": "49.99",
+        "price_currency": "USD",
+        "cluster_id": 1155981
+      },
+      {
+        "id": 7737233,
+        "brand": null,
+        "title": "TP Link AC1350 Wireless Dual Band Cable Router - White | ARCHER C60",
+        "description": "The New Wi-Fi Standard for an Advanced Online ExperienceThe Archer C60 comes with the latest wireless standard – 802.11ac. This advanced Wi-Fi is designed for high-traffic online activities and can help to run applications at triple the speed of the previous 802.11n standard. The result: faster, stronger and more capable Wi-Fi to unleash all your wireless devices.Fast, Concurrent Dual Band Wi-FiThe Archer C60 provides you with simultaneous dual band Wi-Fi connections. 2.4GHz band: 3×3 MIMO creates fast and stable Wi-Fi at speeds of 450Mbps, making it perfect for daily applications like sending emails, browsing the web or listening to music. 5GHz band: Provides up to 867Mbps Wi-Fi for latency-sensitive entertainment so you can stream HD video, play online games and hold video chats all at the same time, without delay.Arranged Coverage, Enhanced StabilityArcher C60’s innovative design includes five antennas, three at 2.4GHz and two at 5GHz. These have been arranged alternately to optimize the dual band 802.11ac Wi-Fi, creating a transmission with maximized coverage, minimized interference.Easy Parental ControlSupervise children and staff with responsible access, controlled by parents or administrators. Use URL blocking to easily set up a black or white list and limit the level of web access.Guest Network AccessAllow guests to join your Wi-Fi network, while protecting your privacy. Make sharing easy, maintain security.Easy Setup and ManagementSet up the Archer C60 in minutes thanks to its intuitive web interface. Configuration is also in the palm of your hands with TP-LINK’s powerful app, Tether, the easiest way to access and manage your router through your smartphone.",
+        "price": "54.99",
+        "price_currency": "EUR",
+        "cluster_id": 1340990
+      },
+      {
+        "id": 80753512,
+        "brand": "Logitech",
+        "title": "Logitech® HD Webcam C310 - USB",
+        "description": "HD Video Calls, 5-megapixel snapshots, Built-in mic with noise reduction, Automatic light correction",
+        "price": "39.948",
+        "price_currency": "GBP",
+        "cluster_id": 301204
+      }
+    ]
+  }
+}

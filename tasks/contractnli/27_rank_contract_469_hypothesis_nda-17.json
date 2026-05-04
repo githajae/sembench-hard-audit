@@ -1,0 +1,80 @@
+{
+  "benchmark": "contractnli",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "contract:469/hypothesis:nda-17",
+  "task": {
+    "task_type": "hard_rank",
+    "contract_id": 469,
+    "hypothesis_key": "nda-17",
+    "hypothesis_text": "Receiving Party may create a copy of some Confidential Information in some circumstances.",
+    "candidate_clauses": [
+      {
+        "span_id": 28,
+        "text": "6. All Proprietary Information (including any reproductions and copies thereof) shall remain the property of the disclosing party and shall be returned by the receiving party to the disclosing party upon request. "
+      },
+      {
+        "span_id": 39,
+        "text": "The provisions of this paragraph are in addition to any other legal right or remedies the party whose Proprietary Information has been disclosed, disseminated or released may have under federal or state law including without limitation, any claims for disclosing party's direct and consequential damages. "
+      },
+      {
+        "span_id": 13,
+        "text": "1. The term \"Information\", as used in this Agreement, means all specifications, drawings, sketches, models, samples, reports, plans, forecasts, current or historical data, computer programs or documentation and all other technical, financial or business data, as well as any trade secrets or other information concerning the business, customers, methods, operations and services of a party."
+      },
+      {
+        "span_id": 29,
+        "text": "No disclosure of any Proprietary Information hereunder shall be construed a public disclosure of such Proprietary Information by either party for any purpose whatever. "
+      },
+      {
+        "span_id": 24,
+        "text": "b. to advise all employees and Authorized Advisors of receiving party with access to the Proprietary Information of the obligation for protecting the Proprietary Information as provided hereunder; and"
+      },
+      {
+        "span_id": 38,
+        "text": "11. In the event either party discloses, disseminates or releases any Proprietary Information received from the other party or threatens to do so, except as authorized hereunder, such disclosure, dissemination or release will be deemed a material breach of this Agreement and the disclosing party may demand prompt return of all Proprietary Information previously provided to such party and obtain a preliminary and permanent injunction enjoining any such disclosure, dissemination or release. "
+      },
+      {
+        "span_id": 20,
+        "text": "4. All disclosures of Proprietary Information between the parties pursuant to this Agreement shall be made by or under the supervision of a Designated Coordinator for each party (identified in Paragraph 12 below). "
+      },
+      {
+        "span_id": 27,
+        "text": "Proprietary Information may not be reproduced or copied, in part or in whole, without the prior written consent of the disclosing party."
+      },
+      {
+        "span_id": 26,
+        "text": "The \"Authorized Advisor\" is such other person(s), who is an advisor to receiving party necessary for the Purposes described first above, who disclosing party in writing has authorized to receive Proprietary Information of disclosing party, and who agrees in writing to the satisfaction of disclosing party to be bound by the terms hereof. "
+      },
+      {
+        "span_id": 32,
+        "text": "7. ADC and Polaroid agree to make full disclosure of any business dealings or arrangements with third parties, persons, or entities introduced by the other party in connection with such Confidential Information and/or projects. "
+      },
+      {
+        "span_id": 30,
+        "text": "The obligations imposed upon either party herein shall not apply to Information whether or not designated as Proprietary Information which is disclosed pursuant to a valid order of a court or other governmental"
+      },
+      {
+        "span_id": 36,
+        "text": "9. ADC and Polaroid hereby agree not to circumvent, or to attempt to circumvent, this Agreement in an effort to deprive the other party to this agreement of fees, commissions or other remuneration, in connection with the use of Confidential Information and/or in pursuit of the above listed purposes and projects, and both parties shall indemnify the other against any circumvention or attempt to circumvent by the offending party."
+      }
+    ],
+    "candidate_span_ids": [
+      28,
+      39,
+      13,
+      29,
+      24,
+      38,
+      20,
+      27,
+      26,
+      32,
+      30,
+      36
+    ],
+    "gold_positive_span_ids": [
+      27
+    ],
+    "policy_text": "Rank clause spans by how directly they determine the final contract label for the hypothesis. Gold evidence clauses must appear before confusable but non-evidence clauses."
+  }
+}

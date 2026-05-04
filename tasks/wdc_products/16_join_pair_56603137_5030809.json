@@ -1,0 +1,64 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:56603137#5030809",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "56603137#5030809",
+    "left_offer": {
+      "id": 56603137,
+      "brand": null,
+      "title": "Asus ROG STRIX B550-E GAMING AM4 ATX Motherboard",
+      "description": "ASUS ROG STRIX B550-E GAMING AM4 ATX Motherboard - Memory Support: 4x DIMM DDR4 Slots (128GB, 4400 MHz O.C) - Expansion Slots: 2x PCIe 4.0 x16 (x16 or dual x8), 1x PCIe 3.0 x16 (x4 Mode) & 2x PCIe 3.0 x1 - Storage Support: 2x M.2 Slot & 6x SATA 6Gb/s Connectors - Network: Intel® Wi-Fi 6 AX200, Bluetooth 5.1 & Intel® I225-V 2.5Gb Ethernet - ROG SupremeFX 7.1-Channel High Definition Audio CODEC S1220A - Rear USB Ports: 3x USB 3.2 Gen 2 (1x USB-C), 4x USB 2.0 & 1x USB 2.0",
+      "price": "409.00",
+      "price_currency": "AUD",
+      "cluster_id": 135735
+    },
+    "right_offer": {
+      "id": 5030809,
+      "brand": null,
+      "title": "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550",
+      "description": "ASUS ROG STRIX B550-E GAMING, AMD, Presa AM4, AMD Ryzen, DDR4-SDRAM, DIMM, 2133,2400,2666,2800,3000,3200,3466,3600,3866,4000,4133,4266,4400,4600 MHz",
+      "price": "329.69",
+      "price_currency": "EUR",
+      "cluster_id": 135735
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "match",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 77926243,
+        "brand": null,
+        "title": "ASUS AMD ATX ROG STRIX B550 F Gaming Motherboard AM4 Dual DDR4, HDMI, Dual M.2",
+        "description": "Mpn: 90MB14S0-M0UAY0Vendor:AsusASUS AMD ATX ROG STRIX B550 F Gaming Motherboard AM4 Dual DDR4, HDMI, Dual M.2ROG Strix B550 Gaming series motherboards offer a feature-set usually found in the higher-end ROG Strix X570 Gaming series, including the latest PCIeÂ® 4.0. With robust power delivery and effective cooling, ROG Strix B550 Gaming is well-equipped to handle 3rd Gen AMD Ryzenâ„¢ CPUs. Boasting futuristic aesthetics and intuitive ROG software, ROG Strix B550-F Gaming gives you a head start on your dream build.",
+        "price": "270.00",
+        "price_currency": "AUD",
+        "cluster_id": 516888
+      },
+      {
+        "id": 31886989,
+        "brand": "ASUS",
+        "title": "Asus ROG Strix X570-F Gaming ATX - motherboard",
+        "description": "Buy Asus ROG Strix X570-F Gaming ATX - motherboard at multitronic.fi, as well as find price, description and specifications online.",
+        "price": null,
+        "price_currency": null,
+        "cluster_id": 80156
+      },
+      {
+        "id": 18327954,
+        "brand": null,
+        "title": "Samsung T7 Portable SSD [2TB] (Indigo Blue)",
+        "description": "External storage, evolvedWhether you're carrying games, movies, or sensitive work files, the T7 Portable SSD gives you speed and security in a palm-sized package. Experience the next level of external storage.The new norm in external storageLightweight and pocket-sized, the Portable SSD T7 delivers fast speeds and is designed to safeguard data for an easy way to store and transfer large files. Experience everyday high performance in your work and play with the T7.Sleek and compact stylePocket-sized and slim, the lightweight body comes standard on the T7. Roughly the size of a credit card and weighing in at 58 grams, the solid aluminium unibody construction fits comfortably in the palm of your hand.Key FeaturesUp to 1,050 MB/s Transfer SpeedType C-C and Type C to A cables includedMulti-Device compatibilityPassword protection (optional)3 Years Warranty",
+        "price": "629",
+        "price_currency": "AUD",
+        "cluster_id": 1252792
+      }
+    ]
+  }
+}

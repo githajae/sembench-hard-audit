@@ -1,0 +1,70 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "pair:24224044#47282882",
+  "task": {
+    "task_type": "hard_map",
+    "pair_id": "24224044#47282882",
+    "left_offer": {
+      "id": 24224044,
+      "brand": null,
+      "title": "SanDisk SDHC Ultra UHS-I 256GB Class 10 90MB/S",
+      "description": "Flash-Hukommelse, Class 10/UHS-I U1 Full HD quality, waterproof, temperature res",
+      "price": "351.00",
+      "price_currency": "DKK",
+      "cluster_id": 1054843
+    },
+    "right_offer": {
+      "id": 47282882,
+      "brand": "SanDisk",
+      "title": "SanDisk Ultra SDXC Memory Card 100MBs Class 10 UHS-I 256GB",
+      "description": "The SanDisk Ultra SDXC Memory Card 100MBs Class 10 UHS-I 256GB can capture in Full HD with ultra-fast read speeds",
+      "price": "52.59",
+      "price_currency": "GBP",
+      "cluster_id": 1054843
+    },
+    "gold_label": "match",
+    "same_cluster": true,
+    "matched_attribute_hints": [
+      "title"
+    ],
+    "conflict_attribute_hints": [
+      "price"
+    ],
+    "policy_text": "Return a normalized match report that is internally consistent. A match requires the same core product, not only a nearby accessory or variant.",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 77308213,
+        "brand": "ASUS",
+        "title": "ASUS PRIME X570-PRO (AM4) (D) (90MB11B0-M0EAY0)",
+        "description": null,
+        "price": "87700",
+        "price_currency": null,
+        "cluster_id": 2848082
+      },
+      {
+        "id": 57791020,
+        "brand": "Pokemon",
+        "title": "Pokemon Pokemon: Darkness Ablaze Bstr",
+        "description": "Add to your collection and light a fire with the Darkness Ablaze expansion!",
+        "price": "4.00",
+        "price_currency": "USD",
+        "cluster_id": 69543397
+      },
+      {
+        "id": 74659398,
+        "brand": null,
+        "title": "Corsair ML140 PRO LED Rød, 140mm Vifte",
+        "description": "Magnetic Levitation Fan, 140x140x25mm, 400~2000 RPM, 20~97 CFM, 16-37dBA, 4-pin",
+        "price": "299.00",
+        "price_currency": "NOK",
+        "cluster_id": 387671
+      }
+    ]
+  }
+}

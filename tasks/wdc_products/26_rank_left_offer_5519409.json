@@ -1,0 +1,112 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "left_offer:5519409",
+  "task": {
+    "task_type": "hard_rank",
+    "left_offer": {
+      "id": 5519409,
+      "brand": null,
+      "title": "Evans 14\\\" TT14EC2S Clear Drum Head",
+      "description": "Evans EC2 Clear series contains two plies of 7mil film for optimized attack, tone, length of sustain, and ease of tuning for each size head. This drumhead features Sound Shaping Technology (SST) for a well-balanced sound, incorporated with Evans Level 360 Technology for ease of tuning, extended pitch range and optimum quality of sound.IDEAL FOR:ROCKGOSPELPOP",
+      "price": "18.99",
+      "price_currency": "USD",
+      "cluster_id": 949458
+    },
+    "policy_text": "Choose the single best same-product candidate for the reference offer. Treat same-brand accessories, bundles, neighboring model numbers, and storage or color variants as confusers rather than true matches. Use only the minimal decisive attributes.",
+    "candidate_right_offers": [
+      {
+        "id": 47293324,
+        "brand": "Evans",
+        "title": "Evans EC2 Clear Drum Head, 8 Inch",
+        "description": "Evans clear EC2 series features two plies of 7mil film with optimized attack, tone, length of sustain and ease of tuning for each size head. The Sound Shaping Technology (SST) Edge Control ring mounted on the underside delivers an extremely well balanced and pre-EQ'd sound across the full kit by varying the size of the ring for each different head size.Evans Level 360 technology is incorporated to extend the level playing surface of the drumhead, 360 degrees around the drum. The vertically enhanced collar design guarantees even contact with the critical bearing edge of the drum shell, resulting in: ease of tuning, extended pitch range and optimum quality of sound. Evans Level 360 technology resolves the age-old dilemma of traditional synthetic heads consistently not fitting the drum shell without using considerable force.",
+        "price": "$13.99",
+        "price_currency": "USD",
+        "cluster_id": 2453362,
+        "pair_id": "52799959#47293324",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 21963707,
+        "brand": null,
+        "title": "FUJIFILM XF 8-16mm f/2.8 R LM WR Lens",
+        "description": "The FUJIFILM XF 8-16mm f/2.8 R LM WR Lens is an ultra-wide zoom lens characterized by a bright and advanced optical design. FUJIFILM XF 8-16mm f/2.8 R LM WR Lens features a constant f/2.8 maximum aperture for consistent performance throughout the zoom range. The optical layout comprises six extra-low dispersion elements, including three Super ED elements, which help to virtually eliminate chromatic aberrations and color fringing for greater clarity and color accuracy. Four aspherical elements are also used to suppress distortion, curvature of field, and spherical aberrations for improved sharpness. Also, a Nano-GI coating helps to control ghosting and flare for enhanced contrast and color fidelity when working in strong lighting conditions. Complementing the optics is a refined linear motor, which affords quick and quiet autofocus performance, and the lens body is weather-sealed in 11 distinct places to support working in trying environmental conditions. Impressively wide zoom is designed for FUJIFILM X-mount mirrorless cameras and provides a 12-24mm equivalent focal length range. Constant f/2.8 maximum aperture offers consistent performance throughout the zoom range and excels when working in difficult lighting conditions. Six extra-low dispersion elements, including three Super ED elements, are used to greatly reduce color fringing and chromatic aberrations in order to produce high clarity and color fidelity throughout the zoom range. Four aspherical elements control distortion, curvature of field, and spherical aberrations, which helps to improve sharpness and realize more accurate rendering. Nano-GI (Gradient Index) coating has been applied to lens elements and alters the refractive index between the glass and air in order to better suppress lens flare and ghosting for diagonal incident light. Linear motor autofocus system delivers smooth, near-silent performance that is especially beneficial to video applications and when working in noise-sensitive areas. The lens body incorporates extensive weather sealing to protect against dust and moisture, and to enable worry-free use in inclement conditions and freezing temperatures as low as 14°F.",
+        "price": "1999.95",
+        "price_currency": "USD",
+        "cluster_id": 37091,
+        "pair_id": "5519409#21963707",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 52799959,
+        "brand": null,
+        "title": "Evans 8\\\" TT08EC2S Clear Drum Head",
+        "description": "Evans EC2 Clear series contains two plies of 7mil film for optimized attack, tone, length of sustain, and ease of tuning for each size head. This drumhead features Sound Shaping Technology (SST) for a well-balanced sound, incorporated with Evans Level 360 Technology for ease of tuning, extended pitch range and optimum quality of sound.IDEAL FOR:RockGospelPop",
+        "price": "14.99",
+        "price_currency": "USD",
+        "cluster_id": 2453362,
+        "pair_id": "5519409#52799959",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 16154426,
+        "brand": "iiyama",
+        "title": "iiyama Prolite 27\\\" XUB2792QSU-B1 WQHD IPS Monitor Tilt/Swivel/Pivot",
+        "description": "27\\\" iiyama Prolite XUB2792 WQHD IPS Monitor, 2560x1440, 5ms, 350cd/m2, DP/HDMI/DVI Speakers",
+        "price": "254.48",
+        "price_currency": "GBP",
+        "cluster_id": 1439932,
+        "pair_id": "5519409#16154426",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 9232364,
+        "brand": null,
+        "title": "Evans EMAD2 Clear Bass Drum Head, 22 Inch",
+        "description": "For over 60 years, Evans has been an innovator in drumhead manufacturing and design. As the creator of the first synthetic drumhead and other revolutionary products such as EMAD, Hydraulics, and the UV1 series, Evans drumheads are designed with the intent of solving problems for drummers. Regarded for high quality and consistency all Evans drumheads are made in the USA and feature Level 360 Technology.Evans™ EMAD™2 series features two plies of film. The outer ply of 7mil and an inner ply of 10mil film provides an enhanced attack, focus and durability. The unparalleled industry standard Externally Mounted Adjustable Damping (EMAD) system allows the player to adjust attack and focus.",
+        "price": "4.699E1",
+        "price_currency": "USD",
+        "cluster_id": 1669570,
+        "pair_id": "47293324#9232364",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 1136383,
+        "brand": null,
+        "title": "Evans EC2 Clear Drum Head, 14 Inch",
+        "description": "Evans™ EC2™ series features two plies of 7mil film with optimized attack, tone, length of sustain and ease of tuning for each size head. The Sound Shaping Technology (SST™) Edge Control ring mounted on the underside delivers an extremely well balanced and pre-EQ'd sound across the full kit by varying the size of the ring for each different head size.",
+        "price": "2.399E1",
+        "price_currency": "USD",
+        "cluster_id": 949458,
+        "pair_id": "5519409#1136383",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      }
+    ],
+    "gold_best_candidate_id": 1136383,
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "gold_positive_ids": [
+      1136383
+    ],
+    "candidate_ids": [
+      47293324,
+      21963707,
+      52799959,
+      16154426,
+      9232364,
+      1136383
+    ],
+    "candidate_order_seed": 5519409,
+    "hard_same_brand_confuser_count": 0,
+    "hard_max_confuser_overlap": 6,
+    "hard_candidate_count": 6
+  }
+}

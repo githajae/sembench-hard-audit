@@ -1,0 +1,95 @@
+{
+  "benchmark": "contractnli",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "contract:391/hypothesis:nda-1",
+  "task": {
+    "task_type": "hard_map",
+    "contract_id": 391,
+    "hypothesis_key": "nda-1",
+    "hypothesis_text": "All Confidential Information shall be expressly identified by the Disclosing Party.",
+    "contract_text": "[SPAN 57] Notwithstanding the foregoing, CompuCom shall be permitted to provide Services under any \"request for proposal\", bid, contract or statement of work submitted by CompuCom to the applicable potential customer prior to May 12, 1999 . \n[SPAN 77] Seller shall be permitted to disclose historical financial information, including financial information relating to the Business, as may be required by customers, vendors, lenders or other third parties, provided that such third parties shall agree to preserve the confidentiality of such information.\n[SPAN 83] (a) CompuCom shall cooperate with Seller at Seller's expense to protect and safeguard all of Seller's Confidential Information;\n[SPAN 86] As used in this Agreement, the terms \"Seller's Confidential Information\" means proprietary or confidential information and business secrets of Seller pertaining to its Services Business including, without limitation, information regarding prices charged for Services, copies of existing Services contracts to which Seller is a party (other than any such contracts provided to CompuCom pursuant to the provisions of the Asset Purchase Agreement) and analyses of the amount and types of Services purchased by customers.\n[SPAN 90] All notices, requests, demands or other communications required by or otherwise with respect to this Agreement shall be in writing and shall be deemed to have been duly given to any party when delivered personally (by courier service or otherwise), when delivered by facsimile and confirmed by return facsimile, or five business days after being mailed by first-class mail, postage prepaid in each case to the applicable addresses set forth below:\n[SPAN 126] This Agreement shall be binding upon and shall inure to the benefit of and be enforceable by the parties and their respective successors and assigns, including without limitation by merger or otherwise. \n[SPAN 134] All rights, powers and remedies provided for under this Agreement or otherwise available in respect hereof at law or in equity shall be cumulative and not alternative, and the exercise or beginning of the exercise of any thereof by any party shall not preclude the simultaneous or later exercise of any other such right, power or remedy by such party.\n[SPAN 136] The failure of any party hereto to exercise any right, power or remedy provided under this Agreement or otherwise available in respect hereof at law or inequity, or to insist upon compliance by any other party hereto with its obligations hereunder, and any custom or practice of the parties at variance with the terms hereof, shall not constitute a waiver by such party of its right to exercise any such or other right, power or remedy or to demand such compliance.\n[SPAN 138] Each party agrees that, should any court or other competent authority hold any provision of this Agreement or part hereof to be null, void or unenforceable, or order any party to take any action inconsistent herewith or not to take an action consistent herewith or required hereby, the validity, legality and enforceability of the remaining provisions and obligations contained or set forth herein shall not in any way be affected or impaired thereby. \n[SPAN 141] THE VALIDITY AND INTERPRETATION OF THIS AGREEMENT AND THE TERMS AND CONDITIONS SET FORTH HEREIN SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED WHOLLY THEREIN, WITHOUT GIVING EFFECT TO ANY PROVISIONS THEREOF RELATING TO CONFLICTS OF LAW.",
+    "contract_spans": [
+      {
+        "span_id": 57,
+        "start": 7792,
+        "end": 8023,
+        "text": "Notwithstanding the foregoing, CompuCom shall be permitted to provide Services under any \"request for proposal\", bid, contract or statement of work submitted by CompuCom to the applicable potential customer prior to May 12, 1999 . "
+      },
+      {
+        "span_id": 77,
+        "start": 10854,
+        "end": 11155,
+        "text": "Seller shall be permitted to disclose historical financial information, including financial information relating to the Business, as may be required by customers, vendors, lenders or other third parties, provided that such third parties shall agree to preserve the confidentiality of such information."
+      },
+      {
+        "span_id": 83,
+        "start": 11296,
+        "end": 11423,
+        "text": "(a) CompuCom shall cooperate with Seller at Seller's expense to protect and safeguard all of Seller's Confidential Information;"
+      },
+      {
+        "span_id": 86,
+        "start": 11772,
+        "end": 12289,
+        "text": "As used in this Agreement, the terms \"Seller's Confidential Information\" means proprietary or confidential information and business secrets of Seller pertaining to its Services Business including, without limitation, information regarding prices charged for Services, copies of existing Services contracts to which Seller is a party (other than any such contracts provided to CompuCom pursuant to the provisions of the Asset Purchase Agreement) and analyses of the amount and types of Services purchased by customers."
+      },
+      {
+        "span_id": 90,
+        "start": 12333,
+        "end": 12780,
+        "text": "All notices, requests, demands or other communications required by or otherwise with respect to this Agreement shall be in writing and shall be deemed to have been duly given to any party when delivered personally (by courier service or otherwise), when delivered by facsimile and confirmed by return facsimile, or five business days after being mailed by first-class mail, postage prepaid in each case to the applicable addresses set forth below:"
+      },
+      {
+        "span_id": 126,
+        "start": 13913,
+        "end": 14116,
+        "text": "This Agreement shall be binding upon and shall inure to the benefit of and be enforceable by the parties and their respective successors and assigns, including without limitation by merger or otherwise. "
+      },
+      {
+        "span_id": 134,
+        "start": 15106,
+        "end": 15457,
+        "text": "All rights, powers and remedies provided for under this Agreement or otherwise available in respect hereof at law or in equity shall be cumulative and not alternative, and the exercise or beginning of the exercise of any thereof by any party shall not preclude the simultaneous or later exercise of any other such right, power or remedy by such party."
+      },
+      {
+        "span_id": 136,
+        "start": 15473,
+        "end": 15938,
+        "text": "The failure of any party hereto to exercise any right, power or remedy provided under this Agreement or otherwise available in respect hereof at law or inequity, or to insist upon compliance by any other party hereto with its obligations hereunder, and any custom or practice of the parties at variance with the terms hereof, shall not constitute a waiver by such party of its right to exercise any such or other right, power or remedy or to demand such compliance."
+      },
+      {
+        "span_id": 138,
+        "start": 15957,
+        "end": 16409,
+        "text": "Each party agrees that, should any court or other competent authority hold any provision of this Agreement or part hereof to be null, void or unenforceable, or order any party to take any action inconsistent herewith or not to take an action consistent herewith or required hereby, the validity, legality and enforceability of the remaining provisions and obligations contained or set forth herein shall not in any way be affected or impaired thereby. "
+      },
+      {
+        "span_id": 141,
+        "start": 16787,
+        "end": 17113,
+        "text": "THE VALIDITY AND INTERPRETATION OF THIS AGREEMENT AND THE TERMS AND CONDITIONS SET FORTH HEREIN SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED WHOLLY THEREIN, WITHOUT GIVING EFFECT TO ANY PROVISIONS THEREOF RELATING TO CONFLICTS OF LAW."
+      }
+    ],
+    "inventory_span_ids": [
+      57,
+      77,
+      83,
+      86,
+      90,
+      126,
+      134,
+      136,
+      138,
+      141
+    ],
+    "policy_text": "Return the final NLI label and the exact span ids that justify it from the shown clause inventory. The inventory is intentionally noisy and may include exception-like confusers. Use entailment or contradiction only when the returned spans themselves determine the label. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "gold_label": "not_mentioned",
+    "gold_variants": [
+      []
+    ],
+    "gold_basis_options": [
+      "insufficient_support"
+    ]
+  }
+}

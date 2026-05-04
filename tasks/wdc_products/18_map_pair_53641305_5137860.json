@@ -1,0 +1,72 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "pair:53641305#5137860",
+  "task": {
+    "task_type": "hard_map",
+    "pair_id": "53641305#5137860",
+    "left_offer": {
+      "id": 53641305,
+      "brand": "Brother",
+      "title": "Brother HL-L5200DW Laser Printer",
+      "description": "Need Help with your purchase? If you have any questions regarding any of our products or services, please feel free to contact us. 1300 765 575 03 9703 255 support@cartridgesdirect.com.au Find out more Delivery and Shipping Information Terms and Conditions",
+      "price": "313.9",
+      "price_currency": "AUD",
+      "cluster_id": 4560116
+    },
+    "right_offer": {
+      "id": 5137860,
+      "brand": "Brother",
+      "title": "Brother HL-L8360CDW Laser Printer",
+      "description": "Need Help with your purchase? If you have any questions regarding any of our products or services, please feel free to contact us. 1300 765 575 03 9703 255 support@cartridgesdirect.com.au Find out more Delivery and Shipping Information Terms and Conditions",
+      "price": "588.76",
+      "price_currency": "AUD",
+      "cluster_id": 323596
+    },
+    "gold_label": "non_match",
+    "same_cluster": false,
+    "matched_attribute_hints": [
+      "brand",
+      "title"
+    ],
+    "conflict_attribute_hints": [
+      "price"
+    ],
+    "policy_text": "Return a normalized match report that is internally consistent. A match requires the same core product, not only a nearby accessory or variant.",
+    "gold_basis": "variant_or_bundle_mismatch",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 90603941,
+        "brand": "Brother",
+        "title": "Brother HL-L6200DW Business Laser Printer",
+        "description": "HL-L6200DW Business Laser Printer. The Brother HL-L6200DW monochrome laser printer is a great choice for busy offices and workgroups with higher print volumes that need a reliable printer with a low cost per page. Maximize your productivity with fast printing up to 48ppm and automatic two-sided printing, and help lower your operating costs with a super high-yield replacement toner cartridge. Reduce paper refills with a 520-sheet capacity paper tray that holds more than a ream of paper or for even greater paper capacity add optional trays for a total capacity of 1,610 sheets. Advanced security features help protect sensitive documents and prevent unauthorized printing. Plus, enjoy flexible connectivity with Gigabit Ethernet and wireless network interfaces, and convenient mobile device printing.",
+        "price": "229.99",
+        "price_currency": "USD",
+        "cluster_id": 5712817
+      },
+      {
+        "id": 67275979,
+        "brand": null,
+        "title": "Brother MFC-L2710DW - multifunction printer - B/W",
+        "description": "The Brother MFC-L2710DW monochrome laser All-in-One offers wireless networking, automatic duplex printing, and enhanced mobile device connectivity (Requires connection to a wireless network). Compact, durable design ideal for smaller offices that need to duplicate, digitize and share documents. Prints and copies professional black and white pages at up to 32ppm(Based on one-sided printing. Change from default setting required.). 250-sheet paper tray handles letter and legal sized paper. Scan and copy from the scan glass or 50-sheet automatic document feeder. Easily connect via wireless networking, Ethernet or USB interfaces. Print wirelessly from compatible mobile devices (Requires connection to a wireless network). Brother Genuine high-yield replacement toner helps lower printing costs.",
+        "price": "199.99",
+        "price_currency": "USD",
+        "cluster_id": 764656
+      },
+      {
+        "id": 22109936,
+        "brand": "Western Digital",
+        "title": "Western Digital Blue SSD 250GB SATA M.2 2280 WDS250G2B0B",
+        "description": null,
+        "price": "220.50",
+        "price_currency": "PLN",
+        "cluster_id": 3065693
+      }
+    ]
+  }
+}

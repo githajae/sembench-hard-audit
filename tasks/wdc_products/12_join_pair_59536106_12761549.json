@@ -1,0 +1,64 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:59536106#12761549",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "59536106#12761549",
+    "left_offer": {
+      "id": 59536106,
+      "brand": "Seagate",
+      "title": "Seagate IronWolf 6TB 3,5'' 256MB ST6000VN0033",
+      "description": "Seagate IronWolf 6TB 3,5'' 256MB ST6000VN0033",
+      "price": "0",
+      "price_currency": null,
+      "cluster_id": 498972
+    },
+    "right_offer": {
+      "id": 12761549,
+      "brand": null,
+      "title": "Seagate IronWolf 6TB NAS Internal Hard Drive (3.5\")",
+      "description": "Range of capacities up to 12TB. Workload rate of 180TB/year. Optimized for NAS with AgileArray, enables dual-plane balancing and RAID optimization in multi-bay environments. Actively protect your NAS with IronWolf Health Management. Rotational Vibration (RV) sensors. Always-on, always-accessible 24×7 performance. 1M hours MTBF, 3-year limited warranty.",
+      "price": "33500",
+      "price_currency": "PKR",
+      "cluster_id": 498972
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "match",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 26425849,
+        "brand": null,
+        "title": "16TB IronWolf Pro ST16000NE000, 7200 RPM, SATA 6Gb/s, 256MB cache, 3.5-Inch HDD",
+        "description": "16TB IronWolf Pro ST16000NE000, 7200 RPM, SATA 6Gb/s, 256MB cache, 3.5-Inch HDD",
+        "price": "555.21",
+        "price_currency": "USD",
+        "cluster_id": 40783
+      },
+      {
+        "id": 28284405,
+        "brand": "Sony",
+        "title": "Sony SEL-70200G FE 70-200 mm F4 Lens",
+        "description": null,
+        "price": "7699",
+        "price_currency": "TRY",
+        "cluster_id": 336149
+      },
+      {
+        "id": 72314218,
+        "brand": null,
+        "title": "GENUINE Dymo 24mm x 7m Black on Yellow Label Tape Roll SD53718",
+        "description": "GENUINE Dymo 24mm x 7m Black on Yellow Label Tape Roll SD53718",
+        "price": "30.14",
+        "price_currency": "AUD",
+        "cluster_id": 103881
+      }
+    ]
+  }
+}

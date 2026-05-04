@@ -1,0 +1,56 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:27166337#57083116",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "27166337#57083116",
+    "left_offer": {
+      "id": 27166337,
+      "brand": "Omega",
+      "title": "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001",
+      "description": "Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001",
+      "price": "7600.00",
+      "price_currency": "EUR",
+      "cluster_id": 1476532
+    },
+    "right_offer": {
+      "id": 57083116,
+      "brand": null,
+      "title": "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black",
+      "description": "Omega Seamaster Planet Ocean 600m Co-Axial Master ChronometerEmirates Team New Zealand Deep Black Special EditionReference 215.92.46.22.01.004Case Shape: RoundCase Diameter: 45.5mmCase Material: Black CeramicDial Color: BlackWater Resistance: 600mScrew In Crown: YesBand Material: Stitched RubberBuckle: Black CeramicMovement: AutomaticPower Reserve: 60hrComplications: Center Seconds Hand, Date, Regatta Countdown TimerExhibition Caseback: YesWarranty: Manufacturer 4 Year InternationalSCL SKU:WOMSM00159",
+      "price": "1.12E4",
+      "price_currency": "USD",
+      "cluster_id": 1659308
+    },
+    "is_hard_negative": true,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "non_match",
+    "gold_basis": "variant_or_bundle_mismatch",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 81954319,
+        "brand": null,
+        "title": "Fujifilm XF 56mm f/1.2 R",
+        "description": "Fujifilm XF 56mm f/1.2 R",
+        "price": "879.00",
+        "price_currency": "EUR",
+        "cluster_id": 565142
+      },
+      {
+        "id": 56574761,
+        "brand": null,
+        "title": "Audio Technica Headphones Air Dynamic Series ATH-AD500X",
+        "description": "Product details of AUDIO TECHNICA - ATH-AD500X Professional Monitor Headphone (AD500X)- Newly designed 53 mm drivers- Open-air headphones produce no sense of pressure on the ears- Self-adjusting 3D Wing Support Housing- Flexible raised-fabric earpads offer excellent wearing comfort- Highly conductive OFC (oxygen-free copper) single-sided cable- Gold-plated stereo 1/8\\\" (3.5 mm) connector with 1/4\\\" (6.3 mm) adapter",
+        "price": "529",
+        "price_currency": "MYR",
+        "cluster_id": 87840
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "benchmark": "contractnli",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "contract:386/hypothesis:nda-1",
+  "task": {
+    "task_type": "hard_filter",
+    "contract_id": 386,
+    "hypothesis_key": "nda-1",
+    "hypothesis_text": "All Confidential Information shall be expressly identified by the Disclosing Party.",
+    "contract_text": "PATENT ASSIGNMENT AND NON-DISCLOSURE AGREEMENT\nAGREEMENT between FRANKLIN ELECTRONIC PUBLISHERS, INC., a Pennsylvania corporation, having a place of business at One Franklin Plaza, Burlington, New Jersey 08016-4907 or any of its subsidiaries (referred to as \"FRANKLIN\") and ____________________________ residing at ________________________ an employee of Franklin or one of its subsidiaries (\"EMPLOYEE\").\nBACKGROUND\n1. EMPLOYEE has been hired by FRANKLIN in a position with access to information relating to the understanding of, testing, or improvement of existing products of FRANKLIN, the development of new products for FRANKLIN, and/or the general business activities of FRANKLIN.\n2. The parties desire to reduce to writing the patent assignment and non-disclosure aspects of the employment relationship.\nTERMS OF AGREEMENT\nIn and for the consideration of the employment of EMPLOYEE by FRANKLIN, EMPLOYEE agrees as follows:\n1. EMPLOYEE shall promptly and fully disclose to FRANKLIN any and all inventions, discoveries, writings, programs, and improvements made by him or her pertaining to or useful in the business of FRANKLIN during his or her period of employment by FRANKLIN, and any improvements to his or her invention, writings, programs, and discoveries, made, conceived or acquired by him or her no later than one year after the termination of employment, whether made or conceived solely or jointly with others, whether during regular business hours or otherwise; said Inventions, discoveries, writings, programs or improvements shall become and remain the property of FRANKLIN whether or not patent applications or copyright, trademark, or maskwork registrations are filed thereon.\n2. EMPLOYEE shall from time to time, upon request and at the expense of FRANKLIN, make application through the attorneys for FRANKLIN for any letters patent or copyright or maskwork registrations of the United States, and any and all foreign countries, on said inventions, discoveries, writings, programs or improvements, and assign and transfer all said applications, inventions, discoveries, writings, programs, and improvements to FRANKLIN or its nominee, without further consideration.\n3. EMPLOYEE shall from time to time, upon request of FRANKLIN execute all papers and do all other things that may be reasonably required in order to protect the rights of FRANKLIN, and to vest in FRANKLIN or its successors or assigns the entire rights, title and interest in and to any and all inventions, discoveries, writings, program improvements, and applications for letters patent or copyright or maskwork registrations relating to anything pertaining to or useful in the business of FRANKLIN as provided above.\n4. EMPLOYEE further agrees not to divulge to any third party, either during his or her employment or thereafter, any confidential information conceived by him or her, disclosed by FRANKLIN, or obtained by him or her while in the employment of FRANKLIN relating in any way to any of FRANKLIN'S processes, businesses, customers, trade secrets, apparatus, products, software, packages, programs or trends in research, or to any of the inventions, discoveries, writings, programs, and improvements covered hereby, and agrees to maintain this information in confidence until such time that such information has become widely known to the public or described in an issued patent or in a printed publication of wide circulation. Upon termination of the employment, EMPLOYEE agrees to turn over to FRANKLIN all notes, memoranda, notebooks, drawings, records, customer lists, telephone files (including Rolodex and business card files) and correspondence in connection with anything done by him or her relating to his or her employment, for the reason that all confidential information contained therein is at all times the sole property of FRANKLIN. Following the termination of his or her employment with FRANKLIN, EMPLOYEE agrees not to solicit any employees or consultants of Franklin at any time.\n5. EMPLOYEE understands and agrees that the continuance of EMPLOYEE in the service of FRANKLIN for a definite period is not made obligatory upon either party or a condition of this Agreement.\n6. EMPLOYEE agrees that this Agreement shall be binding upon his or her heirs, executors, administrators or other legal representative or assigns.\n7. EMPLOYEE represents and warrants that he or she has no agreements with or obligations to others in conflict with the foregoing.\n8. EMPLOYEE agrees that any portion of this Agreement held to be unenforceable shall be severed from this Agreement and shall not adversely affect any other portion of this Agreement.\nIN WITNESS WHEREOF, intending to be legally bound hereby, the parties have executed this Agreement on the date set forth below.\nEMPLOYEE\nDated: (SEAL)\n---------- -----------------------------\n-----------------------------\n(Print Name)\nFRANKLIN ELECTRONIC PUBLISHERS, INC.\nDated: BY:\n---------- --------------------------\nVice President\n",
+    "contract_spans": [
+      {
+        "span_id": 0,
+        "start": 0,
+        "end": 46,
+        "text": "PATENT ASSIGNMENT AND NON-DISCLOSURE AGREEMENT"
+      },
+      {
+        "span_id": 1,
+        "start": 47,
+        "end": 57,
+        "text": "AGREEMENT "
+      },
+      {
+        "span_id": 2,
+        "start": 57,
+        "end": 274,
+        "text": "between FRANKLIN ELECTRONIC PUBLISHERS, INC., a Pennsylvania corporation, having a place of business at One Franklin Plaza, Burlington, New Jersey 08016-4907 or any of its subsidiaries (referred to as \"FRANKLIN\") and "
+      },
+      {
+        "span_id": 3,
+        "start": 274,
+        "end": 303,
+        "text": "____________________________ "
+      },
+      {
+        "span_id": 4,
+        "start": 303,
+        "end": 315,
+        "text": "residing at "
+      },
+      {
+        "span_id": 5,
+        "start": 315,
+        "end": 340,
+        "text": "________________________ "
+      },
+      {
+        "span_id": 6,
+        "start": 340,
+        "end": 404,
+        "text": "an employee of Franklin or one of its subsidiaries (\"EMPLOYEE\")."
+      },
+      {
+        "span_id": 7,
+        "start": 405,
+        "end": 415,
+        "text": "BACKGROUND"
+      },
+      {
+        "span_id": 8,
+        "start": 416,
+        "end": 685,
+        "text": "1. EMPLOYEE has been hired by FRANKLIN in a position with access to information relating to the understanding of, testing, or improvement of existing products of FRANKLIN, the development of new products for FRANKLIN, and/or the general business activities of FRANKLIN."
+      },
+      {
+        "span_id": 9,
+        "start": 686,
+        "end": 809,
+        "text": "2. The parties desire to reduce to writing the patent assignment and non-disclosure aspects of the employment relationship."
+      },
+      {
+        "span_id": 10,
+        "start": 810,
+        "end": 828,
+        "text": "TERMS OF AGREEMENT"
+      },
+      {
+        "span_id": 11,
+        "start": 829,
+        "end": 928,
+        "text": "In and for the consideration of the employment of EMPLOYEE by FRANKLIN, EMPLOYEE agrees as follows:"
+      },
+      {
+        "span_id": 12,
+        "start": 929,
+        "end": 1696,
+        "text": "1. EMPLOYEE shall promptly and fully disclose to FRANKLIN any and all inventions, discoveries, writings, programs, and improvements made by him or her pertaining to or useful in the business of FRANKLIN during his or her period of employment by FRANKLIN, and any improvements to his or her invention, writings, programs, and discoveries, made, conceived or acquired by him or her no later than one year after the termination of employment, whether made or conceived solely or jointly with others, whether during regular business hours or otherwise; said Inventions, discoveries, writings, programs or improvements shall become and remain the property of FRANKLIN whether or not patent applications or copyright, trademark, or maskwork registrations are filed thereon."
+      },
+      {
+        "span_id": 13,
+        "start": 1697,
+        "end": 2186,
+        "text": "2. EMPLOYEE shall from time to time, upon request and at the expense of FRANKLIN, make application through the attorneys for FRANKLIN for any letters patent or copyright or maskwork registrations of the United States, and any and all foreign countries, on said inventions, discoveries, writings, programs or improvements, and assign and transfer all said applications, inventions, discoveries, writings, programs, and improvements to FRANKLIN or its nominee, without further consideration."
+      },
+      {
+        "span_id": 14,
+        "start": 2187,
+        "end": 2704,
+        "text": "3. EMPLOYEE shall from time to time, upon request of FRANKLIN execute all papers and do all other things that may be reasonably required in order to protect the rights of FRANKLIN, and to vest in FRANKLIN or its successors or assigns the entire rights, title and interest in and to any and all inventions, discoveries, writings, program improvements, and applications for letters patent or copyright or maskwork registrations relating to anything pertaining to or useful in the business of FRANKLIN as provided above."
+      },
+      {
+        "span_id": 15,
+        "start": 2705,
+        "end": 3427,
+        "text": "4. EMPLOYEE further agrees not to divulge to any third party, either during his or her employment or thereafter, any confidential information conceived by him or her, disclosed by FRANKLIN, or obtained by him or her while in the employment of FRANKLIN relating in any way to any of FRANKLIN'S processes, businesses, customers, trade secrets, apparatus, products, software, packages, programs or trends in research, or to any of the inventions, discoveries, writings, programs, and improvements covered hereby, and agrees to maintain this information in confidence until such time that such information has become widely known to the public or described in an issued patent or in a printed publication of wide circulation. "
+      },
+      {
+        "span_id": 16,
+        "start": 3427,
+        "end": 3847,
+        "text": "Upon termination of the employment, EMPLOYEE agrees to turn over to FRANKLIN all notes, memoranda, notebooks, drawings, records, customer lists, telephone files (including Rolodex and business card files) and correspondence in connection with anything done by him or her relating to his or her employment, for the reason that all confidential information contained therein is at all times the sole property of FRANKLIN. "
+      },
+      {
+        "span_id": 17,
+        "start": 3847,
+        "end": 3997,
+        "text": "Following the termination of his or her employment with FRANKLIN, EMPLOYEE agrees not to solicit any employees or consultants of Franklin at any time."
+      },
+      {
+        "span_id": 18,
+        "start": 3998,
+        "end": 4189,
+        "text": "5. EMPLOYEE understands and agrees that the continuance of EMPLOYEE in the service of FRANKLIN for a definite period is not made obligatory upon either party or a condition of this Agreement."
+      },
+      {
+        "span_id": 19,
+        "start": 4190,
+        "end": 4336,
+        "text": "6. EMPLOYEE agrees that this Agreement shall be binding upon his or her heirs, executors, administrators or other legal representative or assigns."
+      },
+      {
+        "span_id": 20,
+        "start": 4337,
+        "end": 4467,
+        "text": "7. EMPLOYEE represents and warrants that he or she has no agreements with or obligations to others in conflict with the foregoing."
+      },
+      {
+        "span_id": 21,
+        "start": 4468,
+        "end": 4651,
+        "text": "8. EMPLOYEE agrees that any portion of this Agreement held to be unenforceable shall be severed from this Agreement and shall not adversely affect any other portion of this Agreement."
+      },
+      {
+        "span_id": 22,
+        "start": 4652,
+        "end": 4779,
+        "text": "IN WITNESS WHEREOF, intending to be legally bound hereby, the parties have executed this Agreement on the date set forth below."
+      },
+      {
+        "span_id": 23,
+        "start": 4780,
+        "end": 4788,
+        "text": "EMPLOYEE"
+      },
+      {
+        "span_id": 24,
+        "start": 4789,
+        "end": 4802,
+        "text": "Dated: (SEAL)"
+      },
+      {
+        "span_id": 25,
+        "start": 4803,
+        "end": 4814,
+        "text": "---------- "
+      },
+      {
+        "span_id": 26,
+        "start": 4814,
+        "end": 4843,
+        "text": "-----------------------------"
+      },
+      {
+        "span_id": 27,
+        "start": 4844,
+        "end": 4873,
+        "text": "-----------------------------"
+      },
+      {
+        "span_id": 28,
+        "start": 4874,
+        "end": 4886,
+        "text": "(Print Name)"
+      },
+      {
+        "span_id": 29,
+        "start": 4887,
+        "end": 4923,
+        "text": "FRANKLIN ELECTRONIC PUBLISHERS, INC."
+      },
+      {
+        "span_id": 30,
+        "start": 4924,
+        "end": 4934,
+        "text": "Dated: BY:"
+      },
+      {
+        "span_id": 31,
+        "start": 4935,
+        "end": 4946,
+        "text": "---------- "
+      },
+      {
+        "span_id": 32,
+        "start": 4946,
+        "end": 4972,
+        "text": "--------------------------"
+      },
+      {
+        "span_id": 33,
+        "start": 4973,
+        "end": 4987,
+        "text": "Vice President"
+      }
+    ],
+    "confuser_clauses": [
+      {
+        "span_id": 16,
+        "start": 3427,
+        "end": 3847,
+        "text": "Upon termination of the employment, EMPLOYEE agrees to turn over to FRANKLIN all notes, memoranda, notebooks, drawings, records, customer lists, telephone files (including Rolodex and business card files) and correspondence in connection with anything done by him or her relating to his or her employment, for the reason that all confidential information contained therein is at all times the sole property of FRANKLIN. "
+      },
+      {
+        "span_id": 14,
+        "start": 2187,
+        "end": 2704,
+        "text": "3. EMPLOYEE shall from time to time, upon request of FRANKLIN execute all papers and do all other things that may be reasonably required in order to protect the rights of FRANKLIN, and to vest in FRANKLIN or its successors or assigns the entire rights, title and interest in and to any and all inventions, discoveries, writings, program improvements, and applications for letters patent or copyright or maskwork registrations relating to anything pertaining to or useful in the business of FRANKLIN as provided above."
+      },
+      {
+        "span_id": 12,
+        "start": 929,
+        "end": 1696,
+        "text": "1. EMPLOYEE shall promptly and fully disclose to FRANKLIN any and all inventions, discoveries, writings, programs, and improvements made by him or her pertaining to or useful in the business of FRANKLIN during his or her period of employment by FRANKLIN, and any improvements to his or her invention, writings, programs, and discoveries, made, conceived or acquired by him or her no later than one year after the termination of employment, whether made or conceived solely or jointly with others, whether during regular business hours or otherwise; said Inventions, discoveries, writings, programs or improvements shall become and remain the property of FRANKLIN whether or not patent applications or copyright, trademark, or maskwork registrations are filed thereon."
+      },
+      {
+        "span_id": 13,
+        "start": 1697,
+        "end": 2186,
+        "text": "2. EMPLOYEE shall from time to time, upon request and at the expense of FRANKLIN, make application through the attorneys for FRANKLIN for any letters patent or copyright or maskwork registrations of the United States, and any and all foreign countries, on said inventions, discoveries, writings, programs or improvements, and assign and transfer all said applications, inventions, discoveries, writings, programs, and improvements to FRANKLIN or its nominee, without further consideration."
+      },
+      {
+        "span_id": 8,
+        "start": 416,
+        "end": 685,
+        "text": "1. EMPLOYEE has been hired by FRANKLIN in a position with access to information relating to the understanding of, testing, or improvement of existing products of FRANKLIN, the development of new products for FRANKLIN, and/or the general business activities of FRANKLIN."
+      }
+    ],
+    "policy_text": "Use the full contract and return the final label together with the exact span ids that directly determine it under exception-sensitive reasoning. If the hypothesis is not mentioned, return not_mentioned and an empty span_ids list.",
+    "document_type": "sec-text",
+    "gold_label": "entailment",
+    "gold_variants": [
+      [
+        15
+      ]
+    ]
+  }
+}

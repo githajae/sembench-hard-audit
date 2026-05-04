@@ -1,0 +1,48 @@
+{
+  "benchmark": "contractnli",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "contract:419/hypothesis:nda-7/span:16",
+  "task": {
+    "task_type": "hard_join",
+    "contract_id": 419,
+    "hypothesis_key": "nda-7",
+    "hypothesis_text": "Receiving Party may share some Confidential Information with some third-parties (including consultants, agents and professional advisors).",
+    "span_id": 16,
+    "span_text": "4. Vendor and Ingram mutually agree that Ingram's public disclosure of the Proprietary Information, except pursuant to a confidential disclosure agreement, to any party will release Vendor from the obligation of confidentiality with respect to that portion of the Proprietary Information actually disclosed by Ingram.",
+    "confuser_clauses": [
+      {
+        "span_id": 15,
+        "start": 1880,
+        "end": 2195,
+        "text": "3. Vendor and Ingram mutually agree that all copies of the Proprietary Information and all written descriptions, extractions, or summaries thereof, whether made by Vendor or Ingram, shall be the property of Ingram, and shall, upon expiration of this Agreement or Ingram's request, be immediately returned to Ingram."
+      },
+      {
+        "span_id": 17,
+        "start": 2514,
+        "end": 2691,
+        "text": "5. Upon termination of this Agreement by either party for any reason, Vendor shall return all Proprietary Information to Ingram within thirty (30) days, irrespective of format. "
+      },
+      {
+        "span_id": 20,
+        "start": 3034,
+        "end": 3316,
+        "text": "In the event that any provision is found invalid or unenforceable pursuant to statutory or Judicial decree, such provision shall be construed only to the maximum extent permitted by law, and the remainder of the Agreement shall be valid and enforceable in accordance with its terms."
+      },
+      {
+        "span_id": 11,
+        "start": 1013,
+        "end": 1237,
+        "text": "Vendor agrees not to communicate, disclose, or otherwise make available all or any part of the Proprietary Information to any third party, including, but not limited to Vendor's parent, subsidiaries, or affiliated companies."
+      },
+      {
+        "span_id": 13,
+        "start": 1390,
+        "end": 1717,
+        "text": "Vendor agrees to make no more than five (5) copies of the Proprietary Information unless otherwise agreed in writing between the parties; and Vendor agrees to limit distribution of and access to the Proprietary Information to those of Vendor's personnel who require access to Proprietary Information for the foregoing purpose. "
+      }
+    ],
+    "policy_text": "Return evidence only if the candidate clause directly determines the final contract label for the hypothesis. Ignore nearby clauses that merely restate keywords or discuss related exceptions.",
+    "gold_label": "not_evidence"
+  }
+}

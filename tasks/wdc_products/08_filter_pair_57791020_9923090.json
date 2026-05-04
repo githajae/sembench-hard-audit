@@ -1,0 +1,47 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "pair:57791020#9923090",
+  "task": {
+    "task_type": "hard_filter",
+    "pair_id": "57791020#9923090",
+    "left_offer": {
+      "id": 57791020,
+      "brand": "Pokemon",
+      "title": "Pokemon Pokemon: Darkness Ablaze Bstr",
+      "description": "Add to your collection and light a fire with the Darkness Ablaze expansion!",
+      "price": "4.00",
+      "price_currency": "USD",
+      "cluster_id": 69543397
+    },
+    "right_offer": {
+      "id": 9923090,
+      "brand": null,
+      "title": "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box",
+      "description": "A Brilliant Flame on the Darkest Day!The velvet night glows, burns, and blazes astoundingly bright as the Legendary Pokémon Eternatus arrives as a Pokémon V alongside Centiskorch V, Crobat V, Salamence V, and many others. You’ll also find towering Pokémon VMAX in their Gigantamax forms: Charizard VMAX, Grimmsnarl VMAX, Butterfree VMAX, and more! Light a fire with the Pokémon TCG: Sword & Shield—Darkness Ablaze expansion!THE POKÉMON TCG: SWORD & SHIELD—DARKNESS ABLAZE ELITE TRAINER BOX INCLUDES:• 8 Pokémon TCG: Sword & Shield—Darkness Ablaze booster packs• 65 card sleeves featuring Eternatus• 45 Pokémon TCG Energy cards• A player’s guide to the Sword & Shield—Darkness Ablaze expansion• A Pokémon TCG rulebook• 6 damage-counter dice• 1 competition-legal coin-flip die• 2 acrylic condition markers• A collector’s box to hold everything, with 4 dividers to keep it organized• A code card for the Pokémon Trading Card Game Online",
+      "price": "75",
+      "price_currency": "AUD",
+      "cluster_id": 2619685
+    },
+    "is_hard_negative": true,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "reject",
+    "gold_basis": "variant_or_bundle_mismatch",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 21044132,
+        "brand": null,
+        "title": "Pokemon TCG: Sword & Shield Boosters",
+        "description": null,
+        "price": "4.00",
+        "price_currency": "GBP",
+        "cluster_id": 991074
+      }
+    ]
+  }
+}

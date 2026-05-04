@@ -1,0 +1,47 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:2392632#40876435",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "2392632#40876435",
+    "left_offer": {
+      "id": 2392632,
+      "brand": null,
+      "title": "2222 HYBRID SLINKY 9/46 Ernie Ball",
+      "description": null,
+      "price": "6.90",
+      "price_currency": "EUR",
+      "cluster_id": 1382225
+    },
+    "right_offer": {
+      "id": 40876435,
+      "brand": null,
+      "title": "Canon EF-M 18-150mm f/3.5-6.3 IS STM (Black)",
+      "description": "The ideal 'all-in-one' lens for EOS M users, looking for unlimited creative opportunities. Featuring 8.3x optical zoom, 4-stop optical Image Stabilizer and STM focusing technology.",
+      "price": "7795.00",
+      "price_currency": "ZAR",
+      "cluster_id": 3160384
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "non_match",
+    "gold_basis": "insufficient_support",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 80876204,
+        "brand": null,
+        "title": "Ram Mout Triple Ball Adapter",
+        "description": null,
+        "price": "€46,95",
+        "price_currency": "EUR",
+        "cluster_id": 2961644
+      }
+    ]
+  }
+}

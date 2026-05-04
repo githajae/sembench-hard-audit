@@ -1,0 +1,99 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "left_offer:86176880",
+  "task": {
+    "task_type": "hard_rank",
+    "left_offer": {
+      "id": 86176880,
+      "brand": null,
+      "title": "Sigma ART 50mm f/1.4 DG HSM Lens for Nikon",
+      "description": null,
+      "price": "1099.99",
+      "price_currency": "CAD",
+      "cluster_id": 393711
+    },
+    "policy_text": "Choose the single best same-product candidate for the reference offer. Treat same-brand accessories, bundles, neighboring model numbers, and storage or color variants as confusers rather than true matches. Use only the minimal decisive attributes.",
+    "candidate_right_offers": [
+      {
+        "id": 26301462,
+        "brand": "Sigma",
+        "title": "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens",
+        "description": "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens",
+        "price": "1059",
+        "price_currency": "AUD",
+        "cluster_id": 704991,
+        "pair_id": "97657130#26301462",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 32931015,
+        "brand": null,
+        "title": "Sigma 105mm f1.4 DG HSM Art Lens for Canon",
+        "description": "105mm Filter Size f/1.4 Aperture N/A Stabilized EF Mount The “Bokeh Master” Optical system delivering unsurpassed f/1.4 performance Exceptional peripheral brightness Dust and splash-proof structure Compatible with Canon Lens Aberration Correction Outstanding wide-aperture, mid-telephoto performance with F1.4 brightness atmaximum aperture, this lens incorporates 17 optical elements in 12 groups, an...",
+        "price": "1599.95",
+        "price_currency": "USD",
+        "cluster_id": 2161920,
+        "pair_id": "86176880#32931015",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 26736430,
+        "brand": "Sigma",
+        "title": "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens",
+        "description": "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens",
+        "price": "1249",
+        "price_currency": "AUD",
+        "cluster_id": 393711,
+        "pair_id": "86176880#26736430",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 31585097,
+        "brand": "Sigma",
+        "title": "Sigma Sigma 35mm F1.4 ART DG HSM - Nikon AF mount",
+        "description": "This item may qualify for an Instant Rebate. Any current manufacturer rebate will be refunded to your card after purchase. Please email shop@lookingglassphoto.com if you have any questions.",
+        "price": "899.99",
+        "price_currency": "USD",
+        "cluster_id": 900968,
+        "pair_id": "38447746#31585097",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 78989521,
+        "brand": null,
+        "title": "BIZ 2400 II Duo IP Flex",
+        "description": "Jabra BIZ 2400 II QD Duo NC WideBand, Casque, Arceau, Bureau/Centre d'appels, Noir, Binaural, 1 m",
+        "price": "191.04",
+        "price_currency": "EUR",
+        "cluster_id": 472648,
+        "pair_id": "86176880#78989521",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      }
+    ],
+    "gold_best_candidate_id": 26736430,
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "gold_positive_ids": [
+      26736430
+    ],
+    "candidate_ids": [
+      26301462,
+      32931015,
+      26736430,
+      31585097,
+      78989521
+    ],
+    "candidate_order_seed": 86176880,
+    "hard_same_brand_confuser_count": 2,
+    "hard_max_confuser_overlap": 8,
+    "hard_candidate_count": 5
+  }
+}

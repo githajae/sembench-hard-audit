@@ -1,0 +1,65 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:39130017#83362334",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "39130017#83362334",
+    "left_offer": {
+      "id": 39130017,
+      "brand": null,
+      "title": "Razer Basilisk V2 Wired Ergonomic Gaming Mouse, 11 Programmable Buttons | RZ01-03160100-R3M1",
+      "description": "The #1 Best-Selling Gaming Peripherals Manufacturer in the US: Source - The NPD Group, Inc. U.S. Retail Tracking Service, Keyboards, Mice, PC Headset/Pc Microphone, Gaming Designed, based on dollar sales, Jan. 2017- Dec. 2019 High-Precision 16,000 DPI Optical Sensor: Offers on-the-fly sensitivity adjustment through dedicated DPI buttons (reprogrammable) for gaming Customizable Chroma RGB Color Profiles: Supports 16.8 million color combinations w/ included preset profiles Quick DPI Toggle for FPS Gaming: A replaceable side button for different hand sizes allows for quick, temporary switching to lower sensitivity settings for instant sniping Personalized Scroll Wheel Resistance: A physical allows for scrolling to be as clicky or smooth as desired 8 Programmable Buttons: Allows for reconfiguration and assignment of complex macro functions through Razer Synapse",
+      "price": "340.73",
+      "price_currency": "AED",
+      "cluster_id": 844661
+    },
+    "right_offer": {
+      "id": 83362334,
+      "brand": "Razer",
+      "title": "RAZER MAMBA ELITE ERGONOMIC WIRED GAMING MOUSE",
+      "description": "Incredibly Accurate: True 16,000 DPI 5G Optical Sensor; Up to 450 inches per second (IPS) / 50 G acceleration Extended Razer Chroma Lighting Zones: Customization with maximum visibility Razer Mechanical Switch: Durable up to 50 million clicks Advanced Ergonomics: Improved side grips for hours of comfortable gameplay 9 Programmable Buttons: Individually configure each button, including a tilt-click scroll wheel, to your preferred actions",
+      "price": "6649.00",
+      "price_currency": "INR",
+      "cluster_id": 967973
+    },
+    "is_hard_negative": true,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "non_match",
+    "gold_basis": "variant_or_bundle_mismatch",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 5964390,
+        "brand": null,
+        "title": "Razer DeathAdder V2 Ergonomic Wired Gaming Mouse (RZ01-03210100-R3M1) (Warranty 2years with Ban Leong)",
+        "description": "Warranty : 2 Years with Local Distributor - Ban Leong",
+        "price": "99.00",
+        "price_currency": "SGD",
+        "cluster_id": 686177
+      },
+      {
+        "id": 48102422,
+        "brand": "Razer",
+        "title": "Razer Viper Mini Ultra-Lightweight USB RGB Optical Gaming Mouse (RZ01-03250100-R3M1)",
+        "description": "Razer Viper Mini Ultra-Lightweight USB Optical Gaming Mouse, 8500 DPI OPTICAL SENSOR, 6 PROGRAMMABLE BUTTONS, 100% PTFE MOUSE FEET, ON-BOARD MEMORY PROFILE",
+        "price": "44.952",
+        "price_currency": "GBP",
+        "cluster_id": 910627
+      },
+      {
+        "id": 15648,
+        "brand": "Sony",
+        "title": "Sony E 30mm f/3.5 Macro Lens",
+        "description": "The Sony E 30mm f/3.5 is a true 1:1 macro lens with a 2.4cm minimum working distance. It renders close-up detail with superb resolution and contrast.",
+        "price": "6395.00",
+        "price_currency": "ZAR",
+        "cluster_id": 213496
+      }
+    ]
+  }
+}

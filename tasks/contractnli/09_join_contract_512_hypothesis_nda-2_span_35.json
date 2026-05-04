@@ -1,0 +1,48 @@
+{
+  "benchmark": "contractnli",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "contract:512/hypothesis:nda-2/span:35",
+  "task": {
+    "task_type": "hard_join",
+    "contract_id": 512,
+    "hypothesis_key": "nda-2",
+    "hypothesis_text": "Confidential Information shall only include technical information.",
+    "span_id": 35,
+    "span_text": "Contractor agrees to regard and preserve as confidential all information obtained by Contractor relating or pertaining to ",
+    "confuser_clauses": [
+      {
+        "span_id": 46,
+        "start": 6601,
+        "end": 7025,
+        "text": "Contractor agrees that, upon termination of our contract with the Company (voluntary or otherwise), Contractor will return to the Company all things belonging to the Company, and that all documents, records, notebooks and tangible articles containing or embodying confidential information, including copies thereof, then in our possession or control, whether prepared by Contractor or others, will be left with the Company. "
+      },
+      {
+        "span_id": 39,
+        "start": 5374,
+        "end": 5593,
+        "text": "Contractor further agrees to preserve as confidential the confidential information of any third party to which Contractor may have access and to treat such information as though it were Company confidential information."
+      },
+      {
+        "span_id": 74,
+        "start": 9604,
+        "end": 9954,
+        "text": "Also, Contractor hereby assigns, and agree to assign, to the Company all Inventions conceived or reduced to practice by Contractor within one year following the termination of our work for the Company (voluntary or otherwise), if the Invention is a result of the Company’s information which was obtained by Contractor during our work for the Company."
+      },
+      {
+        "span_id": 41,
+        "start": 5669,
+        "end": 6010,
+        "text": "Contractor agrees to promptly advise the Company of any knowledge which Contractor may have of any unauthorized release or use of any Company confidential information, and shall take reasonable measures to prevent unauthorized persons or entities from having access to, obtaining or being furnished with any Company confidential information."
+      },
+      {
+        "span_id": 43,
+        "start": 6057,
+        "end": 6310,
+        "text": "Contractor agrees not to disclose to the Company and not to use in any way in connection with our work for the Company any confidential information or trade secrets of any kind, or any embodiments thereof, of any previous employer or other third party. "
+      }
+    ],
+    "policy_text": "Return evidence only if the candidate clause directly determines the final contract label for the hypothesis. Ignore nearby clauses that merely restate keywords or discuss related exceptions.",
+    "gold_label": "evidence"
+  }
+}

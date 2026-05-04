@@ -1,0 +1,70 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "pair:1781011#6403220",
+  "task": {
+    "task_type": "hard_map",
+    "pair_id": "1781011#6403220",
+    "left_offer": {
+      "id": 1781011,
+      "brand": null,
+      "title": "2012 SRAM Red XG-1090 10-Speed X-Dome 11-23 Cassette",
+      "description": null,
+      "price": "295.00",
+      "price_currency": "USD",
+      "cluster_id": 1468560
+    },
+    "right_offer": {
+      "id": 6403220,
+      "brand": null,
+      "title": "SRAM XG-1090 PowerDome-X 10sp Cassette",
+      "description": "Superlight PowerDome-X construction: middle 8 cogs are heat treated and CNC-machined from a single piece of 4130 CrMo steel, providing a harder and ultimately lighter product than titaniumLightening ports in larger cog shelves mated with a spider-ported aluminum big cog and steel 11t 1st-position cog mirror the strength and weight savings borrowed from XX technology (CX: 12-27 range specifically designed or Cyclocross gearing)X-Glide tooth profiling coupled with elastomer StealthRing spacers reduce vibration and drivetrain noise while providing super-fast shifts and loss-less power transferFits 8-10sp SRAM/Shimano-spline freehub bodies for 10sp shifting/spacingIncludes anodized 7000-series aluminum lockring",
+      "price": "328.0",
+      "price_currency": "USD",
+      "cluster_id": 1468560
+    },
+    "gold_label": "match",
+    "same_cluster": true,
+    "matched_attribute_hints": [
+      "title"
+    ],
+    "conflict_attribute_hints": [
+      "price"
+    ],
+    "policy_text": "Return a normalized match report that is internally consistent. A match requires the same core product, not only a nearby accessory or variant.",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 9862290,
+        "brand": "Shimano",
+        "title": "Shimano - CLEATS SH-10 FIXED RED",
+        "description": null,
+        "price": "35.00",
+        "price_currency": "AUD",
+        "cluster_id": 431550
+      },
+      {
+        "id": 87259085,
+        "brand": null,
+        "title": "RAM Double Socket Arm MC201C LONG",
+        "description": "The RAM-MC-201-C, Long double socket arm, has a socket at both ends that accommodates 1\\\" ball bases. A single spring inside the arm opens the end sockets, allowing you to pivot the ball and socket connection. This socket technology allows for almost infinite adjustment and perfect viewing angles.",
+        "price": "2.899E1",
+        "price_currency": "GBP",
+        "cluster_id": 1366684
+      },
+      {
+        "id": 415992,
+        "brand": null,
+        "title": "Epson Ink Cartridge - Matte Black 700ml",
+        "description": "Epson Ink Cartridge - Matte Black 700ml",
+        "price": "262.17",
+        "price_currency": "GBP",
+        "cluster_id": 833964
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "benchmark": "contractnli",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "contract:231/hypothesis:nda-3",
+  "task": {
+    "task_type": "hard_rank",
+    "contract_id": 231,
+    "hypothesis_key": "nda-3",
+    "hypothesis_text": "Confidential Information may include verbally conveyed information.",
+    "candidate_clauses": [
+      {
+        "span_id": 16,
+        "text": "2.2. The Company discloses the Proprietary Information concerning acquisition and further use and realization of OL-tokens during «OLPORTAL» ICO to the Investor, including individual preferences provided to the Investor at any stage of transactions at the time of ICO in accordance with the provisions of the Offer and accompanying documents including terms of smart-contracts, according to which the investor acquires OL-tokens."
+      },
+      {
+        "span_id": 11,
+        "text": "The Proprietary Information does not include any publicly available information, the access to which was provided to the third parties by the Company without limitations, or in case if this information became public through no fault of the Investor in force of other circumstances, to relation of which the Investor can prove that the Investor has already possessed this information by the time when the Company provided it, or this information contained no conﬁdentiality preservation obligations."
+      },
+      {
+        "span_id": 19,
+        "text": "The Investor is obliged to provide the list of Investor’s Agents who have received access to the Proprietary Information."
+      },
+      {
+        "span_id": 12,
+        "text": "The information also cannot be called Proprietary in cases where the Investor can prove that it was created by himself or herself without resorting to the Proprietary Information."
+      },
+      {
+        "span_id": 9,
+        "text": "1.3. An Agent of the Investor is an authorized person of the investor who has access to the Proprietary Information."
+      },
+      {
+        "span_id": 10,
+        "text": "1.4. The Proprietary Information is any information of the Company marked as «Commercial Secret» or «Conﬁdential» with actual or potential commercial value by virtue of the fact third-parties are unfamiliar with it, submitted to the Investor by the Company in written form by documents transmission, including the electronic transmission of documents secured from unauthorized access to the transmitted information, the information related to business or ﬁnance plans and strategies including, without limitation information about markets, ﬁnancial documents, ﬁnancial statements and accounting (except for cases deﬁned by law), contractual relationships, pricing and marketing of goods (works and services), technical information, commercial secrets, know-how, research, production schedules, concepts, intellectual activity property (which includes discoveries, inventions, rationalization proposals, utility models, constructions, industrial models that are non-proprietary for some reasons, computer software, databases, logotypes scratches that are non-registered for some reasons)."
+      },
+      {
+        "span_id": 21,
+        "text": "3.3. Should the controversy between conﬁdentiality clauses in the Agreements signed by the parties appear, according to which the Investor shall procure or procured the access to the Proprietary Information and according to the terms of the Agreement, the conditions stated in the Agreement shall prevail."
+      },
+      {
+        "span_id": 18,
+        "text": "3.1. The Investor is authorized to grant access to the proprietary information only to those parties who require access to the proprietary information in realizing the investors’ rights under the Offer in order to achieve the provision of the Proprietary Information, are obliged not to disclose the Proprietary Information and informed about the fact of the conclusion of the Agreement. "
+      },
+      {
+        "span_id": 13,
+        "text": "The Agreement does not regulate personal information security and the transmission of the information related to bank secrecy."
+      },
+      {
+        "span_id": 15,
+        "text": "2.1. Obligations of parties to secure the Proprietary Information under the terms indicated in the Agreement constitute the subject of the agreement."
+      },
+      {
+        "span_id": 20,
+        "text": "3.2. Non-performance of terms of section 3.1. of the Agreement causes the termination of access to the Proprietary Information and provides the Company with the right to refuse unilaterally from performing any agreements along with the Offer, concluded with the Investor, according to which the Investor shall procure or procured the access to the Proprietary Information."
+      },
+      {
+        "span_id": 22,
+        "text": "3.4. The Investor is obliged to keep, withhold, and hold any conﬁdential information, take measures, which are greater than or equal to measures which the Investor takes to protect his or her own conﬁdential information, to secure the Proprietary Information."
+      }
+    ],
+    "candidate_span_ids": [
+      16,
+      11,
+      19,
+      12,
+      9,
+      10,
+      21,
+      18,
+      13,
+      15,
+      20,
+      22
+    ],
+    "gold_positive_span_ids": [
+      10
+    ],
+    "policy_text": "Rank clause spans by how directly they determine the final contract label for the hypothesis. Gold evidence clauses must appear before confusable but non-evidence clauses."
+  }
+}

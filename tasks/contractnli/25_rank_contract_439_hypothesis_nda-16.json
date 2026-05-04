@@ -1,0 +1,80 @@
+{
+  "benchmark": "contractnli",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "contract:439/hypothesis:nda-16",
+  "task": {
+    "task_type": "hard_rank",
+    "contract_id": 439,
+    "hypothesis_key": "nda-16",
+    "hypothesis_text": "Receiving Party shall destroy or return some Confidential Information upon the termination of Agreement.",
+    "candidate_clauses": [
+      {
+        "span_id": 55,
+        "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) "
+      },
+      {
+        "span_id": 3,
+        "text": "Upon receipt by Microsoft Corporation (\"MS\") of this Agreement, signed and completed by the individual or organization indicated below (\"Recipient\"), MS may elect, at MS' sole discretion, to provide Recipient with a pre-release copy of the MS product MSN Software Development Kit, and related documentation and information (collectively the \"Product\"). "
+      },
+      {
+        "span_id": 4,
+        "text": "MS may, in its sole discretion, also provide further pre-releases of the Product or related information to Recipient hereunder, in which case such further pre-releases and related information shall also be covered hereunder as \"Product\"."
+      },
+      {
+        "span_id": 28,
+        "text": "The term of this Agreement shall commence on the Effective Date and shall continue until terminated by MS in writing at any time, with or without cause. "
+      },
+      {
+        "span_id": 29,
+        "text": "This Agreement will terminate without notice upon the commercial release of the Product. "
+      },
+      {
+        "span_id": 79,
+        "text": "If \"Company Name\" or a company address is filled in below, then the individual signing this Agreement represents that he/she has authority to execute this agreement on behalf of such company and agrees that Product (and any copies thereof) shall remain on the company premises, unless otherwise agreed by MS."
+      },
+      {
+        "span_id": 60,
+        "text": "If either MS or Recipient employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees."
+      },
+      {
+        "span_id": 26,
+        "text": "(d) The Product shall not be used, modified, reproduced except as provided above and you agree to destroy or erase the copy of the Product upon MS' release of the Product in final form."
+      },
+      {
+        "span_id": 48,
+        "text": "This provision shall survive the termination or expiration of this Agreement with respect to any information that has not been made public by MS as of the commercial release of the Product."
+      },
+      {
+        "span_id": 32,
+        "text": "Section 6 shall survive termination or expiration of this Agreement with respect to any information that has not been made public by MS as of the commercial release of the Product."
+      },
+      {
+        "span_id": 41,
+        "text": "Recipient agrees not to disclose or provide the Product, documentation, or any related information (including the Product features or the results of use or testing) to any third party or use the Product for any purpose other than as provided in this Agreement. "
+      },
+      {
+        "span_id": 30,
+        "text": "Upon the termination of this Agreement, Recipient shall promptly return to MS. "
+      }
+    ],
+    "candidate_span_ids": [
+      55,
+      3,
+      4,
+      28,
+      29,
+      79,
+      60,
+      26,
+      48,
+      32,
+      41,
+      30
+    ],
+    "gold_positive_span_ids": [
+      30
+    ],
+    "policy_text": "Rank clause spans by how directly they determine the final contract label for the hypothesis. Gold evidence clauses must appear before confusable but non-evidence clauses."
+  }
+}

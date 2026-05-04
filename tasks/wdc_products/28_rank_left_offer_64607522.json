@@ -1,0 +1,125 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "left_offer:64607522",
+  "task": {
+    "task_type": "hard_rank",
+    "left_offer": {
+      "id": 64607522,
+      "brand": "Manfrotto",
+      "title": "Manfrotto MVH500AH Lightweight Video Head with Flat Base",
+      "description": "The Manfrotto MVH500AH is a lightweight head with a wider platform for HDSLR bodies which has a sliding plate which travels to balance the latest interchangeable lens cameras.",
+      "price": "115",
+      "price_currency": "GBP",
+      "cluster_id": 72631
+    },
+    "policy_text": "Choose the single best same-product candidate for the reference offer. Treat same-brand accessories, bundles, neighboring model numbers, and storage or color variants as confusers rather than true matches. Use only the minimal decisive attributes.",
+    "candidate_right_offers": [
+      {
+        "id": 37865200,
+        "brand": null,
+        "title": "Manfrotto MVK500AM Fluid Video Head With Lightweight Telescopic Legs",
+        "description": "The lightweight fluid video system MVK500AM includes the fluid video head (60mm half ball) MVH500A and the twin leg video tripod MVT502AM.",
+        "price": "369.00",
+        "price_currency": "GBP",
+        "cluster_id": 645102,
+        "pair_id": "79558814#37865200",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 62242632,
+        "brand": "Epson",
+        "title": "Epson Blekk Svart T7031 L - WP4000/4500",
+        "description": null,
+        "price": "445",
+        "price_currency": "NOK",
+        "cluster_id": 2922868,
+        "pair_id": "64607522#62242632",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 48435137,
+        "brand": null,
+        "title": "Manfrotto MVH502AH Fluid Video Head with MT055XPRO3 Tripod",
+        "description": "The Manfrotto MVH502AH Fluid Video Head with MT055XPRO3 Tripod makes up the MVK502055XPRO3 video hybrid kit, a professional video setup that gives you excellent shooting versatility. Thanks to an 8.82 lbs counterbalance mechanism and fluid drag pan and tilt cartridges, users have extremely precise control over all smooth movements that the MVH502AH head provides. The cartridge drags can be adjusted from 0 to maximum level to modulate the resistance you get when tilting and rotating the head. With a 15.43 lbs payload capacity, you'll be able to mount your largest lenses and spotting scopes and maneuver them with ease. The MT055XPRO3 tripod has 3-section legs with 4 preset leg angles: 25°, 46°, 66°, 88°. You can individually set each leg to one of these preset angles to compensate for uneven terrain, keeping your camera or scope level even if the ground isn't. The legs have an ergonomic quick power lock (QPL) deployment system so you can open and close the leg locks with one hand, providing fast and easy setup. An Easy Link attachment lets you connect external accessories such as flashes and reflectors.",
+        "price": "419.99",
+        "price_currency": "USD",
+        "cluster_id": 287852,
+        "pair_id": "79558814#48435137",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 35405134,
+        "brand": "Manfrotto",
+        "title": "Manfrotto MHXPRO-2W 2-Way Head",
+        "description": "Precise framing for seamless transition between photo and video. The innovative XPRO Fluid Head is the perfect choice for photographers looking for professional, accurate framing and video that really flows. This tripod head is an ideal fit for wildlife photographers using lightweight scopes with digiscoping, ensuring sharper, accurately composed images and no unwanted breaks when switching devices or angles.The XPRO Fluid Head is the only lightweight video head that has a fluidity selector. It enables you to quickly shift between hard and soft fluidity in line with your speed of tilt movement. Shoot stable footage with any photographic lens thanks to the fluid cartridge settings. Get ready to compose your scene quickly and easily with the standard Manfrotto 200PL plate. Switch from photo to video in just seconds, wherever you are.Two other great features of the XPRO Fluid Head is that it has a durable aluminium design and is surprisingly lightweight. It can support a payload of up to 4kg, yet it only weighs 0.7kg, which means you can carry it comfortably everywhere you go.",
+        "price": "99.99",
+        "price_currency": "GBP",
+        "cluster_id": 255513,
+        "pair_id": "48435137#35405134",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 91625850,
+        "brand": null,
+        "title": "MVH500AH FLUID VIDEO HEAD W/FLAT BASE",
+        "description": "The MVH500AH is a lightweight head with a wider platform for HDSLR bodies which has a sliding plate which travels to balance the latest interchangeable lens cameras. The entry-level 500 ensures smooth shots and fine control with up to 5kg (11lbs) of equipment. It’s the most compact head in our successful Bridging Technology™ range and it replaces the Manfrotto 701HDV video head.Beautifully smooth shots: the 500 has professional fluid cartridges on both pan and tilt axes to ensure that every camera movement is smooth, controlled and precise. Faster, easier and safer to use: the side lock system allows the camera and sliding QR plate to click quickly into the head from above, instead of needing to be aligned and slid in from the back. No secondary safety lock is necessary. The side lock system also makes it quicker and simpler to lift the camera out of the head from above. The 500 has a pre-set counterbalance of 2.4kg (5.3 lbs), but is able to support equipment of up to 5kg (11 lbs). The 500 has one Easy Link 3/8” connector to allow an external monitor or other accessory equipment to be fitted. MVH500AH head with flat base tripod mount for attachment to a hybrid photo/video tripod, a traditional photo tripod, slider, a monopod or other supports. SPECIFICATIONS- attaches by. 1/4\\\" and 3/8\\\" attachment type- attachment 3/8\\\" screw attachment type- bubble spirit level (no.) 1 number- Center Of Gravity 55 mm- Color black color- Counterbalanced Weight 2.4 kg- independent pan lock yes- independent tilt lock yes- lateral tilt -70° / +90° tilt range- material aluminum- maximum working temperature 60.0 °C- minimum working temperature -20.0 °C- pan bar positions 2 number- pan bars included (no.) 1 number- pan drag fluid cartridge with fixed drag- panoramic rotation 360 degrees- plate type 500PLONG- quick release yes- Safety Payload Weight 5.0 kg- secondary safety system yes- spring loaded counter balance yes- tilt drag fluid cartridge with fixed drag- weight 0.93 kg- working height 9.5 cm",
+        "price": "3.590001E2",
+        "price_currency": "NZD",
+        "cluster_id": 72631,
+        "pair_id": "64607522#91625850",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 8174351,
+        "brand": "SanDisk",
+        "title": "SanDisk SSD PLUS 120GB Solid State Drive -SDSSDA-120G-G27",
+        "description": "Inject new life into your laptop or desktop PC with a durable solid state drive from SanDisk. You'll experience quicker boot-up and shutdown, quicker application response and data transfer speeds than with a typical hard disk drive1, at just a fraction of the cost of a new computer. Slc caching boosts burst write performance, making it ideal for typical PC workloads such as web browsing, Email, casual gaming, office productivity, and audio/video entertainment. SanDisk SSDs are resistant to shock, vibration and temperature extremes3, so your SSD keeps working, no matter where or how hard you use your computer. The SanDisk SSD dashboard provides software that includes proprietary SanDisk tools for monitoring and optimizing your system's performance and highlights offers for cloning and security Applications4.With read/write speeds of up to 530MB/s/400MBs, the SanDisk SSD plus delivers impressive performance in an entry-level drive, from a brand you know you can trust.",
+        "price": "64.99",
+        "price_currency": "USD",
+        "cluster_id": 327381,
+        "pair_id": "64607522#8174351",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 22563019,
+        "brand": null,
+        "title": "502HD PRO VIDEO HEAD WITH FLAT BASE",
+        "description": "Full smoothness control while shooting thanks to the variable fluid mechanisms. Ideal for latest camcorder and HDSLR cameras supplied with external accessories (4kg max capacity). The head can be combined with all photo tripods, thanks to the 3/8” female thread. SPECIFICATIONSattaches by. 1/4\\\" and 3/8\\\" attachment typeattachment 3/8\\\" female thread attachment typebalance control one fix spring for 4kg camera weightbubble spirit level (no.) 1 numberCenter Of Gravity 55 mmColor black colorCounterbalanced Weight 4.0 kgfront tilt -80° / +90° tilt rangeindependent pan lock yesindependent tilt lock yesmaterial aluminummaximum working temperature 60.0 °Cminimum working temperature -20.0 °Cpan bar positions 2 numberpan bars included (no.) 1 numberpan drag continuously adjustable from 0 to max levelpanoramic rotation 360 degreesplate type 504PLONGquick release yesSafety Payload Weight 7.0 kgsecondary safety system yessliding travel of plate 83.0 mmspring loaded counter balance yestilt drag continuously adjustable from 0 to max levelweight 1.6 kgworking height 13.0 cm",
+        "price": "5.189995999999999E2",
+        "price_currency": "NZD",
+        "cluster_id": 287852,
+        "pair_id": "91625850#22563019",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      }
+    ],
+    "gold_best_candidate_id": 91625850,
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "gold_positive_ids": [
+      91625850
+    ],
+    "candidate_ids": [
+      37865200,
+      62242632,
+      48435137,
+      35405134,
+      91625850,
+      8174351,
+      22563019
+    ],
+    "candidate_order_seed": 64607522,
+    "hard_same_brand_confuser_count": 1,
+    "hard_max_confuser_overlap": 5,
+    "hard_candidate_count": 7
+  }
+}

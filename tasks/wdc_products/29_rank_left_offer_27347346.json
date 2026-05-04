@@ -1,0 +1,112 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "left_offer:27347346",
+  "task": {
+    "task_type": "hard_rank",
+    "left_offer": {
+      "id": 27347346,
+      "brand": null,
+      "title": "SEAGATE SATA-3 2TB SSHD FIRECUDA",
+      "description": null,
+      "price": null,
+      "price_currency": null,
+      "cluster_id": 665327
+    },
+    "policy_text": "Choose the single best same-product candidate for the reference offer. Treat same-brand accessories, bundles, neighboring model numbers, and storage or color variants as confusers rather than true matches. Use only the minimal decisive attributes.",
+    "candidate_right_offers": [
+      {
+        "id": 83418921,
+        "brand": null,
+        "title": "8TB - Seagate Enterprise Ironwolf Pro SATA - ST8000NE001",
+        "description": "[shortdesc]Seagate IronWolf Pro ST8000NE001 8TB 7200RPM 256MB Cache SATA 6.0Gb/s 3.5\\\" Internal Hard Drive.7200 RPM 256MB CacheSATA 6.0Gb/sEnterprise NAS Hard Drives[/shortdesc][additional]Manufacturer :SynologyBrand :SeagateProduct Line :Seagate IronWolf ProModel :ST8000NE001Bundled with :2 years Rescue Data Recovery Service PlanPackaged Quantity :1StorageType :Hard driveHard DriveHard Drive Type :Internal hard driveForm Factor :3.5\\\"Form Factor (metric) :8.9 cmForm Factor (Short) :3.5\\\"Form Factor (Short) (metric) :8.9 cmStorage Interface :Serial ATA-600Interface :Serial ATA-600Capacity :8 TBAverage Latency :4.16 millisecondData Transfer Rate :600 MBpsInternal Data Rate :214 MBpsSpindle Speed :7200 revolutions per minuteBuffer Size :256 megabyte, 256 megabyte, 256 megabyte, 256 megabyteNon-Recoverable Errors :1 per 10^1524x7 Operation :YesFeatures :Rotation vibration sensor, Hot-Plug Support, AgileArray, Advanced format 512e, 24x7 availabilityInterface ProvidedInterfaces :1 x SATA 6 Gb/sBay RequiredCompatible Bay :3.5\\\"SoftwareType :IronWolf Health ManagementPower ConsumptionPower Consumption :5.9 Watt (idle), 0.9 Watt (standby), 9.8 Watt (active), 0.8 Watt (sleep)MiscellaneousMTBF :1,200,000 HoursDimensions & WeightWidth :4 inchDepth :5.8 inchHeight :1 inchWeight :25.46 ounceService & SupportType :5-year warrantyService & Support DetailsService & Support :Limited warranty - 5 yearsShock & Vibration ToleranceShock Acceleration (Operating) :70 gramShock Duration (Operating) :2 msShock Acceleration (Non-operating) :250 gramShock Duration (Non-operating) :2 msVibration Acceleration (Non-operating) :2.27 gramVibration Frequency Range (Non-operating) :10-500 HzEnvironmental ParametersMin Operating Temperature :41 degree FahrenheitMax Operating Temperature :140 degree FahrenheitMin Storage Temperature :-40 degree FahrenheitMax Storage Temperature :158 degree Fahrenheit[/additional]Tough, ready and scalable, Seagate IronWolf Pro drives (up to 10TB) come with AgileArray technology focusing on drive balance, RAID optimization with error recovery control, and power management on NAS enclosures.You also have Rescue Data Recovery service for that extra peace of mind your digital assets can appreciate. Optimized for 1-to-16-bay NAS enclosures for creative pro and small- to medium-sized enterprise enclosures, IronWolf Pro drives are enhanced with AgileArray technology and Rotational Vibration (RV) sensors.",
+        "price": "232.84",
+        "price_currency": "USD",
+        "cluster_id": 1578824,
+        "pair_id": "27347346#83418921",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 84438504,
+        "brand": "Seagate",
+        "title": "Seagate IronWolf Pro ST8000NE001 - Hard drive - 8 TB - internal - 3.5\\\" - SATA 6Gb/s - 7200 rpm - buffer_ 256 MB - with 2 years Rescue Data Recovery Service Plan",
+        "description": "Product InformationTough. Ready. ScalableFor everything NAS, there's IronWolf and IronWolf Pro. Always on and always working, IronWolf is enhanced with AgileArray technology for optimal reliability and system agility. Multi-user technology and extreme workload rates allow IronWolf to perform and scale up with your enterprise.IronWolf + the Power of AgileArray- NAS-optimised hard drive for the best-possible user experience- IronWolf Health Management in compatible NAS1 systems continuously helps to safeguard the health of your data- Drive balance with Rotational Vibration (RV) sensors manage multi-bay vibration for long-term consistent performance and reliability- RAID performance optimised that maximises responsiveness and uptime with NAS-aware Error Recovery Control- Advanced power management saves energy and delivers the right power at the right timeActively Protect Your Data With IronWolf Health Management in Popular and Enabled NASIronWolf Health Management is designed to operate on compatible NAS systems such as Synology and ASUSTOR. Populated with supported IronWolf or IronWolf Pro HDDs It improves the overall system reliability by displaying actionable prevention, intervention or recovery options for the user.Multi-Bay and NAS-Ready With Built-In RV Sensor~P>First in its class, IronWolf drives are equipped with RV sensors on high capacity drives to maintain performance in multi-bay NAS enclosures. RV sensors on IronWolf Pro come standard, helping business and creative pros to have consistent performance for years to come.Do More With Multi-User OptimisationDo more with your NAS with multi-user optimisation. Enabling user workloads of up to 180 TB/year on IronWolf and 300 TB/year with IronWolf Pro, multiple users can confidently upload and download data to a NAS server. Whether you're a creative pro or a small business, IronWolf is on your side.IronWolf Pro Comes With 2-year Rescue Data Recovery ServiceYour data is important and a Rescue plan provides peace of mind in case of unexpected data loss due to accidents or mechanical damage.The Rescue plan gives you access to a global team of world-class data recovery experts.Purchase and register an IronWolf Pro drive to activate your included Rescue plan and you are covered for 2 years. Extended coverage options available at registration.Be Creative Anywhere With IronWolf and Your NASExtensible and reliable storage helps keep you and your creative business on schedule. IronWolf and IronWolf Pro are great companions for your NAS for 24×7 remote access, backups and file sharing from anywhere, making sharing ideas easy. For growing agencies and the need for more storage, IronWolf and IronWolf Pro are built to address NAS scalability challenges.Grow Your Business NASA thriving small business needs storage that can thrive with it. IronWolf is optimised for NAS in multi-RAID environments that not only the vibration, but also handle the high user workload rate in a high data traffic network. Enter multi-user technology — up to 180 TB/yr for IronWolf, up to 300 TB/yr for IronWolf Pro.Dominate The MediaBuild your home NAS media empire with IronWolf HDDs. IronWolf and IronWolf Pro lead the class in storage capacity with drives as large as 12 TB, and the performance needed to run high definition content with your NAS. Store thousands of full-length HD films and even more photographs on your private server. Think of it as your home cloud.Show more;",
+        "price": "235.97",
+        "price_currency": "GBP",
+        "cluster_id": 1578824,
+        "pair_id": "54829738#84438504",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 81351830,
+        "brand": null,
+        "title": "Brother HL-L8360CDW Colour Wireless Laser Printer",
+        "description": "Brother HL-L8360CDW Colour Wireless Laser Printer - Fast print speeds of up to 31ppm colour and monochrome - 600x600dpi, 2400dpi (2400x600) quality - Paper input of up to 300 sheets - Maximum paper input of up to 2,380 sheets - Automatic 2-sided (duplex) Printing - Built-in Gigabit Ethernet 10Base-T/100 Base-TX/1000Base-T - Integrated NFC Reader - Intuitive 6.8cm colour touchscreen - HL-L8360CDW - 1 Year Return to Base Warranty",
+        "price": "609.00",
+        "price_currency": "AUD",
+        "cluster_id": 323596,
+        "pair_id": "27347346#81351830",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 27923177,
+        "brand": null,
+        "title": "Western digital wd blue - hdd - 2 tb - interno - 3.5 - sata 6Gb/s - 5400 rpm - buffer: 64 mb",
+        "description": "2TB, 8.89 cm (3.5 ) , SATA 6Gb/s, 5400 RPM, 64MB",
+        "price": "56.47",
+        "price_currency": "EUR",
+        "cluster_id": 2002887,
+        "pair_id": "84438504#27923177",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 90183159,
+        "brand": null,
+        "title": "Seagate 2TB FireCuda 3.5\" SATA 6Gb/s SSHD",
+        "description": "Seagate 2TB FireCuda 3.5\" SATA 6Gb/s SSHD",
+        "price": "89.54",
+        "price_currency": "GBP",
+        "cluster_id": 665327,
+        "pair_id": "27347346#90183159",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 6020197,
+        "brand": null,
+        "title": "Toner Brother - Nero - ricarica toner tn200",
+        "description": "TONER NERO 8000P/8200P/8250P/8650P/MFC9000/9050/9060/9500/9550/730/760/8060/-2 5K(1PZ)",
+        "price": "41",
+        "price_currency": "EUR",
+        "cluster_id": 5223239,
+        "pair_id": "27347346#6020197",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      }
+    ],
+    "gold_best_candidate_id": 90183159,
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "gold_positive_ids": [
+      90183159
+    ],
+    "candidate_ids": [
+      83418921,
+      84438504,
+      81351830,
+      27923177,
+      90183159,
+      6020197
+    ],
+    "candidate_order_seed": 27347346,
+    "hard_same_brand_confuser_count": 0,
+    "hard_max_confuser_overlap": 6,
+    "hard_candidate_count": 6
+  }
+}

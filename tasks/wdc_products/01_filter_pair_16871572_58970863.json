@@ -1,0 +1,56 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "filter",
+  "task_family": "hard_filter",
+  "task_key": "pair:16871572#58970863",
+  "task": {
+    "task_type": "hard_filter",
+    "pair_id": "16871572#58970863",
+    "left_offer": {
+      "id": 16871572,
+      "brand": "UBIQUITI",
+      "title": "Ubiquiti UVC-G3-BULLET (Formerly UVC-G3-AF) UniFi Video Camera G3 1080p PoE IP Camera",
+      "description": "Ubiquiti UVC-G3-AF UniFi Video Camera G3 1080p PoE IP Camera",
+      "price": "118.20",
+      "price_currency": "GBP",
+      "cluster_id": 192122
+    },
+    "right_offer": {
+      "id": 58970863,
+      "brand": null,
+      "title": "Ubiquiti UniFi Video Camera G3 1080P 802.3af IP UVC-G3-BULLET-3 3 Pack (No PoE Injectors)",
+      "description": "UVC-G3-BULLET-3 - Ubiquiti UniFi Video Camera G3 3 PackThe UniFi Video G3 Bullet Camera 3 Pack (UVC-G3-BULLET-3) is a great value multi-pack of the popular UniFi G3 Video Camera- this is a great way to save money on larger installs requiring multiple cameras.The UVC-G3-bullet features a 4 Megapixel HDR sensors, offering crystal clear 1080P full...",
+      "price": "406.80",
+      "price_currency": "GBP",
+      "cluster_id": 64482
+    },
+    "is_hard_negative": true,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "reject",
+    "gold_basis": "variant_or_bundle_mismatch",
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 5938532,
+        "brand": null,
+        "title": "3M - Privacy Filter 23.0\\\"\\\" Framed",
+        "description": "3M Privacy Filter 23.0\\\"\\\" Framed (PF230W9F) - Type: Andet tilbehør",
+        "price": "2400.00",
+        "price_currency": "DKK",
+        "cluster_id": 654362
+      },
+      {
+        "id": 74722865,
+        "brand": null,
+        "title": "Logitech C920 USB HD Pro Webcam with Auto-Focus and Microphone",
+        "description": "Full HD 1080p with Skype video callsSee and be seen in high-definition quality. Logitech partnered with Skype™ to deliver high-definition 1080p resolution with the C920 webcam.*H.264 AVC compressionGet high-definition (HD) quality video at home or in the office. Real-time HD resolution over typical Internet connection bandwidths requires video compression. C920 webcam uses H.264 encoded compression to provide high quality video at low bit ratesFull HD 1080p recordingRecord videos in widescreen Full HD 1080p at 30 frames per second. The same H.264 encoded compression that enables high-definition video calls with Skype, also lets you capture great videos.HD 720p video call qualityIf Skype is not your favorite video-call service, C920 delivers HD 720p calling on most major instant messaging services.Sharp, rich-color imagesSmooth video quality, rich colors and clear sound in real-world environments are produced by Logitech Fluid Crystal™ technology.Auto focusC920 uses the same type auto-focus motor used in smartphone cameras. Optimized for webcams, the auto focus gives the sharpest image possible, even as close as 10 cm.Carl Zeiss opticsTo bring you the best webcam images possible, Logitech and Carl Zeiss turned the classic four-element Zeiss Tessar® design into a five-element design. The new design focuses light onto the sensor with maximum detail and minimal distortion.Stereo audioA stereo recording or broadcast creates more of a sense of place; it creates a listening environment. Capture video or make a video call knowing that will be heard clearly and naturally.Stable clip mountRubberized bumpers on the clip help hold C920 securely to your monitor or laptop. Also mount it to a tripod15-megapixel snapshotsCapture brilliant, software-enhanced, 15-megapixel snapshots.VideoVideo formats supported H.264Supported video modes 720p, 1080pFull HD YesMaximum video resolution 1920 x 1080 pixelsMegapixel 15 MPStill imagePhoto feature YesAuto focus YesCameraInterface USB 2.0Built-in flash NoPlug and Play YesMounting type Clip/StandColour of product BlackBuilt-in microphone YesPackaging contentManual YesLCD clamp YesLaptop clamp YesDesktop stand YesPerformancePhoto feature YesVideo formats supported H.264Supported video modes 720p, 1080pPlug and Play YesAuto focus YesFull HD YesMaximum video resolution 1920 x 1080 pixelsMegapixel 15 MPDesignInterface USB 2.0Built-in flash NoMounting type Clip/StandColour of product BlackBuilt-in microphone YesPackaging dataManual YesLCD clamp YesLaptop clamp YesDesktop stand Yes",
+        "price": "61.25",
+        "price_currency": "GBP",
+        "cluster_id": 236410
+      }
+    ]
+  }
+}

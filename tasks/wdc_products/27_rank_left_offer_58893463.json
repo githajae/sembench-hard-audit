@@ -1,0 +1,113 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "left_offer:58893463",
+  "task": {
+    "task_type": "hard_rank",
+    "left_offer": {
+      "id": 58893463,
+      "brand": null,
+      "title": "32 Oz Wide Mouth With Flex Cap W32BTS001",
+      "description": "32 Oz Wide Mouth With Flex Cap W32BTS001Product DescriptionBrand : Hydro FlaskStyle# : W32BTS001Product Type : Water BottleColor : BlackVolume : 32 oz",
+      "price": "44.95",
+      "price_currency": "USD",
+      "cluster_id": 36023
+    },
+    "policy_text": "Choose the single best same-product candidate for the reference offer. Treat same-brand accessories, bundles, neighboring model numbers, and storage or color variants as confusers rather than true matches. Use only the minimal decisive attributes.",
+    "candidate_right_offers": [
+      {
+        "id": 9069903,
+        "brand": null,
+        "title": "21 oz Standard Mouth With Standard S21SX306",
+        "description": "Product DescriptionBrand : HYDRO FLASKStyle# : S21SX306Product Type : TumblerColor : OLIVESize : 21oz(621mL)Material :18/8 Pro Grade Stainless SteelOrigin : ImportedFeaturesVersatile, middle-of-the-road sizeTempShield??insulation eliminates condensation and keeps beverages cold up to 24 hours and hot up to 12 hoursDurable 18/8 Pro-Grade Stainless Steel constructionBPA-Free and Phthalate-FreeCompatible with Standard Mouth Insulated Sport CapLifetime Warranty",
+        "price": "32.95",
+        "price_currency": "USD",
+        "cluster_id": 1446023,
+        "pair_id": "58893463#9069903",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 11665937,
+        "brand": "Hydro Flask",
+        "title": "Hydro Flask 32 oz Wide Mouth Flex Cap Bottle in Sunflower",
+        "description": "32 oz Wide Mouth Flex Cap Bottle in Sunflower",
+        "price": "48.00",
+        "price_currency": "CAD",
+        "cluster_id": 489587,
+        "pair_id": "35809370#11665937",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 12190772,
+        "brand": "HYDRO FLASK",
+        "title": "HYDRO FLASK HYDRO FLASK 32OZ WIDE MOUTH BOTTLE-BLACK",
+        "description": "Big enough for a whole day on the river or trails, the Hydro Flask 32 oz Wide Mouth Bottle is made with professional-grade stainless steel and a wider opening for faster fill. The Color Last™ powder coat is dishwasher safe for even more convenience. Cold",
+        "price": "44.95",
+        "price_currency": "USD",
+        "cluster_id": 36023,
+        "pair_id": "58893463#12190772",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      },
+      {
+        "id": 50789754,
+        "brand": "Hydro Flask",
+        "title": "Hydro Flask 32 oz. Wide Mouth 2.0 Flex Cap Hibiscus",
+        "description": "Hydro Flask 32 oz. Wide Mouth 2.0 Flex Cap Hibiscus in Medicine Hat, Alberta, Canada",
+        "price": "40.79",
+        "price_currency": "CAD",
+        "cluster_id": 929657,
+        "pair_id": "11665937#50789754",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 41191422,
+        "brand": "Maxxis",
+        "title": "Maxxis High Roller II MaxxTerra Tire (WT) (3C/EXO/TR) (27.5 x 2.40) (Folding)",
+        "description": "An open and aggressive tread design gives the High Roller II excellent soil penetration and mud-clearing ability. A square profile provides a solid, consistent feel across the knobs. Modified knobs on the shoulder and center improve braking performance and traction on hard surfaces. An excellent choice for technical, loose terrain. The High Roller II is available in trail, enduro, and downhill specs.The most important part of a tire is arguably the rubber compound used to within the tread and with Maxxis's 3C MaxxTerra you get an intermediate compound with great rolling and grip properties.Features:WT: Wide Trail casing used for 2.4\\\"-2.6\\\" wide tires designed for fitment on a wider rim profile3C: Tripple Compound with harder base-layer and two progressively softer top layers for optimal traction and durabilityEXO: Extremely cut-resistant and abrasion resistant material layer added to sidewallsDD: DoubleDown provides two 120tpi casing layers reinforced with a butyl insert for DH protection at a lower weightTR: Tubeless Ready for increased traction and lower rolling resistanceWeight26 x 2.40 (3C/EXO):855g27.5 x 2.40 (3C/EXO/TR): 910g27.5 x 2.40 (3C/EXO): 890g27.5 x 2.50 (3C/EXO/TR): 925g27.5 x 2.50 (3C/TR/DD): 1115g29 x 2.50 (3C/EXO/TR): 990g29 x 2.50 (3C/TR/DD): 1200g This product was added to our catalog on March 5, 2019",
+        "price": "71.00",
+        "price_currency": "USD",
+        "cluster_id": 1631327,
+        "pair_id": "58893463#41191422",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 41456801,
+        "brand": "EPSON",
+        "title": "Epson Seahorse Multipack 6-kleur T0487",
+        "description": "Epson Seahorse Multipack 6-kleur T0487",
+        "price": "189",
+        "price_currency": "EUR",
+        "cluster_id": 2334631,
+        "pair_id": "58893463#41456801",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      }
+    ],
+    "gold_best_candidate_id": 12190772,
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "gold_positive_ids": [
+      12190772
+    ],
+    "candidate_ids": [
+      9069903,
+      11665937,
+      12190772,
+      50789754,
+      41191422,
+      41456801
+    ],
+    "candidate_order_seed": 58893463,
+    "hard_same_brand_confuser_count": 2,
+    "hard_max_confuser_overlap": 6,
+    "hard_candidate_count": 6
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "join",
+  "task_family": "hard_join",
+  "task_key": "pair:10937592#15267149",
+  "task": {
+    "task_type": "hard_join",
+    "pair_id": "10937592#15267149",
+    "left_offer": {
+      "id": 10937592,
+      "brand": null,
+      "title": "APC - USV APC SMT1000RMI2UCSMARTUPS 1000VA LCD RM 2U 230V SmartC",
+      "description": "Org. Artikel#: SMT1000RMI2UC",
+      "price": "8288.75",
+      "price_currency": "NOK",
+      "cluster_id": 91557
+    },
+    "right_offer": {
+      "id": 15267149,
+      "brand": null,
+      "title": "APC Smart-UPS SMT1000RMI2UC Noodstroomvoeding - 4x C13, USB, Rack Mountable, SmartConnect, 1000VA",
+      "description": "APC Smart-UPS SMT1000RMI2UC Noodstroomvoeding - 4x C13, USB, Rack Mountable, SmartConnect, 1000VA, Line-Interactive, 1000 VA, 700 W, Sinus, 151 V, 302 V",
+      "price": "751.00",
+      "price_currency": "EUR",
+      "cluster_id": 91557
+    },
+    "is_hard_negative": false,
+    "policy_text": "Return match only if both offers refer to the same core product and not merely a related accessory, bundle, storage variant, color variant, or neighboring model.",
+    "gold_label": "match",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "title"
+    ],
+    "confuser_offers": [
+      {
+        "id": 75840459,
+        "brand": null,
+        "title": "Lexmark - Toner cartridge -black - 3500 pages - LRPE260A11E",
+        "description": "Lexmark E260A11E Lexmark - Toner cartridge -black - 3500 pages - LRPE260A11ELexmark - Toner cartridge -black - 3500 pages - LRPE260A11EWeight & dimensionsPackage weight795 gQuantity per pallet126 pcsTechnical detailsArchival storage life2 year(s)Pallet weight117.5 kg (259 lbs)Lexmark - Toner cartridge -black - 3500 pages - LRPE260A11E",
+        "price": "1.2403E2",
+        "price_currency": "EUR",
+        "cluster_id": 1913870
+      }
+    ]
+  }
+}

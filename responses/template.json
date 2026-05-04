@@ -1,0 +1,13 @@
+{
+  "annotator_id": "REPLACE_ME",
+  "started_at": "YYYY-MM-DDThh:mm:ssZ",
+  "finished_at": "YYYY-MM-DDThh:mm:ssZ",
+  "ratings": {
+    "<task_key from tasks/manifest.json>": {
+      "naturalness": 0,
+      "verifier_validity": "agree",
+      "confidence": "high",
+      "notes": ""
+    }
+  }
+}

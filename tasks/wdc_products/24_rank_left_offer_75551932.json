@@ -1,0 +1,113 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "left_offer:75551932",
+  "task": {
+    "task_type": "hard_rank",
+    "left_offer": {
+      "id": 75551932,
+      "brand": null,
+      "title": "Hydro Flask 21 Oz- Black",
+      "description": "Hydroflask 21oz bottle is the perfect companion for the beach, trail or everyday use.Versatile, middle-of-the-road sizeTempShield™ insulation eliminates condensation and keeps beverages cold up to 24 hours and hot up to 12 hoursDurable 18/8 Pro-Grade Stainless Steel constructionBPA-Free and Phthalate-FreeCompatible with standard mouth insulated sport cap",
+      "price": "5.0E1",
+      "price_currency": "AUD",
+      "cluster_id": 1558854
+    },
+    "policy_text": "Choose the single best same-product candidate for the reference offer. Treat same-brand accessories, bundles, neighboring model numbers, and storage or color variants as confusers rather than true matches. Use only the minimal decisive attributes.",
+    "candidate_right_offers": [
+      {
+        "id": 12190772,
+        "brand": "HYDRO FLASK",
+        "title": "HYDRO FLASK HYDRO FLASK 32OZ WIDE MOUTH BOTTLE-BLACK",
+        "description": "Big enough for a whole day on the river or trails, the Hydro Flask 32 oz Wide Mouth Bottle is made with professional-grade stainless steel and a wider opening for faster fill. The Color Last™ powder coat is dishwasher safe for even more convenience. Cold",
+        "price": "44.95",
+        "price_currency": "USD",
+        "cluster_id": 36023,
+        "pair_id": "75551932#12190772",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 12243414,
+        "brand": "CANON",
+        "title": "Canon CLI-251BK XL High-Capacity Black Ink Tank",
+        "description": "For the PIXMA iX6820, iP7220, iP8720, MG5420, MG5422, MG5520, MG5522, MG6320, MG6420, MG7120, MX722, and MX922 PrintersThe CLI-251BK XL High-Capacity Black Ink Tank from Canon is part of the ChromaLife100 system that guarantees print longevity of 300 years when used with select Canon paper and stored in an archival-quality photo album. The ink tank features an LED light which will illuminate when you install the ink tank correctly. Additionally, when a full set of Canon ink is installed, you can access content on Canon's Creative Park Premium website for free. The instant-drying ink is compatible with the following printers:PIXMA iX6820 PIXMA iP7220 PIXMA iP8720 PIXMA MG5420 PIXMA MG5422 PIXMA MG5520 PIXMA MG5522 PIXMA MG6320 PIXMA MG6420 PIXMA MG7120 PIXMA MX722 PIXMA MX922Ink Dries Instantly: Photos can be handled right out of the printer without getting smudgedSmart LED: Lets you know when the ink is properly installedChromaLife100 : Combines enhanced FINE print head technology with select Canon inks and select Canon photo papers for borderless photos that will last up to 300 years when stored in an archival-quality photo albumCreative Park Premium: After installing a full set of Canon ink you can download projects from the Creative Park Premium website including postcards, calendars, scrapbook pages, and paintings",
+        "price": "0.0",
+        "price_currency": "USD",
+        "cluster_id": 767463,
+        "pair_id": "75551932#12243414",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 60571140,
+        "brand": "Gigabyte",
+        "title": "Gigabyte GeForce GTX 1650 Super OC",
+        "description": "The Gigabyte GeForce GTX 1650 Super OC has 4 GB Vram. Its boost clock is set to 1740 MHz, its memory clock is at 12000 MHz.",
+        "price": "159.99",
+        "price_currency": "USD",
+        "cluster_id": 1349881,
+        "pair_id": "75551932#60571140",
+        "is_hard_negative": false,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 11665937,
+        "brand": "Hydro Flask",
+        "title": "Hydro Flask 32 oz Wide Mouth Flex Cap Bottle in Sunflower",
+        "description": "32 oz Wide Mouth Flex Cap Bottle in Sunflower",
+        "price": "48.00",
+        "price_currency": "CAD",
+        "cluster_id": 489587,
+        "pair_id": "35809370#11665937",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 50789754,
+        "brand": "Hydro Flask",
+        "title": "Hydro Flask 32 oz. Wide Mouth 2.0 Flex Cap Hibiscus",
+        "description": "Hydro Flask 32 oz. Wide Mouth 2.0 Flex Cap Hibiscus in Medicine Hat, Alberta, Canada",
+        "price": "40.79",
+        "price_currency": "CAD",
+        "cluster_id": 929657,
+        "pair_id": "11665937#50789754",
+        "is_hard_negative": true,
+        "gold_label": "non_match"
+      },
+      {
+        "id": 2687477,
+        "brand": null,
+        "title": "Hydro Flask Standard Mouth 621ml Insulated Bottle",
+        "description": "Keep life moving with our 21 oz bottle and Standard Flex Cap. It stashes easily into a small shoulder bag, your packs side pocket, or your car cup holder, and holds enough ice cold goodness to keep you going for hours without weighing you down. No wonder it's one of our bestselling water bottles.Versatile, middle-of-the-road sizeTempShield insulation eliminates condensation and keeps beverages cold up to 24 hours and hot up to 12 hoursDurable 18/8 Pro-Grade Stainless Steel constructionBPA-Free and Phthalate-FreeTechnical SpecificationsExternal Dimensions:4.9 x 7.3 x 23.9 cmWeight: 320gMaterial: Stainless SteelWarranty: Limited Lifetime** Warranty is offered by the brand from the date of purchase and doesn't cover shipping costs. Full terms and conditions available on request.",
+        "price": "4.995E1",
+        "price_currency": "AUD",
+        "cluster_id": 1558854,
+        "pair_id": "75551932#2687477",
+        "is_hard_negative": false,
+        "gold_label": "match"
+      }
+    ],
+    "gold_best_candidate_id": 2687477,
+    "gold_decisive_attributes": [
+      "price",
+      "title"
+    ],
+    "gold_positive_ids": [
+      2687477
+    ],
+    "candidate_ids": [
+      12190772,
+      12243414,
+      60571140,
+      11665937,
+      50789754,
+      2687477
+    ],
+    "candidate_order_seed": 75551932,
+    "hard_same_brand_confuser_count": 0,
+    "hard_max_confuser_overlap": 4,
+    "hard_candidate_count": 6
+  }
+}

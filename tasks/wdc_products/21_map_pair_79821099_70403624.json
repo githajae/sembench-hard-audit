@@ -1,0 +1,42 @@
+{
+  "benchmark": "wdc_products",
+  "operator": "map",
+  "task_family": "hard_map",
+  "task_key": "pair:79821099#70403624",
+  "task": {
+    "task_type": "hard_map",
+    "pair_id": "79821099#70403624",
+    "left_offer": {
+      "id": 79821099,
+      "brand": "Maxxis",
+      "title": "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black",
+      "description": null,
+      "price": "88.00",
+      "price_currency": "CAD",
+      "cluster_id": 627344
+    },
+    "right_offer": {
+      "id": 70403624,
+      "brand": "Maxxis",
+      "title": "Maxxis High Roller II 650b 27.5\\\" Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre",
+      "description": "The Maxxis High Roller II 650b 27.5'' Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre features an extremely open and aggressive tread the delivers excellent soil penetration and mud-clearing ability. This model features Maxxis' EXO protection. This consists of Maxxis' propriety material based sidewall that specially integrates with the exterior design of the tyre. The EXO protection means this tyre has increased abrasion and cut resistance for optimal performance.The Maxxis High Roller's square profile produces a solid, consistent and reliable feel across the knobs. This tyre also features modified knobs on the shoulder and centre improve braking performance and traction on hard surfaces. The Maxxis High Roller II 650b 27.5'' Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre is an excellent choice for technical, freeride terrain.For our full range of Bike Accessories visit Evans Cycles",
+      "price": "£40.00",
+      "price_currency": "GBP",
+      "cluster_id": 627344
+    },
+    "gold_label": "match",
+    "same_cluster": true,
+    "matched_attribute_hints": [
+      "brand",
+      "title"
+    ],
+    "conflict_attribute_hints": [],
+    "policy_text": "Return a normalized match report that is internally consistent. A match requires the same core product, not only a nearby accessory or variant.",
+    "gold_basis": "same_core_product",
+    "gold_decisive_attributes": [
+      "brand",
+      "title"
+    ],
+    "confuser_offers": []
+  }
+}

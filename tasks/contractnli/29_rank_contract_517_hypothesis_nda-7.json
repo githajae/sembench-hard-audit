@@ -1,0 +1,80 @@
+{
+  "benchmark": "contractnli",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "contract:517/hypothesis:nda-7",
+  "task": {
+    "task_type": "hard_rank",
+    "contract_id": 517,
+    "hypothesis_key": "nda-7",
+    "hypothesis_text": "Receiving Party may share some Confidential Information with some third-parties (including consultants, agents and professional advisors).",
+    "candidate_clauses": [
+      {
+        "span_id": 31,
+        "text": "(a) Confidential Information shall not be copied or reproduced by the Receiving Party, except for such copies as may be reasonably required for accomplishment of the purposes stated herein;"
+      },
+      {
+        "span_id": 65,
+        "text": "Either party may, at its sole discretion, offer products for sale or license using its own information but not the Confidential Information of the other and may modify or discontinue sales at any time. "
+      },
+      {
+        "span_id": 32,
+        "text": "(b) Confidential Information shall be disclosed only to employees, agents, and other parties of the Receiving Party who have a “need to know” in connection with the purposes stated herein; and"
+      },
+      {
+        "span_id": 22,
+        "text": "It is the intent of the Parties to mark information as confidential and/or proprietary prior to release to the Receiving Party. "
+      },
+      {
+        "span_id": 26,
+        "text": "If authorized by the disclosing party, such Confidential Information may be destroyed by the Receiving Party if such destruction is certified by the Receiving Party to the satisfaction of the disclosing party."
+      },
+      {
+        "span_id": 7,
+        "text": "Confidential Information does not need to be marked as such and is defined as any and all technical, business financial and other information belonging to either party, including but not limited to products, descriptions, drawings, bills of material, assembly drawings, compositions, business plans, financial information, trade secrets, know how, inventions, manufacturing techniques and processes, marketing and sales processes and techniques, customer lists, price lists, suppliers, current and future product developments."
+      },
+      {
+        "span_id": 15,
+        "text": "Neither party will disclose to third parties or fail to treat as Confidential Information any information received orally from the disclosing party unless the disclosing party fails for thirty (30) days after such disclosure to identify the information disclosed as being confidential or proprietary."
+      },
+      {
+        "span_id": 19,
+        "text": "These efforts shall specifically include document control measures, such as numbered copies and sign out logs, and imposing on all employees, agents and other representatives of the Receiving Party restrictions at least as strict as required by this Agreement."
+      },
+      {
+        "span_id": 25,
+        "text": "All Confidential Information and any copies and extracts thereof shall be promptly returned to the disclosing party or at any time within thirty (30) days of receipt of a written request by the disclosing party for the return of such Confidential Information. "
+      },
+      {
+        "span_id": 70,
+        "text": "This Agreement contains the entire understanding between the Parties concerning the subject matter hereof, superseding all prior contemporaneous communications, agreements and understandings between the Parties with respect to the disclosure and protection of Confidential Information. "
+      },
+      {
+        "span_id": 37,
+        "text": "(iv) is developed independently by the Receiving Party and without reliance upon the Confidential Information disclosed herein."
+      },
+      {
+        "span_id": 18,
+        "text": "The Parties agree that from the date of first receipt, and for a period of three (3) years following the last disclosure of Confidential Information, the party receiving the Confidential Information (the “Receiving Party”) shall not disclose the Confidential Information to any other person, or entity, or use for its own benefit except as provided in this Agreement and shall use the same degree of care to avoid publication or dissemination of such information as it does for its own confidential information which it does not desire to have published or disseminated. "
+      }
+    ],
+    "candidate_span_ids": [
+      31,
+      65,
+      32,
+      22,
+      26,
+      7,
+      15,
+      19,
+      25,
+      70,
+      37,
+      18
+    ],
+    "gold_positive_span_ids": [
+      32
+    ],
+    "policy_text": "Rank clause spans by how directly they determine the final contract label for the hypothesis. Gold evidence clauses must appear before confusable but non-evidence clauses."
+  }
+}

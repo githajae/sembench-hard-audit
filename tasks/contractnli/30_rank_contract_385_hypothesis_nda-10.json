@@ -1,0 +1,80 @@
+{
+  "benchmark": "contractnli",
+  "operator": "rank",
+  "task_family": "hard_rank",
+  "task_key": "contract:385/hypothesis:nda-10",
+  "task": {
+    "task_type": "hard_rank",
+    "contract_id": 385,
+    "hypothesis_key": "nda-10",
+    "hypothesis_text": "Receiving Party shall not disclose the fact that Agreement was agreed or negotiated.",
+    "candidate_clauses": [
+      {
+        "span_id": 50,
+        "text": "For a period of six months following the date of this Agreement, each of the parties and its affiliates (as defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended (the \"Exchange Act), will not (and will not assist or encourage others to) directly or indirectly, without the written consent of the other party:"
+      },
+      {
+        "span_id": 37,
+        "text": "Neither the execution of this Agreement nor the furnishing of any Confidential Information pursuant to this Agreement shall be construed as granting the Receiving Party or its Representatives, either expressly or by implication, any license or right to use any Confidential Information for its own benefit or the benefit of any other Person, firm or entity, and each party hereto expressly agrees not to so use any such information except as otherwise provided herein."
+      },
+      {
+        "span_id": 43,
+        "text": "Neither party hereto shall be under any obligation of any kind with respect to the Transaction, except for the matters specifically agreed to herein, unless and until a definitive agreement regarding the Transaction has been executed and delivered by each of the parties hereto."
+      },
+      {
+        "span_id": 27,
+        "text": "(iii) require that any Representative other than a director or officer of Disclosing Party or Receiving Party execute a counterpart of this Agreement prior to any disclosure by the Receiving Party of Confidential Information to such Representative, which counterpart shall have annexed thereto a schedule (the \"Disclosure Schedule\") setting forth in appropriate detail the Confidential Information that is to be disclosed to such Representative. "
+      },
+      {
+        "span_id": 34,
+        "text": "Upon the request of the Disclosing Party, the Receiving Party will return to the Disclosing Party all documents which contain Confidential Information of the Disclosing Party, and agree that the Receiving Party and its Representatives will not retain any copies thereof."
+      },
+      {
+        "span_id": 8,
+        "text": "Except as set forth below, \"Confidential Information\" shall mean and include any financial, operational, technical and other information relating to the present and future businesses and affairs of the party disclosing the information (the \"Disclosing Party\"), which information is provided to the other party (the \"Receiving Party\") in connection with the business relationship provided in written, oral, graphic, pictorial or recorded form or stored on computer discs, hard drives, magnetic tape or digital or any other electronic medium (it being understood that oral communications will be confirmed in writing within three (3) working days). "
+      },
+      {
+        "span_id": 28,
+        "text": "For purposes of this Agreement, the term \"Affiliate\" shall mean any Person that, directly or indirectly, through one or more intermediaries, controls or is controlled by, or is under common control with, the Person specified. "
+      },
+      {
+        "span_id": 40,
+        "text": "Neither party hereto shall publicly announce or otherwise disclose, without the prior written consent of the other, any proposed terms of or that discussions relating to the Transaction are taking place except for such disclosure as the party seeking to make disclosure has been advised by its legal counsel is required by law, in which case the party seeking to make disclosure shall provide the other party with as much prior notice of such announcement or disclosure (including the proposed text of such announcement or disclosure) as is reasonably possible under the circumstances (and attempt in good faith to obtain such other party's concurrence with the manner and extent of such disclosure)."
+      },
+      {
+        "span_id": 33,
+        "text": "The Receiving Party agrees to treat the Confidential Information with at least the degree of care that it treats similar materials of its own, or a higher standard of care if reasonable under the circumstances."
+      },
+      {
+        "span_id": 46,
+        "text": "The Company and Plasma-Therm agree that, without the prior written consent of the other, it will not, for a period of six months after the date of this agreement, solicit, attempt to divert or entice away or knowingly hire any person who is an employee of the other or any of its Affiliates on the date of this agreement."
+      },
+      {
+        "span_id": 11,
+        "text": "(b) prior to disclosure hereunder is within the possession of the Receiving Party, and was obtained by the Receiving Party from a source not under obligation not to disclose such information or any of its Representatives as defined below."
+      },
+      {
+        "span_id": 14,
+        "text": "(e) is required to be produced by the receiving party under order of a court of competent jurisdiction or a valid administrative or congressional subpoena; PROVIDED, HOWEVER, that upon issuance of any such order or subpoena, the Receiving Party shall promptly notify the Disclosing Party and shall provide the Disclosing Party with an opportunity (if then available) to contest the propriety of such order or subpoena (or to arrange for appropriate safeguards against any further disclosure by the court or administrative or congressional body seeking to compel disclosure of such Confidential Information)."
+      }
+    ],
+    "candidate_span_ids": [
+      50,
+      37,
+      43,
+      27,
+      34,
+      8,
+      28,
+      40,
+      33,
+      46,
+      11,
+      14
+    ],
+    "gold_positive_span_ids": [
+      40
+    ],
+    "policy_text": "Rank clause spans by how directly they determine the final contract label for the hypothesis. Gold evidence clauses must appear before confusable but non-evidence clauses."
+  }
+}
