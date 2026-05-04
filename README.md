@@ -127,19 +127,3 @@ The kit ships with **60 tasks pre-generated** (`contractnli` +
 SemBench-Hard maintainer runs `python scripts/build_tasks.py` from
 inside their main repo (where `code/benchmarks/` is available) and
 copies the output `tasks/` into this kit before distributing.
-
----
-
-## Reproducing the paper (Table 18)
-
-The paper reports:
-
-| Audit item | Result |
-| --- | --- |
-| Task naturalness ≥4 | 87% |
-| Verifier–annotator agreement | 92% |
-| Cohen's κ (annotator pair, mean) | 0.78 |
-| Retained disagreements | 8% |
-
-`scripts/aggregate.py` prints these exact numbers in the same
-format once you have at least two annotator response files.
